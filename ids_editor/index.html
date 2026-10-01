@@ -1,0 +1,844 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Words Collection — IDS editor</title>
+  <style>
+    :root {
+      color-scheme: light;
+      --paper: #f4efe5;
+      --panel: #faf7f0;
+      --ink: #201f1c;
+      --muted: #777168;
+      --line: #d9d1c3;
+      --accent: #3c5145;
+      --focus: #54745f;
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      color: var(--ink);
+      background: var(--paper);
+      font: 15px/1.45 Georgia, "Times New Roman", serif;
+    }
+
+    button, input, select, textarea {
+      color: inherit;
+      font: inherit;
+    }
+
+    button, select, input[type="search"], input[type="text"] {
+      border: 1px solid var(--line);
+      background: var(--panel);
+      border-radius: 4px;
+      padding: 9px 11px;
+    }
+
+    button { cursor: pointer; }
+    button:hover { border-color: var(--accent); }
+    button:focus-visible, input:focus-visible, select:focus-visible,
+    textarea:focus-visible {
+      outline: 2px solid var(--focus);
+      outline-offset: 2px;
+    }
+
+    .topbar {
+      height: 72px;
+      padding: 0 30px;
+      border-bottom: 1px solid var(--line);
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 20px;
+    }
+
+    .brand { font-size: 20px; letter-spacing: -.03em; }
+    .brand small {
+      display: block;
+      color: var(--muted);
+      font: 12px/1.4 Arial, sans-serif;
+      letter-spacing: .02em;
+    }
+
+    .actions, .filters, .entry-nav {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      flex-wrap: wrap;
+    }
+
+    .primary {
+      color: var(--panel);
+      background: var(--ink);
+      border-color: var(--ink);
+    }
+
+    .shell {
+      min-height: calc(100vh - 112px);
+      display: grid;
+      grid-template-columns: 250px minmax(0, 1fr);
+    }
+
+    aside {
+      padding: 24px 16px;
+      border-right: 1px solid var(--line);
+    }
+
+    .side-title {
+      margin: 0 8px 14px;
+      color: var(--muted);
+      font: 11px Arial, sans-serif;
+      letter-spacing: .12em;
+      text-transform: uppercase;
+    }
+
+    .chapter-search {
+      width: 100%;
+      margin-bottom: 10px;
+    }
+
+    #chapterList {
+      display: grid;
+      gap: 3px;
+      max-height: calc(100vh - 210px);
+      overflow: auto;
+    }
+
+    .chapter {
+      width: 100%;
+      text-align: left;
+      border: 0;
+      background: transparent;
+      padding: 10px 9px;
+      display: flex;
+      justify-content: space-between;
+      gap: 10px;
+      color: var(--ink);
+    }
+
+    .chapter:hover, .chapter.active { background: #e9e2d5; }
+    .chapter .name { overflow: hidden; text-overflow: ellipsis; }
+    .chapter .count {
+      color: var(--muted);
+      font: 12px Arial, sans-serif;
+    }
+
+    main { min-width: 0; padding: 28px 34px 40px; }
+
+    .filters {
+      padding-bottom: 18px;
+      border-bottom: 1px solid var(--line);
+    }
+
+    #search { width: min(360px, 100%); }
+    .filters select { min-width: 145px; }
+
+    .result-line {
+      margin: 14px 0 22px;
+      color: var(--muted);
+      font: 12px Arial, sans-serif;
+    }
+
+    .workspace {
+      display: grid;
+      grid-template-columns: minmax(230px, 310px) minmax(0, 1fr);
+      gap: 28px;
+    }
+
+    .entry-list {
+      max-height: calc(100vh - 260px);
+      overflow: auto;
+      border-top: 1px solid var(--line);
+    }
+
+    .entry-item {
+      width: 100%;
+      display: block;
+      text-align: left;
+      border: 0;
+      border-bottom: 1px solid var(--line);
+      border-radius: 0;
+      background: transparent;
+      padding: 14px 10px;
+    }
+
+    .entry-item:hover, .entry-item.active { background: #e9e2d5; }
+    .entry-item .entry-id {
+      display: block;
+      color: var(--muted);
+      font: 11px Arial, sans-serif;
+      margin-bottom: 4px;
+    }
+
+    .entry-item .entry-label {
+      display: block;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+
+    .editor {
+      min-width: 0;
+      background: var(--panel);
+      border: 1px solid var(--line);
+      border-radius: 5px;
+      padding: 24px;
+    }
+
+    .editor-head {
+      display: flex;
+      align-items: flex-start;
+      justify-content: space-between;
+      gap: 16px;
+      padding-bottom: 18px;
+      border-bottom: 1px solid var(--line);
+    }
+
+    h1 { margin: 0; font-size: 25px; font-weight: normal; }
+    .crumb { color: var(--muted); font: 12px Arial, sans-serif; margin-bottom: 7px; }
+    .entry-code {
+      color: var(--muted);
+      font: 12px Arial, sans-serif;
+      white-space: nowrap;
+    }
+
+    .tabs {
+      display: flex;
+      gap: 18px;
+      margin: 18px 0 20px;
+      border-bottom: 1px solid var(--line);
+    }
+
+    .tab {
+      border: 0;
+      border-radius: 0;
+      background: transparent;
+      padding: 0 1px 10px;
+      color: var(--muted);
+      font: 11px Arial, sans-serif;
+      letter-spacing: .08em;
+    }
+
+    .tab.active {
+      color: var(--ink);
+      border-bottom: 2px solid var(--ink);
+    }
+
+    .field-label {
+      display: block;
+      color: var(--muted);
+      font: 11px Arial, sans-serif;
+      letter-spacing: .09em;
+      margin: 0 0 8px;
+      text-transform: uppercase;
+    }
+
+    textarea {
+      display: block;
+      width: 100%;
+      min-height: 120px;
+      resize: vertical;
+      border: 1px solid var(--line);
+      border-radius: 4px;
+      background: #fffdf8;
+      padding: 13px;
+      line-height: 1.55;
+    }
+
+    .field-help {
+      color: var(--muted);
+      font: 12px Arial, sans-serif;
+      margin-top: 8px;
+    }
+
+    .meta {
+      margin-top: 24px;
+      padding-top: 18px;
+      border-top: 1px solid var(--line);
+      color: var(--muted);
+      font: 12px Arial, sans-serif;
+    }
+
+    .empty {
+      padding: 30px 10px;
+      color: var(--muted);
+    }
+
+    footer {
+      height: 40px;
+      border-top: 1px solid var(--line);
+      padding: 0 20px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      color: var(--muted);
+      font: 11px Arial, sans-serif;
+    }
+
+    #fileInput { display: none; }
+
+    @media (max-width: 800px) {
+      .topbar { height: auto; padding: 16px; align-items: flex-start; }
+      .shell { grid-template-columns: 1fr; }
+      aside { border-right: 0; border-bottom: 1px solid var(--line); padding: 14px; }
+      #chapterList {
+        display: flex;
+        max-height: none;
+        overflow-x: auto;
+      }
+      .chapter { width: auto; flex: 0 0 auto; }
+      main { padding: 20px 14px; }
+      .workspace { grid-template-columns: 1fr; }
+      .entry-list { max-height: 230px; }
+      .editor { padding: 17px; }
+    }
+  </style>
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">
+      Words Collection
+      <small>IDS-aligned lexical database · <span id="fileLabel">No file loaded</span></small>
+    </div>
+    <div class="actions">
+      <button id="openButton">Open JSON</button>
+      <button id="saveButton">Download JSON</button>
+      <button id="exportButton" class="primary">Export CSV / TSV</button>
+      <input id="fileInput" type="file" accept=".json,application/json">
+    </div>
+  </header>
+
+  <div class="shell">
+    <aside>
+      <div class="side-title">Chapters</div>
+      <input id="chapterSearch" class="chapter-search" type="search"
+             placeholder="Find a chapter…" aria-label="Find a chapter">
+      <nav id="chapterList" aria-label="Chapter filters"></nav>
+    </aside>
+
+    <main>
+      <div class="filters">
+        <input id="search" type="search" placeholder="Search entries…"
+               aria-label="Search entries">
+        <select id="completeness" aria-label="Filter by completeness">
+          <option value="all">All entries</option>
+          <option value="missing">Missing fields</option>
+          <option value="complete">Complete entries</option>
+        </select>
+        <select id="sort" aria-label="Sort entries">
+          <option value="id">Sort by ID</option>
+          <option value="en">Sort by English</option>
+        </select>
+      </div>
+
+      <div class="result-line" id="resultCount"></div>
+
+      <div class="workspace">
+        <section>
+          <div class="side-title">Entries</div>
+          <div id="entryList" class="entry-list"></div>
+        </section>
+
+        <section id="editorArea"></section>
+      </div>
+    </main>
+  </div>
+
+  <footer>
+    <span id="status">Open a JSON file to begin.</span>
+    <span>JSON structure: chapter → entry</span>
+  </footer>
+<script src="app.js" defer></script>
+
+<!--   <script>
+    const FIELDS = ["en", "fr", "es", "yaq"];
+    const FIELD_NAMES = { en: "English", fr: "French", es: "Spanish", yaq: "Yaq" };
+
+    let data = { words_collection: {} };
+    let fileName = "words.json";
+    let selectedChapter = "all";
+    let selectedId = null;
+    let activeField = "en";
+    let dirty = false;
+
+    const $ = (id) => document.getElementById(id);
+
+    function getCollection() {
+      return data.words_collection || {};
+    }
+    function renderChapters() {
+    const list = $("chapterList");
+    const query = $("chapterSearch").value.trim().toLocaleLowerCase();
+    const collection = getCollection();
+
+    list.replaceChildren();
+
+    const allButton = document.createElement("button");
+    allButton.className = `chapter ${selectedChapter === "all" ? "active" : ""}`;
+    allButton.innerHTML = `
+      <span class="name">All chapters</span>
+      <span class="count">${allEntries().length}</span>`;
+    allButton.onclick = () => {
+      selectedChapter = "all";
+      render();
+    };
+    list.append(allButton);
+
+    // Show catalogue chapters, including ones with no entries yet.
+    const chapterRows = chapters.length
+      ? chapters
+      : Object.keys(collection).map(category => ({
+          category,
+          name: "Unlisted chapter",
+          element_count: null
+        }));
+
+    for (const chapter of chapterRows) {
+      if (!chapter.name.toLocaleLowerCase().includes(query)) continue;
+
+      const actual = Object.keys(collection[chapter.category] || {}).length;
+      const expected = Number.isFinite(chapter.element_count)
+        ? chapter.element_count
+        : "—";
+
+      const button = document.createElement("button");
+      button.className =
+        `chapter ${selectedChapter === chapter.category ? "active" : ""}`;
+
+      const name = document.createElement("span");
+      name.className = "name";
+      name.textContent = chapter.name;
+      name.title = chapter.name;
+
+      const count = document.createElement("span");
+      count.className = "count";
+      count.textContent = `${actual} / ${expected}`;
+
+      button.append(name, count);
+      button.onclick = () => {
+        selectedChapter = chapter.category;
+        render();
+      };
+      list.append(button);
+    }}
+
+      function allEntries() {
+        const entries = [];
+        for (const [groupId, group] of Object.entries(getCollection())) {
+          for (const [elementId, fields] of Object.entries(group || {})) {
+            entries.push({
+              groupId,
+              elementId,
+              id: `${groupId}.${elementId}`,
+              fields: normalizeFields(fields)
+            });
+          }
+        }
+        return entries;
+      }
+
+      function normalizeFields(fields = {}) {
+        return {
+          en: fields.en ?? "",
+          fr: fields.fr ?? "",
+          es: fields.es ?? "",
+          yaq: fields.yaq ?? "X"
+        };
+      }
+
+      function setDirty() {
+        dirty = true;
+        $("status").textContent = "Unsaved changes";
+      }
+
+      function getVisibleEntries() {
+        const query = $("search").value.trim().toLocaleLowerCase();
+        const completeness = $("completeness").value;
+        const sortBy = $("sort").value;
+
+        let entries = allEntries().filter((entry) => {
+          if (selectedChapter !== "all" && entry.groupId !== selectedChapter) {
+            return false;
+          }
+
+          const values = [entry.id, ...FIELDS.map((field) => entry.fields[field])];
+          if (query && !values.join(" ").toLocaleLowerCase().includes(query)) {
+            return false;
+          }
+
+          const complete = FIELDS.every((field) => {
+            const value = entry.fields[field].trim();
+            return value !== "" && value !== "X";
+          });
+
+          if (completeness === "missing" && complete) return false;
+          if (completeness === "complete" && !complete) return false;
+          return true;
+        });
+
+        entries.sort((a, b) => sortBy === "en"
+          ? a.fields.en.localeCompare(b.fields.en)
+          : a.id.localeCompare(b.id, undefined, { numeric: true }));
+
+        return entries;
+      }
+       async function loadChapters() {
+    const response = await fetch("./chapters.json");
+    if (!response.ok) {
+      throw new Error(`Could not load chapters.json (${response.status})`);
+    }
+
+    const rows = await response.json();
+    if (!Array.isArray(rows)) {
+      throw new Error("chapters.json must contain an array.");
+    }
+
+    chapters = rows.map((row, index) => ({
+      category: String(row.category).trim().padStart(2, "0"),
+      name: String(row.name).trim(),
+      element_count: Number(row.element_count)
+    }));
+
+    if (chapters.some(c => !c.category || !c.name || !Number.isFinite(c.element_count))) {
+      throw new Error("Each chapter needs a category, name, and element count.");
+    }}
+      function renderChapters() {
+        const list = $("chapterList");
+        const query = $("chapterSearch").value.trim().toLocaleLowerCase();
+        const collection = getCollection();
+        const chapters = Object.keys(collection).map((groupId) => {
+          const count = Object.keys(collection[groupId] || {}).length;
+          return { groupId, name: getChapterName(groupId), count };
+        }).filter((chapter) => chapter.name.toLocaleLowerCase().includes(query));
+
+        list.replaceChildren();
+
+        const all = document.createElement("button");
+        all.className = `chapter ${selectedChapter === "all" ? "active" : ""}`;
+        all.innerHTML = `<span class="name">All chapters</span><span class="count">${allEntries().length}</span>`;
+        all.onclick = () => {
+          selectedChapter = "all";
+          render();
+        };
+        list.append(all);
+
+        for (const chapter of chapters) {
+          const button = document.createElement("button");
+          button.className = `chapter ${selectedChapter === chapter.groupId ? "active" : ""}`;
+          button.innerHTML = `<span class="name"></span><span class="count">${chapter.count}</span>`;
+          button.querySelector(".name").textContent = chapter.name;
+          button.title = chapter.name;
+          button.onclick = () => {
+            selectedChapter = chapter.groupId;
+            render();
+          };
+          list.append(button);
+        }
+      }
+
+      function renderEntries() {
+        const list = $("entryList");
+        const entries = getVisibleEntries();
+        $("resultCount").textContent = `${entries.length} ${entries.length === 1 ? "entry" : "entries"}`;
+
+        list.replaceChildren();
+        if (!entries.length) {
+          list.innerHTML = '<div class="empty">No matching entries.</div>';
+          $("editorArea").innerHTML = '<div class="empty">Select an entry to edit.</div>';
+          return;
+        }
+
+        for (const entry of entries) {
+          const button = document.createElement("button");
+          button.className = `entry-item ${entry.id === selectedId ? "active" : ""}`;
+          button.innerHTML = '<span class="entry-id"></span><span class="entry-label"></span>';
+          button.querySelector(".entry-id").textContent = entry.id;
+          button.querySelector(".entry-label").textContent =
+            entry.fields.en || entry.fields.fr || entry.fields.es || "Untitled entry";
+          button.onclick = () => {
+            selectedId = entry.id;
+            renderEntries();
+          };
+          list.append(button);
+        }
+
+        if (!entries.some((entry) => entry.id === selectedId)) {
+          selectedId = entries[0].id;
+        }
+        renderEditor(entries.find((entry) => entry.id === selectedId));
+      }
+
+      function renderEditor(entry) {
+        if (!entry) {
+          $("editorArea").innerHTML = '<div class="empty">Select an entry to edit.</div>';
+          return;
+        }
+
+        const area = $("editorArea");
+        const title = entry.fields.en || entry.fields.fr || "Untitled entry";
+
+        area.innerHTML = `
+          <div class="editor">
+            <div class="editor-head">
+              <div>
+                <div class="crumb"></div>
+                <h1></h1>
+              </div>
+              <div class="entry-nav">
+                <span class="entry-code"></span>
+                <button id="prevEntry" aria-label="Previous entry">←</button>
+                <button id="nextEntry" aria-label="Next entry">→</button>
+              </div>
+            </div>
+            <div class="tabs" role="tablist" aria-label="Language fields"></div>
+            <label class="field-label" id="fieldLabel" for="fieldEditor"></label>
+            <textarea id="fieldEditor" spellcheck="false"></textarea>
+            <div class="field-help">Separate multiple forms with commas. Changes are saved when you download the JSON.</div>
+            <div class="meta">Chapter: <span id="chapterMeta"></span></div>
+          </div>`;
+
+        area.querySelector(".crumb").textContent =
+          `${getChapterName(entry.groupId)} / Entry`;
+        area.querySelector("h1").textContent = title;
+        area.querySelector(".entry-code").textContent = entry.id;
+        area.querySelector("#chapterMeta").textContent =
+          `${getChapterName(entry.groupId)} (${entry.groupId})`;
+
+        const tabs = area.querySelector(".tabs");
+        for (const field of FIELDS) {
+          const button = document.createElement("button");
+          button.className = `tab ${activeField === field ? "active" : ""}`;
+          button.textContent = field.toUpperCase();
+          button.setAttribute("role", "tab");
+          button.setAttribute("aria-selected", String(activeField === field));
+          button.onclick = () => {
+            activeField = field;
+            renderEditor(entry);
+          };
+          tabs.append(button);
+        }
+
+        area.querySelector("#fieldLabel").textContent = FIELD_NAMES[activeField];
+        const textarea = area.querySelector("#fieldEditor");
+        textarea.value = entry.fields[activeField];
+        textarea.oninput = () => {
+          const group = getCollection()[entry.groupId];
+          group[entry.elementId][activeField] = textarea.value;
+          setDirty();
+          const heading = area.querySelector("h1");
+          if (activeField === "en") heading.textContent = textarea.value || "Untitled entry";
+          renderEntriesListOnly();
+        };
+
+        const entries = getVisibleEntries();
+        const index = entries.findIndex((item) => item.id === entry.id);
+        area.querySelector("#prevEntry").disabled = index <= 0;
+        area.querySelector("#nextEntry").disabled = index >= entries.length - 1;
+        area.querySelector("#prevEntry").onclick = () => selectAt(index - 1, entries);
+        area.querySelector("#nextEntry").onclick = () => selectAt(index + 1, entries);
+      }
+
+      function renderEntriesListOnly() {
+        const selected = selectedId;
+        const list = $("entryList");
+        const entries = getVisibleEntries();
+        list.replaceChildren();
+        for (const entry of entries) {
+          const button = document.createElement("button");
+          button.className = `entry-item ${entry.id === selected ? "active" : ""}`;
+          button.innerHTML = '<span class="entry-id"></span><span class="entry-label"></span>';
+          button.querySelector(".entry-id").textContent = entry.id;
+          button.querySelector(".entry-label").textContent =
+            entry.fields.en || entry.fields.fr || entry.fields.es || "Untitled entry";
+          button.onclick = () => {
+            selectedId = entry.id;
+            renderEntries();
+          };
+          list.append(button);
+        }
+      }
+
+      function selectAt(index, entries) {
+        if (index >= 0 && index < entries.length) {
+          selectedId = entries[index].id;
+          renderEntries();
+        }
+      }
+
+      function render() {
+        renderChapters();
+        renderEntries();
+        $("fileLabel").textContent = fileName;
+      }
+
+      function download(content, name, type) {
+        const blob = new Blob([content], { type });
+        const link = document.createElement("a");
+        link.href = URL.createObjectURL(blob);
+        link.download = name;
+        link.click();
+        URL.revokeObjectURL(link.href);
+      }
+
+      function saveJson() {
+        download(JSON.stringify(data, null, 2) + "\n", fileName, "application/json");
+        dirty = false;
+        $("status").textContent = "JSON downloaded";
+      }
+
+      function csvCell(value, delimiter) {
+        const text = String(value ?? "");
+        return /["\r\n]/.test(text) || text.includes(delimiter)
+          ? `"${text.replaceAll('"', '""')}"`
+          : text;
+      }
+
+      function exportDelimited(delimiter, extension) {
+        const rows = [["id", "group_id", "element_id", ...FIELDS]];
+        for (const entry of getVisibleEntries()) {
+          rows.push([
+            entry.id,
+            entry.groupId,
+            entry.elementId,
+            ...FIELDS.map((field) => entry.fields[field])
+          ]);
+        }
+        const content = rows
+          .map((row) => row.map((cell) => csvCell(cell, delimiter)).join(delimiter))
+          .join("\r\n");
+        download("\uFEFF" + content, `words.${extension}`, "text/plain;charset=utf-8");
+        $("status").textContent = `${extension.toUpperCase()} exported`;
+      }
+
+      function openJsonFile(file) {
+        const reader = new FileReader();
+        reader.onload = () => {
+          try {
+            const parsed = JSON.parse(reader.result);
+            data = convertToGrouped(parsed);
+            fileName = file.name;
+            selectedChapter = "all";
+            selectedId = null;
+            dirty = false;
+            $("status").textContent = "JSON loaded";
+            render();
+          } catch (error) {
+            alert(`Could not load JSON: ${error.message}`);
+          }
+        };
+        reader.readAsText(file);
+      }
+
+      function convertToGrouped(parsed) {
+        // Accept grouped JSON as-is.
+        if (parsed?.words_collection && !Array.isArray(parsed.words_collection)) {
+          return parsed;
+        }
+
+        // Also accept the earlier flat JSON array format.
+        const rows = Array.isArray(parsed) ? parsed : parsed?.words_collection;
+        if (!Array.isArray(rows)) {
+          throw new Error("Expected a grouped words_collection object or a JSON array.");
+        }
+
+        const result = {
+          words_collection: {},
+          ...(parsed && !Array.isArray(parsed) ? { chapter_names: parsed.chapter_names || {} } : {})
+        };
+
+        for (const row of rows) {
+          const id = String(row.id || `${row.group_id}.${row.element_id}`);
+          const match = id.match(/^(\d+)\.(\d+)$/);
+          if (!match) throw new Error(`Invalid entry ID: ${id}`);
+
+          const [, groupId, elementId] = match;
+          result.words_collection[groupId] ??= {};
+          result.words_collection[groupId][elementId] = normalizeFields(row);
+        }
+
+        return result;
+      }
+
+      $("openButton").onclick = () => $("fileInput").click();
+      $("fileInput").onchange = (event) => {
+        const file = event.target.files[0];
+        if (file) openJsonFile(file);
+        event.target.value = "";
+      };
+      $("saveButton").onclick = saveJson;
+      $("exportButton").onclick = () => {
+        const choice = prompt("Export as CSV or TSV?", "CSV");
+        if (!choice) return;
+        const format = choice.trim().toLowerCase();
+        if (format === "csv") exportDelimited(",", "csv");
+        else if (format === "tsv") exportDelimited("\t", "tsv");
+        else alert("Enter CSV or TSV.");
+      };
+
+      $("search").oninput = renderEntries;
+      $("completeness").onchange = renderEntries;
+      $("sort").onchange = renderEntries;
+      $("chapterSearch").oninput = renderChapters;
+
+      // Start with a tiny example so the interface can be explored immediately.
+      let chapters = [];
+      data = {
+        chapter_names: {},
+        words_collection: {
+          "06": {
+            "570": {
+              en: "belt, girdle",
+              fr: "ceinture, gaine",
+              es: "cinturón, faja",
+              yaq: "faájam, wikósa, tomjísumiam"
+            }
+          },
+          "08": {
+            "660": { en: "acorn", fr: "gland", es: "bellota", yaq: "X" }
+          }
+        }
+      };
+      fileName = "sample.json";
+      $("chaptersButton").onclick = () => $("chaptersInput").click();
+      $("chaptersInput").onchange = async (event) => {
+    const file = event.target.files[0];
+    if (!file) return;
+
+    try {
+      const parsed = JSON.parse(await file.text());
+
+      if (!Array.isArray(parsed)) {
+        throw new Error("Expected chapters.json to contain an array.");
+      }
+
+      chapters = parsed.map((row, index) => {
+        const category = String(row.category ?? "").trim().padStart(2, "0");
+        const name = String(row.name ?? "").trim();
+        const elementCount = Number(row.element_count);
+
+        if (!category || !name || !Number.isFinite(elementCount)) {
+          throw new Error(
+            `Chapter row ${index + 1} needs category, name, and element_count.`
+          );
+        }
+
+        return {
+          category,
+          name,
+          element_count: elementCount
+        };
+      });
+
+      $("status").textContent = `Loaded ${chapters.length} chapters`;
+      render();
+    } catch (error) {
+      alert(`Could not load chapters.json: ${error.message}`);
+    } finally {
+      event.target.value = "";
+    }};render();
+  </script> -->
+</body>
+</html>

@@ -172,3 +172,12 @@ SFX Fe 0 e [^aeiou] .
 # Free variant i (bwis -> bwisi)
 SFX Fi N 1
 SFX Fi 0 i [^aeiou] .
+
+# -tau / -tawi: dative (= -ta + -u / -wi). -tawi is archaic but kept valid.
+SFX Dt N 2
+SFX Dt 0 tau  . is:DAT
+SFX Dt 0 tawi . is:DAT
+
+# -po: locative "in/on/at" (REPLACES the provisional Lo gloss; same rule)
+SFX Lo N 1
+SFX Lo 0 po . is:LOC

@@ -1,0 +1,7908 @@
+{
+  "words_collection": {
+    "12": {
+      "080": {
+        "en": "up, above",
+        "fr": "sur, là-haut, là dessus",
+        "es": "arriba",
+        "yaq": "X"
+      },
+      "010": {
+        "en": "after",
+        "fr": "après",
+        "es": "después",
+        "yaq": "X"
+      },
+      "830": {
+        "en": "sphere, ball",
+        "fr": "sphère, ballon",
+        "es": "pelota, esfera, globo",
+        "yaq": "pelo’otam, bómba"
+      },
+      "040": {
+        "en": "before",
+        "fr": "avant, devant",
+        "es": "delante, antes de",
+        "yaq": "béwichi, bíchapo"
+      },
+      "011": {
+        "en": "behind",
+        "fr": "derrière",
+        "es": "atrás,  detrás",
+        "yaq": "amápo"
+      },
+      "030": {
+        "en": "below, down",
+        "fr": "en bas,  là-bas",
+        "es": "abajo",
+        "yaq": "betúku, betúkuni"
+      },
+      "020": {
+        "en": "beside",
+        "fr": "à côté de",
+        "es": "al lado de",
+        "yaq": "chaká’aku"
+      },
+      "550": {
+        "en": "large, big",
+        "fr": "grand, gros",
+        "es": "grande",
+        "yaq": "bwé’u"
+      },
+      "353": {
+        "en": "border, edge",
+        "fr": "bord, orée",
+        "es": "borde, orilla, margen",
+        "yaq": "mayoá"
+      },
+      "340": {
+        "en": "bottom",
+        "fr": "fond",
+        "es": "fondo",
+        "yaq": "betúkria"
+      },
+      "610": {
+        "en": "wide, broad",
+        "fr": "large",
+        "es": "ancho, amplio",
+        "yaq": "bweéka"
+      },
+      "370": {
+        "en": "middle, center",
+        "fr": "milieu, centre",
+        "es": "medio, centro",
+        "yaq": "nasúku, séntro"
+      },
+      "930": {
+        "en": "change",
+        "fr": "changer",
+        "es": "cambiar",
+        "yaq": "kambiároa"
+      },
+      "820": {
+        "en": "circle",
+        "fr": "cercle",
+        "es": "círculo",
+        "yaq": "X"
+      },
+      "250": {
+        "en": "shut, close",
+        "fr": "fermer",
+        "es": "cerrar",
+        "yaq": "éta"
+      },
+      "210": {
+        "en": "collect, gather",
+        "fr": "recueillir, rassembler",
+        "es": "recoger, reunir",
+        "yaq": "nau tója"
+      },
+      "270": {
+        "en": "hide, conceal",
+        "fr": "cacher, dissimuler",
+        "es": "esconder",
+        "yaq": "é’eria"
+      },
+      "760": {
+        "en": "corner",
+        "fr": "coin",
+        "es": "esquina, rincón",
+        "yaq": "kobí’iku"
+      },
+      "260": {
+        "en": "cover",
+        "fr": "couvrir",
+        "es": "cubrir",
+        "yaq": "X"
+      },
+      "740": {
+        "en": "crooked",
+        "fr": "courbe,  pas droit",
+        "es": "torcido",
+        "yaq": "X"
+      },
+      "770": {
+        "en": "cross",
+        "fr": "croix",
+        "es": "cruz",
+        "yaq": "kúus"
+      },
+      "670": {
+        "en": "deep",
+        "fr": "profond",
+        "es": "profundo,  hondo",
+        "yaq": "mékka kó’omi"
+      },
+      "232": {
+        "en": "divide",
+        "fr": "diviser",
+        "es": "divider",
+        "yaq": "na’ikimte"
+      },
+      "450": {
+        "en": "east",
+        "fr": "est,  orient",
+        "es": "este (punto cardinal)",
+        "yaq": "X"
+      },
+      "350": {
+        "en": "end",
+        "fr": "bout, extrêmité",
+        "es": "final",
+        "yaq": "X"
+      },
+      "440": {
+        "en": "far (adv)",
+        "fr": "loin",
+        "es": "lejos",
+        "yaq": "mékka"
+      },
+      "541": {
+        "en": "span, fathom",
+        "fr": "brasse",
+        "es": "braza",
+        "yaq": "X"
+      },
+      "710": {
+        "en": "flat",
+        "fr": "plat",
+        "es": "plano",
+        "yaq": "pú’ato"
+      },
+      "041": {
+        "en": "front",
+        "fr": "devant",
+        "es": "delantero, delante de",
+        "yaq": "X"
+      },
+      "530": {
+        "en": "grow",
+        "fr": "grandir, croitre, pousser",
+        "es": "crecer",
+        "yaq": "yó’otu"
+      },
+      "310": {
+        "en": "high",
+        "fr": "haut",
+        "es": "alto",
+        "yaq": "X"
+      },
+      "850": {
+        "en": "hole",
+        "fr": "trou",
+        "es": "agujero",
+        "yaq": "wojó’oria"
+      },
+      "750": {
+        "en": "hook",
+        "fr": "crochet",
+        "es": "gancho",
+        "yaq": "gáncho"
+      },
+      "050": {
+        "en": "inside, in",
+        "fr": "dans, dedans",
+        "es": "adentro",
+        "yaq": "wájiwa"
+      },
+      "220": {
+        "en": "join, unite",
+        "fr": "unir",
+        "es": "juntar",
+        "yaq": "nau tója"
+      },
+      "420": {
+        "en": "left (side)",
+        "fr": "gauche",
+        "es": "izquierda",
+        "yaq": "míkko’im"
+      },
+      "170": {
+        "en": "remains, left overs",
+        "fr": "reste",
+        "es": "sobras",
+        "yaq": "yeu bí’iria"
+      },
+      "140": {
+        "en": "lie down",
+        "fr": "se coucher",
+        "es": "acostarse,  echarse",
+        "yaq": "bó’ote"
+      },
+      "920": {
+        "en": "similar, like",
+        "fr": "comme, semblable",
+        "es": "semejante",
+        "yaq": "naná’ana"
+      },
+      "840": {
+        "en": "line",
+        "fr": "ligne,  rang",
+        "es": "línea",
+        "yaq": "X"
+      },
+      "560": {
+        "en": "small, little",
+        "fr": "petit",
+        "es": "chico, pequeño",
+        "yaq": "ilítchi"
+      },
+      "570": {
+        "en": "long",
+        "fr": "long",
+        "es": "largo",
+        "yaq": "teébe"
+      },
+      "320": {
+        "en": "low",
+        "fr": "bas",
+        "es": "bajo",
+        "yaq": "bétuku"
+      },
+      "540": {
+        "en": "measure",
+        "fr": "mesurer",
+        "es": "medir",
+        "yaq": "mediároa"
+      },
+      "620": {
+        "en": "narrow",
+        "fr": "étroit",
+        "es": "angosto,  estrecho",
+        "yaq": "ná’ulai"
+      },
+      "430": {
+        "en": "near (adv)",
+        "fr": "près",
+        "es": "cerca",
+        "yaq": "kaá mekka"
+      },
+      "470": {
+        "en": "north",
+        "fr": "nord",
+        "es": "norte",
+        "yaq": "ta’ata kom weché bétana"
+      },
+      "240": {
+        "en": "open",
+        "fr": "ouvrir",
+        "es": "abrir",
+        "yaq": "étapo"
+      },
+      "060": {
+        "en": "outside",
+        "fr": "dehors",
+        "es": "afuera,  exterior",
+        "yaq": "pá’akuni"
+      },
+      "212": {
+        "en": "pick up",
+        "fr": "ramasser",
+        "es": "recoger",
+        "yaq": "X"
+      },
+      "213": {
+        "en": "pile up",
+        "fr": "entasser",
+        "es": "amontonar",
+        "yaq": "nat wátta"
+      },
+      "110": {
+        "en": "place",
+        "fr": "endroit,  place, lieu",
+        "es": "lugar",
+        "yaq": "X"
+      },
+      "352": {
+        "en": "pointed",
+        "fr": "pointu",
+        "es": "puntiagudo",
+        "yaq": "X"
+      },
+      "120": {
+        "en": "put",
+        "fr": "mettre",
+        "es": "poner",
+        "yaq": "X"
+      },
+      "160": {
+        "en": "stay, remain",
+        "fr": "rester, demeurer, attendre",
+        "es": "quedar",
+        "yaq": "X"
+      },
+      "410": {
+        "en": "right (side)",
+        "fr": "droite",
+        "es": "derecha",
+        "yaq": "X"
+      },
+      "810": {
+        "en": "round",
+        "fr": "rond",
+        "es": "redondo",
+        "yaq": "X"
+      },
+      "230": {
+        "en": "separate",
+        "fr": "séparer",
+        "es": "separar,  apartar",
+        "yaq": "X"
+      },
+      "680": {
+        "en": "shallow",
+        "fr": "peu profond",
+        "es": "bajo, poco profundo",
+        "yaq": "X"
+      },
+      "590": {
+        "en": "short",
+        "fr": "court",
+        "es": "corto",
+        "yaq": "X"
+      },
+      "360": {
+        "en": "side",
+        "fr": "côté",
+        "es": "lado,  costado",
+        "yaq": "X"
+      },
+      "130": {
+        "en": "sit",
+        "fr": "s'asseoir",
+        "es": "sentar",
+        "yaq": "X"
+      },
+      "480": {
+        "en": "south",
+        "fr": "sud",
+        "es": "sur",
+        "yaq": "X"
+      },
+      "780": {
+        "en": "square",
+        "fr": "carré",
+        "es": "cuadrado",
+        "yaq": "X"
+      },
+      "150": {
+        "en": "stand",
+        "fr": "se tenir debout",
+        "es": "poner(se) de pie",
+        "yaq": "X"
+      },
+      "730": {
+        "en": "straight",
+        "fr": "droit",
+        "es": "derecho,  recto",
+        "yaq": "X"
+      },
+      "580": {
+        "en": "tall",
+        "fr": "grand",
+        "es": "alto",
+        "yaq": "X"
+      },
+      "630": {
+        "en": "thick (in dimension)",
+        "fr": "épais,  grossier",
+        "es": "grueso",
+        "yaq": "X"
+      },
+      "650": {
+        "en": "thin (in dimension)",
+        "fr": "mince",
+        "es": "delgado",
+        "yaq": "X"
+      },
+      "330": {
+        "en": "top",
+        "fr": "haut,  sommet",
+        "es": "cima",
+        "yaq": "X"
+      },
+      "070": {
+        "en": "under",
+        "fr": "dessous,  sous",
+        "es": "debajo",
+        "yaq": "X"
+      },
+      "460": {
+        "en": "west",
+        "fr": "ouest, occident",
+        "es": "oeste",
+        "yaq": "X"
+      }
+    },
+    "11": {
+      "660": {
+        "en": "reckoning, account",
+        "fr": "compte",
+        "es": "cuenta",
+        "yaq": "kuénta"
+      },
+      "540": {
+        "en": "stingy, avaricious",
+        "fr": "radin, avare",
+        "es": "avaro, mezquino",
+        "yaq": "námaka, tébae muúke"
+      },
+      "830": {
+        "en": "trade, barter",
+        "fr": "échange",
+        "es": "trocar",
+        "yaq": "nakúlia"
+      },
+      "530": {
+        "en": "beggar",
+        "fr": "mendiant",
+        "es": "mendigo",
+        "yaq": "póobe"
+      },
+      "620": {
+        "en": "borrow",
+        "fr": "emprunter",
+        "es": "pedir prestado",
+        "yaq": "réwe"
+      },
+      "810": {
+        "en": "buy",
+        "fr": "acheter",
+        "es": "comprar",
+        "yaq": "jínu"
+      },
+      "890": {
+        "en": "cheap",
+        "fr": "bon marché",
+        "es": "barato",
+        "yaq": "kaá béje’e"
+      },
+      "440": {
+        "en": "coin",
+        "fr": "pièce de monnaie",
+        "es": "moneda",
+        "yaq": "tómi"
+      },
+      "280": {
+        "en": "injure, harm, damage",
+        "fr": "endommager",
+        "es": "dañar, herir",
+        "yaq": "kó’okosi yaa, kó’okosi yáa"
+      },
+      "640": {
+        "en": "debt",
+        "fr": "dette",
+        "es": "deuda",
+        "yaq": "wikiriawáme"
+      },
+      "270": {
+        "en": "destroy",
+        "fr": "détruire",
+        "es": "destruir",
+        "yaq": "mójakta"
+      },
+      "910": {
+        "en": "share (distribute), distribute, share",
+        "fr": "partager",
+        "es": "repartir",
+        "yaq": "ná’ikimte"
+      },
+      "790": {
+        "en": "earn",
+        "fr": "gagner",
+        "es": "ganar (dinero)",
+        "yaq": "tómi yó’o"
+      },
+      "880": {
+        "en": "expensive, dear (costly)",
+        "fr": "cher",
+        "es": "caro    (costoso)",
+        "yaq": "béje’e"
+      },
+      "320": {
+        "en": "find",
+        "fr": "trouver",
+        "es": "encontrar,  hallar",
+        "yaq": "teá"
+      },
+      "160": {
+        "en": "obtain, get",
+        "fr": "obtenir",
+        "es": "obtener",
+        "yaq": "X"
+      },
+      "210": {
+        "en": "give",
+        "fr": "donner",
+        "es": "dar",
+        "yaq": "máka"
+      },
+      "220": {
+        "en": "return, give back",
+        "fr": "rendre",
+        "es": "devolver",
+        "yaq": "nótta"
+      },
+      "140": {
+        "en": "seize, grasp",
+        "fr": "saisir, attraper",
+        "es": "agarrar, empuñar, coger",
+        "yaq": "nú’e"
+      },
+      "110": {
+        "en": "have",
+        "fr": "avoir",
+        "es": "tener",
+        "yaq": "jíppue"
+      },
+      "770": {
+        "en": "hire",
+        "fr": "louer",
+        "es": "alquilar, emplear",
+        "yaq": "X"
+      },
+      "150": {
+        "en": "hold",
+        "fr": "tenir",
+        "es": "tener (en mano),  apoyar, asir",
+        "yaq": "X"
+      },
+      "170": {
+        "en": "retain, keep",
+        "fr": "garder, retenir",
+        "es": "conservar",
+        "yaq": "X"
+      },
+      "610": {
+        "en": "lend",
+        "fr": "prêter",
+        "es": "prestar",
+        "yaq": "reúwa"
+      },
+      "340": {
+        "en": "release, let go",
+        "fr": "libérer, décharger",
+        "es": "soltar",
+        "yaq": "sú’utoja"
+      },
+      "240": {
+        "en": "protect, look after, preserve",
+        "fr": "préserver",
+        "es": "conservar, proteger",
+        "yaq": "konserbároa"
+      },
+      "310": {
+        "en": "seek, look for",
+        "fr": "chercher",
+        "es": "buscar",
+        "yaq": "jaríwa"
+      },
+      "330": {
+        "en": "lose",
+        "fr": "perdre",
+        "es": "perder",
+        "yaq": "tá’aru"
+      },
+      "850": {
+        "en": "market (place)",
+        "fr": "marché",
+        "es": "Mercado",
+        "yaq": "merkaó, jíta áma nenénkiwa’u"
+      },
+      "840": {
+        "en": "merchant",
+        "fr": "marchand, commerçant",
+        "es": "comerciante",
+        "yaq": "jíta nenénkame"
+      },
+      "430": {
+        "en": "money",
+        "fr": "argent",
+        "es": "dinero",
+        "yaq": "tómi"
+      },
+      "630": {
+        "en": "owe",
+        "fr": "devoir",
+        "es": "deber",
+        "yaq": "jé’e"
+      },
+      "120": {
+        "en": "possess, own",
+        "fr": "posséder",
+        "es": "poseer",
+        "yaq": "jíppue"
+      },
+      "650": {
+        "en": "pay (vb)",
+        "fr": "payer",
+        "es": "pagar",
+        "yaq": "X"
+      },
+      "520": {
+        "en": "poor",
+        "fr": "pauvre",
+        "es": "pobre----póobe",
+        "yaq": "X"
+      },
+      "870": {
+        "en": "price",
+        "fr": "prix",
+        "es": "precio",
+        "yaq": "X"
+      },
+      "250": {
+        "en": "save, rescue",
+        "fr": "sauver",
+        "es": "salvar, salvar----salbároa",
+        "yaq": "X"
+      },
+      "510": {
+        "en": "rich",
+        "fr": "riche",
+        "es": "rico",
+        "yaq": "X"
+      },
+      "820": {
+        "en": "sell",
+        "fr": "vendre",
+        "es": "vender",
+        "yaq": "X"
+      },
+      "860": {
+        "en": "store, shop",
+        "fr": "boutique, magasin",
+        "es": "tienda",
+        "yaq": "X"
+      },
+      "130": {
+        "en": "take",
+        "fr": "prendre",
+        "es": "tomar",
+        "yaq": "X"
+      },
+      "690": {
+        "en": "tribute, tax",
+        "fr": "taxe, impôt",
+        "es": "impuesto, tributo",
+        "yaq": "X"
+      },
+      "180": {
+        "en": "thing",
+        "fr": "chose",
+        "es": "cosa",
+        "yaq": "X"
+      },
+      "780": {
+        "en": "wages",
+        "fr": "salaire",
+        "es": "salario, sueldo",
+        "yaq": "X"
+      },
+      "920": {
+        "en": "weigh",
+        "fr": "peser",
+        "es": "pesar",
+        "yaq": "X"
+      }
+    },
+    "21": {
+      "310": {
+        "en": "accuse",
+        "fr": "accuser",
+        "es": "acusar, denunciar",
+        "yaq": "renúnsiaroa"
+      },
+      "340": {
+        "en": "acquit",
+        "fr": "acquitter",
+        "es": "absolver,  exculpar",
+        "yaq": "X"
+      },
+      "430": {
+        "en": "adultery",
+        "fr": "adultère",
+        "es": "adulterio",
+        "yaq": "X"
+      },
+      "460": {
+        "en": "arson",
+        "fr": "incendie",
+        "es": "incendio premeditado",
+        "yaq": "táji"
+      },
+      "320": {
+        "en": "condemn",
+        "fr": "condamner",
+        "es": "condenar",
+        "yaq": "kondenároa"
+      },
+      "330": {
+        "en": "convict (vb)",
+        "fr": "inculper",
+        "es": "inculpar, condenar",
+        "yaq": "X"
+      },
+      "150": {
+        "en": "court",
+        "fr": "cour",
+        "es": "tribunal",
+        "yaq": "X"
+      },
+      "220": {
+        "en": "defendant",
+        "fr": "accusé",
+        "es": "acusado",
+        "yaq": "ná’ateori"
+      },
+      "380": {
+        "en": "fine",
+        "fr": "amende",
+        "es": "multa",
+        "yaq": "múlta"
+      },
+      "350": {
+        "en": "guilty",
+        "fr": "coupable",
+        "es": "culpable",
+        "yaq": "X"
+      },
+      "360": {
+        "en": "innocent",
+        "fr": "innocent",
+        "es": "inocente",
+        "yaq": "kaíta yá’ala"
+      },
+      "390": {
+        "en": "prison, jail",
+        "fr": "prison",
+        "es": "cárcel",
+        "yaq": "káasel-karsel"
+      },
+      "180": {
+        "en": "judge (noun)",
+        "fr": "juge",
+        "es": "juez",
+        "yaq": "X"
+      },
+      "160": {
+        "en": "judge (vb)",
+        "fr": "juger",
+        "es": "juzgar",
+        "yaq": "jusgároa"
+      },
+      "170": {
+        "en": "judgment",
+        "fr": "jugement",
+        "es": "juicio",
+        "yaq": "X"
+      },
+      "110": {
+        "en": "law",
+        "fr": "loi,  droit",
+        "es": "ley",
+        "yaq": "lei"
+      },
+      "420": {
+        "en": "murder",
+        "fr": "meurtre",
+        "es": "asesinar",
+        "yaq": "mé’a"
+      },
+      "250": {
+        "en": "oath",
+        "fr": "serment",
+        "es": "juramento",
+        "yaq": "X"
+      },
+      "370": {
+        "en": "punishment, penalty",
+        "fr": "punition",
+        "es": "castigo",
+        "yaq": "kajtíiko"
+      },
+      "470": {
+        "en": "perjury",
+        "fr": "parjure",
+        "es": "perjurio",
+        "yaq": "X"
+      },
+      "210": {
+        "en": "plaintiff",
+        "fr": "plaignant",
+        "es": "demandante",
+        "yaq": "X"
+      },
+      "440": {
+        "en": "rape",
+        "fr": "viol",
+        "es": "violación",
+        "yaq": "X"
+      },
+      "520": {
+        "en": "thief, robber",
+        "fr": "voleur",
+        "es": "ladrón, ladrón-----lakrón",
+        "yaq": "X"
+      },
+      "510": {
+        "en": "steal",
+        "fr": "voler, dérober",
+        "es": "robar",
+        "yaq": "X"
+      },
+      "240": {
+        "en": "swear",
+        "fr": "jurer",
+        "es": "jurar",
+        "yaq": "X"
+      },
+      "230": {
+        "en": "witness",
+        "fr": "témoin",
+        "es": "testigo",
+        "yaq": "X"
+      }
+    },
+    "15": {
+      "380": {
+        "en": "sour, acid",
+        "fr": "âpre, acide, aigre",
+        "es": "ácido, agrio",
+        "yaq": "X"
+      },
+      "260": {
+        "en": "stinking, bad smelling, odor",
+        "fr": "puant",
+        "es": "hediondo",
+        "yaq": "juba, jaiti maáchi, juúba"
+      },
+      "370": {
+        "en": "bitter",
+        "fr": "amer,  âpre",
+        "es": "amargo",
+        "yaq": "chiíbu"
+      },
+      "650": {
+        "en": "black",
+        "fr": "noir",
+        "es": "negro",
+        "yaq": "chúkuli"
+      },
+      "670": {
+        "en": "blue",
+        "fr": "bleu",
+        "es": "azul",
+        "yaq": "tóloko"
+      },
+      "390": {
+        "en": "brackish",
+        "fr": "saumâtre",
+        "es": "salobre",
+        "yaq": "chó’oko"
+      },
+      "570": {
+        "en": "bright",
+        "fr": "luisant, gai, vif",
+        "es": "brillante,  resplandor",
+        "yaq": "beójko"
+      },
+      "870": {
+        "en": "clean",
+        "fr": "propre",
+        "es": "limpio",
+        "yaq": "kaá jaiti maáchi"
+      },
+      "860": {
+        "en": "cold",
+        "fr": "froid",
+        "es": "frío",
+        "yaq": "sébe"
+      },
+      "610": {
+        "en": "color",
+        "fr": "couleur",
+        "es": "color",
+        "yaq": "yókia"
+      },
+      "830": {
+        "en": "wet, damp",
+        "fr": "humide",
+        "es": "mojado",
+        "yaq": "bá’ari"
+      },
+      "630": {
+        "en": "dark (in color)",
+        "fr": "sombre,  foncé",
+        "es": "oscuro",
+        "yaq": "kaá mamáchi"
+      },
+      "880": {
+        "en": "soiled, dirty",
+        "fr": "sale, crasseux",
+        "es": "sucio",
+        "yaq": "jaiti maáchi"
+      },
+      "840": {
+        "en": "dry",
+        "fr": "sec",
+        "es": "seco",
+        "yaq": "wakiá"
+      },
+      "790": {
+        "en": "dull, blunt",
+        "fr": "émoussé",
+        "es": "romo, embotado",
+        "yaq": "X"
+      },
+      "720": {
+        "en": "feel",
+        "fr": "sentir",
+        "es": "sentir",
+        "yaq": "eíya"
+      },
+      "250": {
+        "en": "odor, fragrant, good smelling",
+        "fr": "odorant, parfumé",
+        "es": "fragante",
+        "yaq": "winjúba"
+      },
+      "680": {
+        "en": "green",
+        "fr": "vert",
+        "es": "verde",
+        "yaq": "siáli"
+      },
+      "740": {
+        "en": "hard",
+        "fr": "dur",
+        "es": "duro",
+        "yaq": "námaka"
+      },
+      "410": {
+        "en": "hear",
+        "fr": "entendre",
+        "es": "oír",
+        "yaq": "jíkkaja"
+      },
+      "810": {
+        "en": "heavy",
+        "fr": "lourd",
+        "es": "pesado",
+        "yaq": "bétte"
+      },
+      "850": {
+        "en": "hot",
+        "fr": "chaud",
+        "es": "caliente",
+        "yaq": "táta"
+      },
+      "620": {
+        "en": "light (in color)",
+        "fr": "clair",
+        "es": "claro",
+        "yaq": "X"
+      },
+      "820": {
+        "en": "light (in weight)",
+        "fr": "léger",
+        "es": "liviano, ligero",
+        "yaq": "kaá bétte"
+      },
+      "420": {
+        "en": "listen",
+        "fr": "écouter",
+        "es": "escuchar",
+        "yaq": "jíkkaja"
+      },
+      "520": {
+        "en": "look, look at",
+        "fr": "regarder",
+        "es": "mirar, contemplar",
+        "yaq": "bítchu"
+      },
+      "450": {
+        "en": "loud",
+        "fr": "bruyant, retentissant",
+        "es": "alta (voz),  ruidoso",
+        "yaq": "X"
+      },
+      "440": {
+        "en": "sound, noise",
+        "fr": "son, bruit",
+        "es": "ruido, sonido",
+        "yaq": "jaíti jiía, jiáwai"
+      },
+      "712": {
+        "en": "pinch",
+        "fr": "pincer",
+        "es": "pellizcar",
+        "yaq": "kítta"
+      },
+      "460": {
+        "en": "silence, quiet",
+        "fr": "tranquille, silence",
+        "es": "silencio, tranquilo",
+        "yaq": "X"
+      },
+      "660": {
+        "en": "red",
+        "fr": "rouge",
+        "es": "rojo",
+        "yaq": "X"
+      },
+      "760": {
+        "en": "rough",
+        "fr": "rugueux,  rude",
+        "es": "áspero",
+        "yaq": "X"
+      },
+      "360": {
+        "en": "salty",
+        "fr": "salé",
+        "es": "salado",
+        "yaq": "X"
+      },
+      "510": {
+        "en": "see",
+        "fr": "voir",
+        "es": "ver",
+        "yaq": "X"
+      },
+      "780": {
+        "en": "sharp",
+        "fr": "tranchant,  aiguisé",
+        "es": "afilado,  aguzado, filoso",
+        "yaq": "X"
+      },
+      "560": {
+        "en": "shine",
+        "fr": "briller",
+        "es": "brillar",
+        "yaq": "X"
+      },
+      "550": {
+        "en": "show",
+        "fr": "montrer",
+        "es": "mostrar",
+        "yaq": "X"
+      },
+      "210": {
+        "en": "smell (vb intrans)",
+        "fr": "sentir",
+        "es": "oler, olfatear",
+        "yaq": "X"
+      },
+      "220": {
+        "en": "smell (vb trans)",
+        "fr": "sentir",
+        "es": "oler, olfatear",
+        "yaq": "X"
+      },
+      "770": {
+        "en": "smooth",
+        "fr": "lisse",
+        "es": "suave,  liso",
+        "yaq": "X"
+      },
+      "212": {
+        "en": "sniff",
+        "fr": "renifler",
+        "es": "husmear",
+        "yaq": "X"
+      },
+      "750": {
+        "en": "soft",
+        "fr": "doux",
+        "es": "suave",
+        "yaq": "X"
+      },
+      "350": {
+        "en": "sweet",
+        "fr": "sucré, doux",
+        "es": "dulce",
+        "yaq": "X"
+      },
+      "310": {
+        "en": "taste",
+        "fr": "goûter",
+        "es": "gustar, saborear",
+        "yaq": "X"
+      },
+      "710": {
+        "en": "touch",
+        "fr": "toucher",
+        "es": "tocar",
+        "yaq": "X"
+      },
+      "851": {
+        "en": "warm",
+        "fr": "tiède, chaud, réchauffer(se)",
+        "es": "tibio,  cálido",
+        "yaq": "X"
+      },
+      "640": {
+        "en": "white",
+        "fr": "blanc",
+        "es": "blanco",
+        "yaq": "X"
+      },
+      "890": {
+        "en": "wrinkled",
+        "fr": "ridé",
+        "es": "arrugado",
+        "yaq": "X"
+      },
+      "690": {
+        "en": "yellow",
+        "fr": "jaune",
+        "es": "amarillo",
+        "yaq": "X"
+      }
+    },
+    "08": {
+      "660": {
+        "en": "acorn",
+        "fr": "gland",
+        "es": "bellota;",
+        "yaq": "X"
+      },
+      "940": {
+        "en": "bamboo",
+        "fr": "bambou",
+        "es": "bambú",
+        "yaq": "X"
+      },
+      "840": {
+        "en": "banana tree",
+        "fr": "bananier",
+        "es": "plátano, banano",
+        "yaq": "pláatano"
+      },
+      "850": {
+        "en": "banyan",
+        "fr": "banyan",
+        "es": "baniano",
+        "yaq": "----------"
+      },
+      "750": {
+        "en": "bark",
+        "fr": "écorce",
+        "es": "corteza",
+        "yaq": "beéa"
+      },
+      "440": {
+        "en": "barley",
+        "fr": "orge",
+        "es": "cebada",
+        "yaq": "sebáada"
+      },
+      "620": {
+        "en": "beech",
+        "fr": "hêtre",
+        "es": "haya",
+        "yaq": "----------"
+      },
+      "630": {
+        "en": "birch",
+        "fr": "bouleau",
+        "es": "abedul",
+        "yaq": "----------"
+      },
+      "550": {
+        "en": "branch",
+        "fr": "branche,  rameau",
+        "es": "rama",
+        "yaq": "nassá’akaria"
+      },
+      "941": {
+        "en": "sugar cane, cane (sugar)",
+        "fr": "canne à sucre",
+        "es": "caña de azúcar",
+        "yaq": "X"
+      },
+      "920": {
+        "en": "tapioca, manioc, cassava",
+        "fr": "manioc",
+        "es": "mandioca, yuca",
+        "yaq": "X"
+      },
+      "830": {
+        "en": "citrus fruit",
+        "fr": "citrique",
+        "es": "cítrico",
+        "yaq": "X"
+      },
+      "820": {
+        "en": "coconut",
+        "fr": "noix de coco",
+        "es": "coco",
+        "yaq": "koóko"
+      },
+      "470": {
+        "en": "maize, corn",
+        "fr": "maïs",
+        "es": "maíz",
+        "yaq": "báchi"
+      },
+      "410": {
+        "en": "harvest, crop",
+        "fr": "moisson",
+        "es": "cosecha",
+        "yaq": "jipésuma’awame, jipésumai"
+      },
+      "150": {
+        "en": "till, cultivate",
+        "fr": "labourer",
+        "es": "cultivar, labrar",
+        "yaq": "eécha"
+      },
+      "220": {
+        "en": "dig",
+        "fr": "creuser,  piocher",
+        "es": "excavar, cavar",
+        "yaq": "jí’ibweje"
+      },
+      "170": {
+        "en": "ditch",
+        "fr": "fosse",
+        "es": "zanja",
+        "yaq": "sánja"
+      },
+      "110": {
+        "en": "farmer",
+        "fr": "fermier",
+        "es": "labrador, ranchero",
+        "yaq": "rancheó"
+      },
+      "160": {
+        "en": "fence",
+        "fr": "barrière",
+        "es": "cerco",
+        "yaq": "kóra"
+      },
+      "120": {
+        "en": "field (for cultivation)",
+        "fr": "champ",
+        "es": "campo de cultivo,  chacra",
+        "yaq": "X"
+      },
+      "650": {
+        "en": "fir",
+        "fr": "sapin, conifère",
+        "es": "abeto",
+        "yaq": "X"
+      },
+      "960": {
+        "en": "poison (root) fish, fish poison (root)",
+        "fr": "poison a poisson",
+        "es": "veneno  (raíz), barbasco",
+        "yaq": "pájti, jóyo"
+      },
+      "570": {
+        "en": "flower",
+        "fr": "fleur",
+        "es": "flor",
+        "yaq": "seéwa"
+      },
+      "260": {
+        "en": "fork",
+        "fr": "fourche, fourchette",
+        "es": "horqueta",
+        "yaq": "taká’aria"
+      },
+      "740": {
+        "en": "forked branch",
+        "fr": "branche fourchue, fourche",
+        "es": "rama bifurcada",
+        "yaq": "X"
+      },
+      "212": {
+        "en": "furrow",
+        "fr": "sillon",
+        "es": "surco",
+        "yaq": "súuko"
+      },
+      "130": {
+        "en": "garden",
+        "fr": "jardin",
+        "es": "jardín, huerto",
+        "yaq": "X"
+      },
+      "930": {
+        "en": "gourd",
+        "fr": "calebasse",
+        "es": "calabaza",
+        "yaq": "káabansam"
+      },
+      "420": {
+        "en": "grain (barley, oats etc)",
+        "fr": "grain, graine",
+        "es": "grano",
+        "yaq": "báchia"
+      },
+      "510": {
+        "en": "grass",
+        "fr": "herbe",
+        "es": "hierba, pasto",
+        "yaq": "báso"
+      },
+      "520": {
+        "en": "hay",
+        "fr": "foin",
+        "es": "heno,  paja",
+        "yaq": "X"
+      },
+      "250": {
+        "en": "hoe",
+        "fr": "houe",
+        "es": "azadón",
+        "yaq": "asaróonim"
+      },
+      "560": {
+        "en": "leaf",
+        "fr": "feuille",
+        "es": "hoja",
+        "yaq": "X"
+      },
+      "320": {
+        "en": "reap, mow",
+        "fr": "tondre, récolter",
+        "es": "segar, cosechar----kosechároa, cosechar",
+        "yaq": "X"
+      },
+      "980": {
+        "en": "mushroom",
+        "fr": "champignon",
+        "es": "hongo, seta",
+        "yaq": "X"
+      },
+      "970": {
+        "en": "nettle",
+        "fr": "ortie",
+        "es": "ortiga",
+        "yaq": "X"
+      },
+      "610": {
+        "en": "oak",
+        "fr": "chêne",
+        "es": "roble",
+        "yaq": "X"
+      },
+      "460": {
+        "en": "oats",
+        "fr": "avoine",
+        "es": "avena",
+        "yaq": "abéena"
+      },
+      "810": {
+        "en": "palm tree",
+        "fr": "palmier",
+        "es": "palmera",
+        "yaq": "X"
+      },
+      "640": {
+        "en": "pine",
+        "fr": "pin",
+        "es": "pino",
+        "yaq": "piíno"
+      },
+      "691": {
+        "en": "pipe",
+        "fr": "pipe",
+        "es": "pipa",
+        "yaq": "X"
+      },
+      "530": {
+        "en": "plant (noun)",
+        "fr": "plante",
+        "es": "planta",
+        "yaq": "júya"
+      },
+      "531": {
+        "en": "plant (vb)",
+        "fr": "planter",
+        "es": "plantar, sembrar",
+        "yaq": "eécha"
+      },
+      "210": {
+        "en": "plow",
+        "fr": "labourer,  charrue",
+        "es": "arar",
+        "yaq": "mó’ite"
+      },
+      "910": {
+        "en": "sweet potato, potato (sweet)",
+        "fr": "patate douce",
+        "es": "camote, batata",
+        "yaq": "X"
+      },
+      "931": {
+        "en": "squash, pumpkin",
+        "fr": "courge, potiron, citrouille",
+        "es": "zapallo, calabaza, calabazo",
+        "yaq": "X"
+      },
+      "270": {
+        "en": "rake",
+        "fr": "rateau",
+        "es": "rastro, rastrillo---rajtióm",
+        "yaq": "X"
+      },
+      "480": {
+        "en": "rice",
+        "fr": "riz",
+        "es": "arroz-------arósim",
+        "yaq": "X"
+      },
+      "540": {
+        "en": "root",
+        "fr": "racine",
+        "es": "raíz",
+        "yaq": "X"
+      },
+      "450": {
+        "en": "rye",
+        "fr": "seigle",
+        "es": "centeno",
+        "yaq": "X"
+      },
+      "760": {
+        "en": "sap",
+        "fr": "sève",
+        "es": "savia",
+        "yaq": "X"
+      },
+      "330": {
+        "en": "sickle, scythe",
+        "fr": "faux, faucille",
+        "es": "hoz, guadaña, hoz----oósam",
+        "yaq": "X"
+      },
+      "311": {
+        "en": "seed",
+        "fr": "graine, semence",
+        "es": "semilla",
+        "yaq": "X"
+      },
+      "240": {
+        "en": "shovel",
+        "fr": "pelle",
+        "es": "pala------paálam",
+        "yaq": "X"
+      },
+      "690": {
+        "en": "tobacco (to smoke), smoke (tobacco)",
+        "fr": "fumer",
+        "es": "fumar",
+        "yaq": "X"
+      },
+      "310": {
+        "en": "sow (seed)",
+        "fr": "semer",
+        "es": "sembrar, desparramar",
+        "yaq": "X"
+      },
+      "230": {
+        "en": "spade",
+        "fr": "bêche",
+        "es": "azada",
+        "yaq": "X"
+      },
+      "340": {
+        "en": "thresh",
+        "fr": "battre le ble",
+        "es": "desgranar",
+        "yaq": "X"
+      },
+      "350": {
+        "en": "threshing-floor",
+        "fr": "aire",
+        "es": "lugar para trillar",
+        "yaq": "X"
+      },
+      "680": {
+        "en": "tobacco",
+        "fr": "tabac",
+        "es": "tabaco",
+        "yaq": "X"
+      },
+      "600": {
+        "en": "tree",
+        "fr": "arbre",
+        "es": "árbol",
+        "yaq": "X"
+      },
+      "720": {
+        "en": "tree stump",
+        "fr": "souche d'arbre",
+        "es": "tocón",
+        "yaq": "X"
+      },
+      "730": {
+        "en": "trunk (tree), tree trunk",
+        "fr": "tronc d'arbre",
+        "es": "tronco",
+        "yaq": "X"
+      },
+      "670": {
+        "en": "vine",
+        "fr": "vigne",
+        "es": "enredadera,  bejuco, liana",
+        "yaq": "X"
+      },
+      "430": {
+        "en": "wheat",
+        "fr": "blé",
+        "es": "trigo-----tíikom",
+        "yaq": "X"
+      },
+      "912": {
+        "en": "yam",
+        "fr": "igname",
+        "es": "ñame",
+        "yaq": "X"
+      }
+    },
+    "18": {
+      "330": {
+        "en": "admit, confess",
+        "fr": "admettre, avouer",
+        "es": "admitir, confesar",
+        "yaq": "konpesároa"
+      },
+      "430": {
+        "en": "announce",
+        "fr": "annoncer,  proclamer",
+        "es": "anunciar, avisar",
+        "yaq": "X"
+      },
+      "320": {
+        "en": "answer",
+        "fr": "répondre",
+        "es": "contestar",
+        "yaq": "yóopna"
+      },
+      "310": {
+        "en": "question, ask, (inquire), inquire, ask (question), ask (question, inquire)",
+        "fr": "demander",
+        "es": "preguntar",
+        "yaq": "náttemae"
+      },
+      "350": {
+        "en": "request, ask",
+        "fr": "demander",
+        "es": "pedir",
+        "yaq": "a’áwa"
+      },
+      "450": {
+        "en": "boast",
+        "fr": "se vanter",
+        "es": "jactarse",
+        "yaq": "emó éya"
+      },
+      "610": {
+        "en": "book",
+        "fr": "livre",
+        "es": "libro",
+        "yaq": "lípprom, líbrom"
+      },
+      "420": {
+        "en": "name, call, call (=name)",
+        "fr": "appeler",
+        "es": "llamarse",
+        "yaq": "teák"
+      },
+      "410": {
+        "en": "summon, call, call (=summon)",
+        "fr": "appeler, hêler",
+        "es": "llamar",
+        "yaq": "chaáe"
+      },
+      "130": {
+        "en": "shout, cry out",
+        "fr": "crier, écrier",
+        "es": "gritar",
+        "yaq": "chaáe"
+      },
+      "340": {
+        "en": "deny",
+        "fr": "nier",
+        "es": "negar",
+        "yaq": "X"
+      },
+      "720": {
+        "en": "drum",
+        "fr": "tambour",
+        "es": "bombo, tambor",
+        "yaq": "kúbaji"
+      },
+      "710": {
+        "en": "flute",
+        "fr": "flûte",
+        "es": "flauta",
+        "yaq": "kusiá"
+      },
+      "380": {
+        "en": "forbid",
+        "fr": "interdire",
+        "es": "prohibir",
+        "yaq": "é’ete"
+      },
+      "730": {
+        "en": "trumpet, horn",
+        "fr": "cor, trompette",
+        "es": "trompeta",
+        "yaq": "trompeeta, kusiá"
+      },
+      "190": {
+        "en": "howl",
+        "fr": "ululer",
+        "es": "aullar",
+        "yaq": "X"
+      },
+      "240": {
+        "en": "language",
+        "fr": "langue, langage",
+        "es": "lengua,  idioma",
+        "yaq": "noóki"
+      },
+      "160": {
+        "en": "mumble",
+        "fr": "marmonner, bredouiller",
+        "es": "barbotar,  hablar entre dientes",
+        "yaq": "X"
+      },
+      "280": {
+        "en": "name",
+        "fr": "nom",
+        "es": "nombre",
+        "yaq": "X"
+      },
+      "560": {
+        "en": "paper",
+        "fr": "papier",
+        "es": "papel",
+        "yaq": "jí’osia"
+      },
+      "570": {
+        "en": "pen",
+        "fr": "plume",
+        "es": "pluma",
+        "yaq": "boá"
+      },
+      "670": {
+        "en": "poet",
+        "fr": "poète",
+        "es": "poeta",
+        "yaq": "X"
+      },
+      "360": {
+        "en": "promise",
+        "fr": "promettre",
+        "es": "prometer",
+        "yaq": "X"
+      },
+      "740": {
+        "en": "rattle",
+        "fr": "hochet",
+        "es": "matraca,  cascabel",
+        "yaq": "X"
+      },
+      "520": {
+        "en": "read",
+        "fr": "lire",
+        "es": "leer---leiároa",
+        "yaq": "X"
+      },
+      "390": {
+        "en": "scold, rebuke",
+        "fr": "réprimander, gronder, blâmer",
+        "es": "reprender",
+        "yaq": "X"
+      },
+      "370": {
+        "en": "refuse",
+        "fr": "refuser",
+        "es": "rehusar",
+        "yaq": "X"
+      },
+      "220": {
+        "en": "say",
+        "fr": "dire",
+        "es": "decir",
+        "yaq": "X"
+      },
+      "180": {
+        "en": "shriek, screech",
+        "fr": "hurler",
+        "es": "chillar",
+        "yaq": "X"
+      },
+      "230": {
+        "en": "silent (be)",
+        "fr": "silencieux",
+        "es": "callarse",
+        "yaq": "X"
+      },
+      "120": {
+        "en": "sing",
+        "fr": "chanter",
+        "es": "cantar",
+        "yaq": "X"
+      },
+      "210": {
+        "en": "talk, speak",
+        "fr": "parler",
+        "es": "hablar",
+        "yaq": "X"
+      },
+      "222": {
+        "en": "speech (make a)",
+        "fr": "allocution (faire une)",
+        "es": "pronunciar un discurso",
+        "yaq": "X"
+      },
+      "211": {
+        "en": "stutter, stammer",
+        "fr": "bégayer, balbutier",
+        "es": "tartamudear, balbucear",
+        "yaq": "X"
+      },
+      "221": {
+        "en": "tell story",
+        "fr": "raconter, narrer",
+        "es": "narrar, contar",
+        "yaq": "X"
+      },
+      "440": {
+        "en": "threaten",
+        "fr": "menacer",
+        "es": "amenazar",
+        "yaq": "X"
+      },
+      "110": {
+        "en": "voice",
+        "fr": "voix",
+        "es": "voz",
+        "yaq": "X"
+      },
+      "150": {
+        "en": "whisper",
+        "fr": "chuchoter",
+        "es": "cuchichear",
+        "yaq": "X"
+      },
+      "170": {
+        "en": "whistle",
+        "fr": "siffler",
+        "es": "silbar,  chiflar",
+        "yaq": "X"
+      },
+      "260": {
+        "en": "word",
+        "fr": "mot, parole",
+        "es": "palabra",
+        "yaq": "X"
+      },
+      "510": {
+        "en": "write",
+        "fr": "écrire",
+        "es": "escribir",
+        "yaq": "X"
+      }
+    },
+    "07": {
+      "640": {
+        "en": "adobe",
+        "fr": "adobe",
+        "es": "adobe",
+        "yaq": "X"
+      },
+      "580": {
+        "en": "arch",
+        "fr": "arche",
+        "es": "arco",
+        "yaq": "kúta wíko’i"
+      },
+      "550": {
+        "en": "beam",
+        "fr": "poutre",
+        "es": "viga",
+        "yaq": "jepéktia, bíiga"
+      },
+      "420": {
+        "en": "bed",
+        "fr": "lit",
+        "es": "cama",
+        "yaq": "kaámam"
+      },
+      "422": {
+        "en": "blanket",
+        "fr": "couverture",
+        "es": "frazada,  cobija",
+        "yaq": "píisam"
+      },
+      "570": {
+        "en": "board",
+        "fr": "planche",
+        "es": "tabla",
+        "yaq": "táppla"
+      },
+      "620": {
+        "en": "brick",
+        "fr": "brique",
+        "es": "ladrillo",
+        "yaq": "lákrio"
+      },
+      "460": {
+        "en": "candle",
+        "fr": "bougie, cierge, chandelle",
+        "es": "vela",
+        "yaq": "kanteélam"
+      },
+      "430": {
+        "en": "chair",
+        "fr": "chaise,  siège",
+        "es": "silla",
+        "yaq": "bánko"
+      },
+      "330": {
+        "en": "chimney",
+        "fr": "cheminée",
+        "es": "chimenea",
+        "yaq": "X"
+      },
+      "170": {
+        "en": "cookhouse",
+        "fr": "cuisine",
+        "es": "cocina (lugar)",
+        "yaq": "kosína"
+      },
+      "150": {
+        "en": "yard, court",
+        "fr": "cour",
+        "es": "cancha",
+        "yaq": "káncha"
+      },
+      "220": {
+        "en": "door, gate",
+        "fr": "porte",
+        "es": "puerta",
+        "yaq": "puéta"
+      },
+      "231": {
+        "en": "latch, door-bolt",
+        "fr": "serrure",
+        "es": "cerrojo",
+        "yaq": "X"
+      },
+      "221": {
+        "en": "doorpost, jamb",
+        "fr": "pied-droit, pilier",
+        "es": "jamba de puerta",
+        "yaq": "X"
+      },
+      "110": {
+        "en": "live, dwell",
+        "fr": "habiter, demeurer",
+        "es": "habitar",
+        "yaq": "jo’árak"
+      },
+      "310": {
+        "en": "fireplace",
+        "fr": "foyer",
+        "es": "fogón",
+        "yaq": "táji"
+      },
+      "260": {
+        "en": "floor",
+        "fr": "plancher, sol",
+        "es": "suelo",
+        "yaq": "X"
+      },
+      "131": {
+        "en": "garden-house",
+        "fr": "abride jardin, cabane",
+        "es": "casa de huerta,  granja",
+        "yaq": "X"
+      },
+      "120": {
+        "en": "house",
+        "fr": "maison",
+        "es": "casa",
+        "yaq": "kári"
+      },
+      "130": {
+        "en": "hut",
+        "fr": "hutte",
+        "es": "cabaña,  choza",
+        "yaq": "kári"
+      },
+      "240": {
+        "en": "key",
+        "fr": "clef",
+        "es": "llave",
+        "yaq": "yaábem"
+      },
+      "370": {
+        "en": "ladder",
+        "fr": "échelle",
+        "es": "escalera",
+        "yaq": "ejkaleá"
+      },
+      "450": {
+        "en": "torch, lamp",
+        "fr": "lampe",
+        "es": "lámpara, antorcha",
+        "yaq": "lampaá"
+      },
+      "230": {
+        "en": "lock (noun)",
+        "fr": "cadenas",
+        "es": "cerradura, candado",
+        "yaq": "X"
+      },
+      "610": {
+        "en": "mason",
+        "fr": "maçon",
+        "es": "albañil",
+        "yaq": "albányil"
+      },
+      "180": {
+        "en": "meeting house",
+        "fr": "maison de réunion",
+        "es": "casa de reunión",
+        "yaq": "X"
+      },
+      "160": {
+        "en": "men's house",
+        "fr": "maison réservée aux hommes",
+        "es": "casa de hombres",
+        "yaq": "X"
+      },
+      "630": {
+        "en": "mortar",
+        "fr": "mortier",
+        "es": "argamasa",
+        "yaq": "X"
+      },
+      "421": {
+        "en": "pillow",
+        "fr": "oreiller",
+        "es": "almohada",
+        "yaq": "múteka"
+      },
+      "560": {
+        "en": "post, pole",
+        "fr": "poteau, piquet",
+        "es": "poste, poste-----pojte",
+        "yaq": "X"
+      },
+      "540": {
+        "en": "rafter",
+        "fr": "poutres",
+        "es": "viga",
+        "yaq": "X"
+      },
+      "530": {
+        "en": "ridgepole",
+        "fr": "poutre de faïte",
+        "es": "cumbrera",
+        "yaq": "X"
+      },
+      "510": {
+        "en": "roof",
+        "fr": "toit",
+        "es": "techo",
+        "yaq": "X"
+      },
+      "210": {
+        "en": "room",
+        "fr": "piéce",
+        "es": "cuarto, pieza",
+        "yaq": "X"
+      },
+      "470": {
+        "en": "shelf",
+        "fr": "étagère",
+        "es": "repisa",
+        "yaq": "X"
+      },
+      "320": {
+        "en": "stove",
+        "fr": "four",
+        "es": "estufa",
+        "yaq": "X"
+      },
+      "440": {
+        "en": "table",
+        "fr": "table",
+        "es": "mesa ------meésa",
+        "yaq": "X"
+      },
+      "140": {
+        "en": "tent",
+        "fr": "tente",
+        "es": "toldo",
+        "yaq": "X"
+      },
+      "520": {
+        "en": "thatch",
+        "fr": "toiture de chaume",
+        "es": "techumbre de paja",
+        "yaq": "X"
+      },
+      "480": {
+        "en": "trough",
+        "fr": "auge",
+        "es": "batea, artesa",
+        "yaq": "X"
+      },
+      "270": {
+        "en": "wall",
+        "fr": "mur",
+        "es": "pared, muro",
+        "yaq": "X"
+      },
+      "250": {
+        "en": "window",
+        "fr": "fenêtre",
+        "es": "ventana---bentaána",
+        "yaq": "X"
+      }
+    },
+    "06": {
+      "710": {
+        "en": "ornament, adornment",
+        "fr": "ornement",
+        "es": "adorno, ornato",
+        "yaq": "X"
+      },
+      "370": {
+        "en": "awl",
+        "fr": "alène",
+        "es": "punzón",
+        "yaq": "*"
+      },
+      "760": {
+        "en": "bead",
+        "fr": "graine",
+        "es": "chaquira, abalorio",
+        "yaq": "mapoá, chakíira"
+      },
+      "570": {
+        "en": "girdle, belt",
+        "fr": "ceinture, gaine",
+        "es": "cinturón, faja",
+        "yaq": "wikósa, tomjísumiam, faájam"
+      },
+      "520": {
+        "en": "boot",
+        "fr": "botte",
+        "es": "bota",
+        "yaq": "boótam"
+      },
+      "740": {
+        "en": "bracelet",
+        "fr": "bracelet",
+        "es": "brazalete",
+        "yaq": "mapoám"
+      },
+      "921": {
+        "en": "plait, braid",
+        "fr": "tresser",
+        "es": "trenzar",
+        "yaq": "bwassúma"
+      },
+      "920": {
+        "en": "brush",
+        "fr": "brosse",
+        "es": "cepillo",
+        "yaq": "sepió"
+      },
+      "620": {
+        "en": "button",
+        "fr": "bouton",
+        "es": "botón",
+        "yaq": "botón"
+      },
+      "550": {
+        "en": "hat, cap",
+        "fr": "chapeau, casquette",
+        "es": "sombrero, gorro",
+        "yaq": "monteéo"
+      },
+      "410": {
+        "en": "cloak",
+        "fr": "cape",
+        "es": "capa",
+        "yaq": "X"
+      },
+      "210": {
+        "en": "cloth",
+        "fr": "étoffe,  tissu",
+        "es": "tela",
+        "yaq": "teéla"
+      },
+      "120": {
+        "en": "clothing, clothes",
+        "fr": "habit, vêtement",
+        "es": "ropa",
+        "yaq": "tajó’ori"
+      },
+      "430": {
+        "en": "coat",
+        "fr": "manteau, pardessus",
+        "es": "abrigo,  saco",
+        "yaq": "saákom"
+      },
+      "450": {
+        "en": "collar",
+        "fr": "col",
+        "es": "cuello",
+        "yaq": "kutanaá"
+      },
+      "910": {
+        "en": "comb",
+        "fr": "peigne",
+        "es": "peine",
+        "yaq": "chíchikia"
+      },
+      "240": {
+        "en": "cotton",
+        "fr": "coton",
+        "es": "algodón",
+        "yaq": "chiínim"
+      },
+      "110": {
+        "en": "put on (clothes), dress (vb)",
+        "fr": "porter, mettre (vêtement)",
+        "es": "vestirse",
+        "yaq": "X"
+      },
+      "420": {
+        "en": "woman's dress, dress (noun)(woman's)",
+        "fr": "robe de femme",
+        "es": "vestido",
+        "yaq": "X"
+      },
+      "390": {
+        "en": "dye",
+        "fr": "teindre",
+        "es": "teñir",
+        "yaq": "tójta"
+      },
+      "770": {
+        "en": "earring",
+        "fr": "boucle d'oreille",
+        "es": "arete, aro",
+        "yaq": "reépam"
+      },
+      "270": {
+        "en": "felt",
+        "fr": "feutre",
+        "es": "fieltro",
+        "yaq": "X"
+      },
+      "230": {
+        "en": "linen, flax",
+        "fr": "lin",
+        "es": "lino",
+        "yaq": "X"
+      },
+      "280": {
+        "en": "fur",
+        "fr": "fourrure",
+        "es": "piel (de animal)",
+        "yaq": "beéa"
+      },
+      "580": {
+        "en": "glove",
+        "fr": "gant",
+        "es": "guante",
+        "yaq": "wántem"
+      },
+      "461": {
+        "en": "grass-skirt",
+        "fr": "jupe en rafia",
+        "es": "falda de hierbas",
+        "yaq": "X"
+      },
+      "810": {
+        "en": "rag, handkerchief",
+        "fr": "mouchoir, chiffon",
+        "es": "pañuelo, trapo",
+        "yaq": "paáyum, tájo’orim"
+      },
+      "780": {
+        "en": "headband, headdress",
+        "fr": "couronne",
+        "es": "cinta (para la cabeza), tocado",
+        "yaq": "X"
+      },
+      "720": {
+        "en": "jewel",
+        "fr": "bijou, joyau",
+        "es": "joya",
+        "yaq": "X"
+      },
+      "290": {
+        "en": "leather",
+        "fr": "cuir",
+        "es": "cuero",
+        "yaq": "beéa"
+      },
+      "340": {
+        "en": "loom",
+        "fr": "métier â tisser",
+        "es": "telar",
+        "yaq": "X"
+      },
+      "960": {
+        "en": "mirror",
+        "fr": "miroir, glace",
+        "es": "espejo",
+        "yaq": "ejpeéko"
+      },
+      "750": {
+        "en": "necklace",
+        "fr": "collier",
+        "es": "collar",
+        "yaq": "koóka"
+      },
+      "360": {
+        "en": "needle",
+        "fr": "aiguille",
+        "es": "aguja",
+        "yaq": "ji’íkiam"
+      },
+      "940": {
+        "en": "ointment",
+        "fr": "pommade, onguent",
+        "es": "ungüento",
+        "yaq": "X"
+      },
+      "630": {
+        "en": "pin",
+        "fr": "épingle",
+        "es": "alfiler",
+        "yaq": "alpilér"
+      },
+      "610": {
+        "en": "pocket",
+        "fr": "poche",
+        "es": "bolsillo",
+        "yaq": "X"
+      },
+      "411": {
+        "en": "poncho",
+        "fr": "poncho",
+        "es": "poncho,  ruana",
+        "yaq": "X"
+      },
+      "930": {
+        "en": "razor",
+        "fr": "rasoir",
+        "es": "navaja de afeitar",
+        "yaq": "X"
+      },
+      "730": {
+        "en": "ring (for finger)",
+        "fr": "bague, anneau",
+        "es": "anillo, sortija------anílio",
+        "yaq": "X"
+      },
+      "350": {
+        "en": "sew",
+        "fr": "coudre",
+        "es": "coser",
+        "yaq": "X"
+      },
+      "440": {
+        "en": "shirt",
+        "fr": "chemise",
+        "es": "camisa",
+        "yaq": "X"
+      },
+      "510": {
+        "en": "shoe",
+        "fr": "chaussure, soulier",
+        "es": "zapato---sapá’atom",
+        "yaq": "X"
+      },
+      "540": {
+        "en": "shoemaker, cobbler",
+        "fr": "cordonnier",
+        "es": "zapatero----sapateó",
+        "yaq": "X"
+      },
+      "250": {
+        "en": "silk",
+        "fr": "soie",
+        "es": "seda",
+        "yaq": "X"
+      },
+      "460": {
+        "en": "skirt",
+        "fr": "jupe",
+        "es": "falda",
+        "yaq": "X"
+      },
+      "950": {
+        "en": "soap",
+        "fr": "savon",
+        "es": "jabón------saábum",
+        "yaq": "X"
+      },
+      "490": {
+        "en": "stocking, sock",
+        "fr": "bas, chaussette",
+        "es": "media, calcetín, calcetín----kalsetíinim",
+        "yaq": "X"
+      },
+      "310": {
+        "en": "spin",
+        "fr": "filer",
+        "es": "hilar",
+        "yaq": "X"
+      },
+      "320": {
+        "en": "spindle",
+        "fr": "fuseau",
+        "es": "huso",
+        "yaq": "X"
+      },
+      "130": {
+        "en": "tailor",
+        "fr": "tailleur",
+        "es": "sastre",
+        "yaq": "X"
+      },
+      "790": {
+        "en": "tattoo",
+        "fr": "tatouage",
+        "es": "tatuaje",
+        "yaq": "X"
+      },
+      "380": {
+        "en": "thread",
+        "fr": "fil",
+        "es": "hilo",
+        "yaq": "X"
+      },
+      "820": {
+        "en": "towel",
+        "fr": "serviette",
+        "es": "toalla",
+        "yaq": "X"
+      },
+      "480": {
+        "en": "trousers",
+        "fr": "pantalon",
+        "es": "pantalones, calzones",
+        "yaq": "X"
+      },
+      "590": {
+        "en": "veil",
+        "fr": "voile",
+        "es": "velo",
+        "yaq": "X"
+      },
+      "330": {
+        "en": "weave",
+        "fr": "tisser",
+        "es": "tejer",
+        "yaq": "X"
+      },
+      "220": {
+        "en": "wool",
+        "fr": "laine",
+        "es": "lana",
+        "yaq": "X"
+      }
+    },
+    "09": {
+      "251": {
+        "en": "adze",
+        "fr": "herminette",
+        "es": "azuela",
+        "yaq": "ansuélam"
+      },
+      "620": {
+        "en": "anvil",
+        "fr": "enclume",
+        "es": "yunque",
+        "yaq": "*"
+      },
+      "250": {
+        "en": "ax",
+        "fr": "hache",
+        "es": "hacha",
+        "yaq": "tépuam"
+      },
+      "780": {
+        "en": "netbag, bag (net)",
+        "fr": "filet",
+        "es": "bolsa de malla",
+        "yaq": "maáyam"
+      },
+      "760": {
+        "en": "basket",
+        "fr": "panier",
+        "es": "canasto, canasta",
+        "yaq": "waári"
+      },
+      "210": {
+        "en": "strike (hit, beat), hit, strike (beat), beat, strike",
+        "fr": "frapper, battre",
+        "es": "golpear",
+        "yaq": "béeba, béba"
+      },
+      "140": {
+        "en": "bend",
+        "fr": "plier",
+        "es": "encorvar, doblar",
+        "yaq": "kuákta, tótta"
+      },
+      "160": {
+        "en": "tie, bind",
+        "fr": "lier",
+        "es": "amarrar, atar",
+        "yaq": "súma"
+      },
+      "600": {
+        "en": "smith, blacksmith",
+        "fr": "forgeron",
+        "es": "herrero",
+        "yaq": "ereó"
+      },
+      "460": {
+        "en": "pierce, bore",
+        "fr": "percer, perforer",
+        "es": "perforar",
+        "yaq": "wójokta, wojókta"
+      },
+      "260": {
+        "en": "break",
+        "fr": "casser,  briser",
+        "es": "quebrar",
+        "yaq": "kótta"
+      },
+      "261": {
+        "en": "broken",
+        "fr": "brisé, cassé",
+        "es": "quebrado",
+        "yaq": "kóttila"
+      },
+      "660": {
+        "en": "bronze, copper",
+        "fr": "cuivre",
+        "es": "cobre, bronce",
+        "yaq": "X"
+      },
+      "380": {
+        "en": "broom",
+        "fr": "balai",
+        "es": "escoba",
+        "yaq": "jíchikia"
+      },
+      "440": {
+        "en": "build",
+        "fr": "bâtir,  construire",
+        "es": "edificar",
+        "yaq": "yáa, joóa"
+      },
+      "430": {
+        "en": "carpenter",
+        "fr": "charpentier",
+        "es": "carpintero",
+        "yaq": "kapinteó"
+      },
+      "810": {
+        "en": "carve",
+        "fr": "sculpter,  graver",
+        "es": "esculpir",
+        "yaq": "chikwatte"
+      },
+      "630": {
+        "en": "(metals) cast, cast (metals)",
+        "fr": "mouler",
+        "es": "fundir",
+        "yaq": "X"
+      },
+      "180": {
+        "en": "chain",
+        "fr": "chaîne",
+        "es": "cadena",
+        "yaq": "karénam"
+      },
+      "840": {
+        "en": "chisel",
+        "fr": "ciseau",
+        "es": "escoplo, cincel",
+        "yaq": "X"
+      },
+      "222": {
+        "en": "hew, chop",
+        "fr": "tailler",
+        "es": "tajar, picar",
+        "yaq": "soá"
+      },
+      "730": {
+        "en": "clay",
+        "fr": "argile,  glaise",
+        "es": "barro, arcilla",
+        "yaq": "X"
+      },
+      "190": {
+        "en": "rope, cord",
+        "fr": "corde",
+        "es": "cuerda, soga",
+        "yaq": "wíkia"
+      },
+      "220": {
+        "en": "cut",
+        "fr": "couper",
+        "es": "cortar",
+        "yaq": "chúkta"
+      },
+      "221": {
+        "en": "cut down",
+        "fr": "abattre",
+        "es": "tumbar, talar",
+        "yaq": "chúkta"
+      },
+      "110": {
+        "en": "make, do",
+        "fr": "faire",
+        "es": "hacer",
+        "yaq": "joóa"
+      },
+      "790": {
+        "en": "fan (noun)",
+        "fr": "éventail",
+        "es": "abanico",
+        "yaq": "abaniíko"
+      },
+      "791": {
+        "en": "fan (vb)",
+        "fr": "s'éventer",
+        "es": "abanicar, aventar",
+        "yaq": "mékka wo’óta"
+      },
+      "290": {
+        "en": "skin, flay",
+        "fr": "écorcher",
+        "es": "desollar",
+        "yaq": "X"
+      },
+      "150": {
+        "en": "fold",
+        "fr": "plier",
+        "es": "doblar",
+        "yaq": "tótta"
+      },
+      "610": {
+        "en": "forge",
+        "fr": "forger",
+        "es": "fragua",
+        "yaq": "X"
+      },
+      "740": {
+        "en": "glass",
+        "fr": "verre",
+        "es": "vidrio",
+        "yaq": "liméete"
+      },
+      "560": {
+        "en": "glue",
+        "fr": "colle",
+        "es": "cola,  adhesivo (pegar)",
+        "yaq": "X"
+      },
+      "640": {
+        "en": "gold",
+        "fr": "or",
+        "es": "oro",
+        "yaq": "oóro"
+      },
+      "490": {
+        "en": "hammer",
+        "fr": "marteau",
+        "es": "martillo",
+        "yaq": "máatiom"
+      },
+      "341": {
+        "en": "hang up",
+        "fr": "suspendre",
+        "es": "colgar",
+        "yaq": "cháya"
+      },
+      "461": {
+        "en": "hollow out",
+        "fr": "creuser",
+        "es": "ahuecar",
+        "yaq": "X"
+      },
+      "670": {
+        "en": "iron",
+        "fr": "fer",
+        "es": "hierro",
+        "yaq": "sisi’iwoóko"
+      },
+      "230": {
+        "en": "knife",
+        "fr": "couteau",
+        "es": "cuchillo (herramienta)",
+        "yaq": "kúchi’im"
+      },
+      "192": {
+        "en": "knot (noun)",
+        "fr": "noeud",
+        "es": "nudo",
+        "yaq": "X"
+      },
+      "680": {
+        "en": "lead (noun)",
+        "fr": "plomb",
+        "es": "plomo",
+        "yaq": "X"
+      },
+      "770": {
+        "en": "mat",
+        "fr": "natte",
+        "es": "estera",
+        "yaq": "X"
+      },
+      "720": {
+        "en": "mold (clay etc)",
+        "fr": "mouler",
+        "es": "moldear, formar",
+        "yaq": "X"
+      },
+      "500": {
+        "en": "nail",
+        "fr": "clou, ongle, pointe",
+        "es": "clavo",
+        "yaq": "láabos"
+      },
+      "880": {
+        "en": "paint (noun)",
+        "fr": "peinture",
+        "es": "pintura",
+        "yaq": "pintuúra"
+      },
+      "890": {
+        "en": "paint (vb)",
+        "fr": "peindre",
+        "es": "pintar",
+        "yaq": "pintároa, yóka"
+      },
+      "223": {
+        "en": "stab, pierce",
+        "fr": "poignarder",
+        "es": "apuñalar",
+        "yaq": "kúchi soá"
+      },
+      "750": {
+        "en": "weave, plait",
+        "fr": "tresser",
+        "es": "tejer, trenzar",
+        "yaq": "bwassúma"
+      },
+      "710": {
+        "en": "potter",
+        "fr": "pottier",
+        "es": "alfarero",
+        "yaq": "X"
+      },
+      "211": {
+        "en": "pound with fist",
+        "fr": "marteler de ses poing",
+        "es": "machacar con el puño",
+        "yaq": "X"
+      },
+      "350": {
+        "en": "pour",
+        "fr": "verser",
+        "es": "vaciar, verter,  derramar",
+        "yaq": "X"
+      },
+      "342": {
+        "en": "press",
+        "fr": "presser, appuyer",
+        "es": "apretar,  oprimir",
+        "yaq": "X"
+      },
+      "330": {
+        "en": "pull",
+        "fr": "tirer",
+        "es": "tirar, jalar",
+        "yaq": "X"
+      },
+      "310": {
+        "en": "wipe, rub",
+        "fr": "frotter, essuyer",
+        "es": "frotar",
+        "yaq": "X"
+      },
+      "771": {
+        "en": "rug",
+        "fr": "tapis",
+        "es": "tapete,  alfombra",
+        "yaq": "X"
+      },
+      "480": {
+        "en": "saw",
+        "fr": "scie",
+        "es": "serrucho, sierra",
+        "yaq": "X"
+      },
+      "240": {
+        "en": "shears, scissors",
+        "fr": "ciseaux",
+        "es": "tijeras",
+        "yaq": "X"
+      },
+      "820": {
+        "en": "sculptor",
+        "fr": "sculpteur",
+        "es": "escultor",
+        "yaq": "X"
+      },
+      "650": {
+        "en": "silver",
+        "fr": "argent",
+        "es": "plata",
+        "yaq": "X"
+      },
+      "270": {
+        "en": "split",
+        "fr": "fendre",
+        "es": "hender, partir",
+        "yaq": "X"
+      },
+      "340": {
+        "en": "spread out",
+        "fr": "étaler, éparpiller",
+        "es": "extender, esparcir",
+        "yaq": "X"
+      },
+      "343": {
+        "en": "wring, squeeze",
+        "fr": "presser",
+        "es": "estrujar, exprimir",
+        "yaq": "X"
+      },
+      "830": {
+        "en": "statue",
+        "fr": "statue",
+        "es": "estatua",
+        "yaq": "X"
+      },
+      "320": {
+        "en": "stretch",
+        "fr": "étendre",
+        "es": "alargar, estirar",
+        "yaq": "X"
+      },
+      "370": {
+        "en": "sweep",
+        "fr": "balayer",
+        "es": "barrer",
+        "yaq": "X"
+      },
+      "280": {
+        "en": "tear (vb)",
+        "fr": "déchirer",
+        "es": "romper, rasgar",
+        "yaq": "X"
+      },
+      "690": {
+        "en": "tin, tinplate",
+        "fr": "étain",
+        "es": "estaño",
+        "yaq": "X"
+      },
+      "422": {
+        "en": "tool",
+        "fr": "outil",
+        "es": "herramienta",
+        "yaq": "X"
+      },
+      "161": {
+        "en": "untie",
+        "fr": "détacher, délier",
+        "es": "desatar",
+        "yaq": "X"
+      },
+      "360": {
+        "en": "wash",
+        "fr": "laver",
+        "es": "lavar",
+        "yaq": "X"
+      },
+      "120": {
+        "en": "work",
+        "fr": "travailler",
+        "es": "trabajar",
+        "yaq": "X"
+      }
+    },
+    "17": {
+      "550": {
+        "en": "yes, affirmative",
+        "fr": "oui, affirmatif",
+        "es": "sí, afirmativo",
+        "yaq": "X"
+      },
+      "510": {
+        "en": "and",
+        "fr": "et",
+        "es": "y",
+        "yaq": "X"
+      },
+      "480": {
+        "en": "try, attempt",
+        "fr": "essayer, tenter",
+        "es": "probar",
+        "yaq": "probároa"
+      },
+      "520": {
+        "en": "because",
+        "fr": "parce que",
+        "es": "porque",
+        "yaq": "bwé’ituk"
+      },
+      "150": {
+        "en": "believe",
+        "fr": "croire",
+        "es": "creer",
+        "yaq": "suále"
+      },
+      "441": {
+        "en": "betray",
+        "fr": "trahir",
+        "es": "traicionar",
+        "yaq": "traisionároa"
+      },
+      "420": {
+        "en": "cause",
+        "fr": "causer,  provoquer",
+        "es": "causa",
+        "yaq": "X"
+      },
+      "370": {
+        "en": "sure, certain",
+        "fr": "sûr, certain",
+        "es": "seguro",
+        "yaq": "X"
+      },
+      "340": {
+        "en": "plain, clear",
+        "fr": "évident, net, clair",
+        "es": "claro",
+        "yaq": "X"
+      },
+      "230": {
+        "en": "insane, crazy",
+        "fr": "fou, bête, idiot",
+        "es": "loco",
+        "yaq": "kaá suúak"
+      },
+      "470": {
+        "en": "difficult",
+        "fr": "difficile",
+        "es": "difícil",
+        "yaq": "obiáchi"
+      },
+      "430": {
+        "en": "doubt",
+        "fr": "douter",
+        "es": "dudar",
+        "yaq": "X"
+      },
+      "460": {
+        "en": "easy",
+        "fr": "facile",
+        "es": "fácil",
+        "yaq": "kaá obiáchi"
+      },
+      "380": {
+        "en": "explain",
+        "fr": "expliquer",
+        "es": "explicar",
+        "yaq": "esplikároa"
+      },
+      "220": {
+        "en": "stupid, foolish",
+        "fr": "bête, stupide",
+        "es": "necio",
+        "yaq": "néesio"
+      },
+      "320": {
+        "en": "forget",
+        "fr": "oublier",
+        "es": "olvidar",
+        "yaq": "kópta"
+      },
+      "171": {
+        "en": "guess",
+        "fr": "deviner",
+        "es": "adivinar,  acertar",
+        "yaq": "X"
+      },
+      "610": {
+        "en": "how?",
+        "fr": "comment?",
+        "es": "¿cómo?",
+        "yaq": "jachínia"
+      },
+      "620": {
+        "en": "how many?",
+        "fr": "combien?",
+        "es": "¿cuántos?",
+        "yaq": "jaíki"
+      },
+      "630": {
+        "en": "how much?",
+        "fr": "combien?",
+        "es": "¿cuánto?",
+        "yaq": "jaíki"
+      },
+      "190": {
+        "en": "notion, idea",
+        "fr": "idée",
+        "es": "idea, concepto",
+        "yaq": "X"
+      },
+      "530": {
+        "en": "if",
+        "fr": "si",
+        "es": "si",
+        "yaq": "jeéwi"
+      },
+      "172": {
+        "en": "imitate",
+        "fr": "imiter",
+        "es": "imitar",
+        "yaq": "mamáto"
+      },
+      "410": {
+        "en": "purpose, intention",
+        "fr": "but",
+        "es": "propósito",
+        "yaq": "X"
+      },
+      "170": {
+        "en": "know",
+        "fr": "savoir",
+        "es": "saber",
+        "yaq": "jú’unea"
+      },
+      "240": {
+        "en": "learn",
+        "fr": "apprendre",
+        "es": "aprender",
+        "yaq": "a’áwe"
+      },
+      "490": {
+        "en": "way, manner",
+        "fr": "façon, maniere",
+        "es": "modo, manera",
+        "yaq": "X"
+      },
+      "110": {
+        "en": "mind",
+        "fr": "pensée,  avis",
+        "es": "mente, pensamiento",
+        "yaq": "X"
+      },
+      "450": {
+        "en": "need, necessity",
+        "fr": "besoin,  nécessité",
+        "es": "necesidad",
+        "yaq": "X"
+      },
+      "560": {
+        "en": "no, negative",
+        "fr": "non, négatif",
+        "es": "no, negativo",
+        "yaq": "X"
+      },
+      "350": {
+        "en": "obscure",
+        "fr": "obscur",
+        "es": "obscuro",
+        "yaq": "X"
+      },
+      "140": {
+        "en": "think (= be of the opinion), opinion (be of the) think",
+        "fr": "croire",
+        "es": "creer, suponer",
+        "yaq": "X"
+      },
+      "540": {
+        "en": "or",
+        "fr": "ou",
+        "es": "o",
+        "yaq": "X"
+      },
+      "260": {
+        "en": "pupil",
+        "fr": "élève",
+        "es": "alumno",
+        "yaq": "X"
+      },
+      "130": {
+        "en": "think (= reflect), reflect= think",
+        "fr": "penser",
+        "es": "pensar",
+        "yaq": "X"
+      },
+      "310": {
+        "en": "remember",
+        "fr": "se souvenir",
+        "es": "recordar,  acordarse",
+        "yaq": "X"
+      },
+      "280": {
+        "en": "school",
+        "fr": "école",
+        "es": "escuela----ejkuéla",
+        "yaq": "X"
+      },
+      "360": {
+        "en": "secret",
+        "fr": "secret",
+        "es": "secreto",
+        "yaq": "X"
+      },
+      "180": {
+        "en": "seem",
+        "fr": "sembler",
+        "es": "parecer",
+        "yaq": "X"
+      },
+      "242": {
+        "en": "study",
+        "fr": "étudier",
+        "es": "estudiar",
+        "yaq": "X"
+      },
+      "440": {
+        "en": "suspect",
+        "fr": "soupçonner",
+        "es": "sospechar",
+        "yaq": "X"
+      },
+      "250": {
+        "en": "teach",
+        "fr": "enseigner",
+        "es": "enseñar",
+        "yaq": "X"
+      },
+      "270": {
+        "en": "teacher",
+        "fr": "professeur",
+        "es": "maestro-------maéjto",
+        "yaq": "X"
+      },
+      "160": {
+        "en": "understand",
+        "fr": "comprendre",
+        "es": "entender",
+        "yaq": "X"
+      },
+      "640": {
+        "en": "what?",
+        "fr": "quoi?",
+        "es": "¿qué?",
+        "yaq": "X"
+      },
+      "650": {
+        "en": "when?",
+        "fr": "quand?",
+        "es": "¿cuándo?",
+        "yaq": "X"
+      },
+      "660": {
+        "en": "where?",
+        "fr": "oú?",
+        "es": "¿dónde?",
+        "yaq": "X"
+      },
+      "670": {
+        "en": "which?",
+        "fr": "quel?  lequel?",
+        "es": "¿cuál?",
+        "yaq": "X"
+      },
+      "680": {
+        "en": "who?",
+        "fr": "qui?",
+        "es": "¿quién?",
+        "yaq": "X"
+      },
+      "690": {
+        "en": "why?",
+        "fr": "pourquoi?",
+        "es": "¿por qué?",
+        "yaq": "X"
+      },
+      "210": {
+        "en": "wise",
+        "fr": "sage,  érudit",
+        "es": "sabio",
+        "yaq": "X"
+      }
+    },
+    "14": {
+      "451": {
+        "en": "afternoon",
+        "fr": "après-midi",
+        "es": "tarde",
+        "yaq": "X"
+      },
+      "350": {
+        "en": "again",
+        "fr": "encore",
+        "es": "otra vez",
+        "yaq": "X"
+      },
+      "120": {
+        "en": "age",
+        "fr": "âge",
+        "es": "edad",
+        "yaq": "wasúktia"
+      },
+      "310": {
+        "en": "always",
+        "fr": "toujours",
+        "es": "siempre",
+        "yaq": "X"
+      },
+      "770": {
+        "en": "autumn",
+        "fr": "automne",
+        "es": "otoño",
+        "yaq": "*"
+      },
+      "250": {
+        "en": "begin, beginning",
+        "fr": "début,  commencement",
+        "es": "empezar, comienzo naáte, naátei",
+        "yaq": "X"
+      },
+      "280": {
+        "en": "stop, cease",
+        "fr": "cesser, s'arrêter",
+        "es": "terminar, detenerse",
+        "yaq": "kíkte"
+      },
+      "530": {
+        "en": "clock, timepiece",
+        "fr": "horloge,  montre",
+        "es": "reloj",
+        "yaq": "relók"
+      },
+      "430": {
+        "en": "dawn",
+        "fr": "aube",
+        "es": "madrugada",
+        "yaq": "X"
+      },
+      "410": {
+        "en": "day",
+        "fr": "jour",
+        "es": "día",
+        "yaq": "taéwai"
+      },
+      "481": {
+        "en": "day-after-tomorrow",
+        "fr": "après-demain",
+        "es": "pasado mañana",
+        "yaq": "yoóko"
+      },
+      "491": {
+        "en": "day-before-yesterday",
+        "fr": "avant-hier",
+        "es": "anteayer",
+        "yaq": "battuúka"
+      },
+      "240": {
+        "en": "retard, delay",
+        "fr": "différer, retarder",
+        "es": "demorar",
+        "yaq": "kaá bámse"
+      },
+      "160": {
+        "en": "early",
+        "fr": "tôt,  de bonne heure",
+        "es": "temprano",
+        "yaq": "ketwó"
+      },
+      "260": {
+        "en": "end (temporal)",
+        "fr": "fin",
+        "es": "fin",
+        "yaq": "X"
+      },
+      "252": {
+        "en": "last, endure",
+        "fr": "durer",
+        "es": "durar",
+        "yaq": "bínwatu"
+      },
+      "460": {
+        "en": "evening",
+        "fr": "soir",
+        "es": "vísperas, noche",
+        "yaq": "tukáaria"
+      },
+      "210": {
+        "en": "swift, fast, quick",
+        "fr": "vite, rapide",
+        "es": "rápido",
+        "yaq": "laútia"
+      },
+      "270": {
+        "en": "finish",
+        "fr": "finir, terminer",
+        "es": "terminar,  finalizar",
+        "yaq": "chúpa"
+      },
+      "670": {
+        "en": "Friday",
+        "fr": "vendredi",
+        "es": "viernes",
+        "yaq": "biénes"
+      },
+      "230": {
+        "en": "hurry, hasten",
+        "fr": "se dépêcher",
+        "es": "apurarse",
+        "yaq": "bámse"
+      },
+      "510": {
+        "en": "hour",
+        "fr": "heure",
+        "es": "hora",
+        "yaq": "oóra"
+      },
+      "190": {
+        "en": "immediately",
+        "fr": "tout de suite",
+        "es": "inmediatamente",
+        "yaq": "sépia"
+      },
+      "170": {
+        "en": "late",
+        "fr": "tard",
+        "es": "tarde",
+        "yaq": "X"
+      },
+      "332": {
+        "en": "long-time (for a)",
+        "fr": "longtemps",
+        "es": "por mucho tiempo",
+        "yaq": "bínwatu"
+      },
+      "450": {
+        "en": "noon, midday",
+        "fr": "midi",
+        "es": "mediodía",
+        "yaq": "lúula kátek"
+      },
+      "630": {
+        "en": "Monday",
+        "fr": "lundi",
+        "es": "lunes",
+        "yaq": "luúnes"
+      },
+      "710": {
+        "en": "month",
+        "fr": "mois",
+        "es": "mes",
+        "yaq": "meécha"
+      },
+      "440": {
+        "en": "morning",
+        "fr": "matin,  matinée",
+        "es": "mañana",
+        "yaq": "yoóko"
+      },
+      "340": {
+        "en": "never",
+        "fr": "jamais",
+        "es": "nunca, jamás",
+        "yaq": "jákko júni é’e"
+      },
+      "130": {
+        "en": "new",
+        "fr": "nouveau",
+        "es": "Nuevo",
+        "yaq": "beméla"
+      },
+      "420": {
+        "en": "night",
+        "fr": "nuit",
+        "es": "noche",
+        "yaq": "tukária"
+      },
+      "180": {
+        "en": "now",
+        "fr": "maintenant",
+        "es": "ahora",
+        "yaq": "í’ani"
+      },
+      "320": {
+        "en": "often",
+        "fr": "souvent",
+        "es": "frecuentemente",
+        "yaq": "X"
+      },
+      "150": {
+        "en": "old",
+        "fr": "vieux,âgé",
+        "es": "viejo",
+        "yaq": "ó’ola"
+      },
+      "290": {
+        "en": "ready",
+        "fr": "prêt",
+        "es": "listo----líjto",
+        "yaq": "X"
+      },
+      "680": {
+        "en": "Saturday",
+        "fr": "samedi",
+        "es": "sábado----sábala",
+        "yaq": "X"
+      },
+      "780": {
+        "en": "season",
+        "fr": "saison",
+        "es": "estación",
+        "yaq": "X"
+      },
+      "220": {
+        "en": "slow",
+        "fr": "lent",
+        "es": "despacio,  lentamente",
+        "yaq": "X"
+      },
+      "330": {
+        "en": "sometimes",
+        "fr": "quelquefois",
+        "es": "a veces",
+        "yaq": "X"
+      },
+      "331": {
+        "en": "soon",
+        "fr": "bientôt",
+        "es": "pronto",
+        "yaq": "X"
+      },
+      "750": {
+        "en": "spring (season)",
+        "fr": "printemps",
+        "es": "primavera",
+        "yaq": "X"
+      },
+      "760": {
+        "en": "summer",
+        "fr": "été",
+        "es": "verano",
+        "yaq": "X"
+      },
+      "620": {
+        "en": "Sunday",
+        "fr": "dimanche",
+        "es": "domingo------lomínko",
+        "yaq": "X"
+      },
+      "660": {
+        "en": "Thursday",
+        "fr": "jeudi",
+        "es": "jueves----------juébes",
+        "yaq": "X"
+      },
+      "110": {
+        "en": "time",
+        "fr": "heure",
+        "es": "tiempo------tiémpo",
+        "yaq": "X"
+      },
+      "470": {
+        "en": "today",
+        "fr": "aujourd'hui",
+        "es": "hoy",
+        "yaq": "X"
+      },
+      "480": {
+        "en": "tomorrow",
+        "fr": "demain",
+        "es": "mañana",
+        "yaq": "X"
+      },
+      "640": {
+        "en": "Tuesday",
+        "fr": "mardi",
+        "es": "martes-----máates",
+        "yaq": "X"
+      },
+      "650": {
+        "en": "Wednesday",
+        "fr": "mercredi",
+        "es": "miércoles----miékoles",
+        "yaq": "X"
+      },
+      "610": {
+        "en": "week",
+        "fr": "semaine",
+        "es": "semana------semáana",
+        "yaq": "X"
+      },
+      "740": {
+        "en": "winter",
+        "fr": "hiver",
+        "es": "invierno",
+        "yaq": "X"
+      },
+      "730": {
+        "en": "year",
+        "fr": "année",
+        "es": "año",
+        "yaq": "X"
+      },
+      "490": {
+        "en": "yesterday",
+        "fr": "hier",
+        "es": "ayer",
+        "yaq": "X"
+      },
+      "140": {
+        "en": "young",
+        "fr": "jeune",
+        "es": "tierno, joven",
+        "yaq": "X"
+      }
+    },
+    "01": {
+      "710": {
+        "en": "air",
+        "fr": "air",
+        "es": "aire",
+        "yaq": "X"
+      },
+      "840": {
+        "en": "ashes",
+        "fr": "cendres",
+        "es": "cenizas",
+        "yaq": "náposa"
+      },
+      "270": {
+        "en": "bank (of river), shore",
+        "fr": "rivage,  littoral",
+        "es": "ribera, playa",
+        "yaq": "bawé mayoá"
+      },
+      "340": {
+        "en": "gulf, bay",
+        "fr": "golfe, baie",
+        "es": "golfo, bahía",
+        "yaq": "wólpo"
+      },
+      "360": {
+        "en": "stream, brook, river",
+        "fr": "fleuve, rivière, ruisseau",
+        "es": "río, corriente, arroyo",
+        "yaq": "X"
+      },
+      "852": {
+        "en": "burn (vb intrans)",
+        "fr": "brûler",
+        "es": "arder",
+        "yaq": "béete"
+      },
+      "851": {
+        "en": "burn (vb trans)",
+        "fr": "brûler",
+        "es": "quemar",
+        "yaq": "táya"
+      },
+      "322": {
+        "en": "calm (of sea)",
+        "fr": "étale",
+        "es": "calma",
+        "yaq": "kópalai"
+      },
+      "280": {
+        "en": "cave",
+        "fr": "grotte",
+        "es": "cueva",
+        "yaq": "teéso"
+      },
+      "890": {
+        "en": "charcoal",
+        "fr": "charbon de bois",
+        "es": "carbón",
+        "yaq": "maátum"
+      },
+      "222": {
+        "en": "precipice, cliff",
+        "fr": "falaise",
+        "es": "barranca",
+        "yaq": "siíba"
+      },
+      "730": {
+        "en": "cloud",
+        "fr": "nuage",
+        "es": "nube",
+        "yaq": "naámu"
+      },
+      "620": {
+        "en": "darkness",
+        "fr": "obscurité, ténèbres",
+        "es": "oscuridad",
+        "yaq": "kaá mamáchia"
+      },
+      "640": {
+        "en": "dew",
+        "fr": "rosée",
+        "es": "rocío",
+        "yaq": "síjjo’ote"
+      },
+      "213": {
+        "en": "dust",
+        "fr": "poussière",
+        "es": "polvo",
+        "yaq": "tóochia"
+      },
+      "210": {
+        "en": "land, earth",
+        "fr": "terre",
+        "es": "tierra",
+        "yaq": "bwiá"
+      },
+      "212": {
+        "en": "soil, ground=earth, earth=ground",
+        "fr": "terre, sol",
+        "es": "suelo",
+        "yaq": "X"
+      },
+      "450": {
+        "en": "earthquake",
+        "fr": "tremblement de terre, séisme",
+        "es": "terremoto",
+        "yaq": "X"
+      },
+      "841": {
+        "en": "embers",
+        "fr": "braise",
+        "es": "brasas",
+        "yaq": "oúbam"
+      },
+      "861": {
+        "en": "extinguish",
+        "fr": "éteindre",
+        "es": "apagar",
+        "yaq": "bejé’etua"
+      },
+      "230": {
+        "en": "plain, field",
+        "fr": "plaine, campagne",
+        "es": "pampa, llano",
+        "yaq": "pá’aria"
+      },
+      "810": {
+        "en": "fire",
+        "fr": "feu",
+        "es": "fuego",
+        "yaq": "táji"
+      },
+      "880": {
+        "en": "firewood",
+        "fr": "bois (pour le feu), bûches",
+        "es": "leña",
+        "yaq": "kútam"
+      },
+      "820": {
+        "en": "flame (noun)",
+        "fr": "flamme",
+        "es": "llama",
+        "yaq": "buáktia"
+      },
+      "324": {
+        "en": "foam",
+        "fr": "écume,  mousse",
+        "es": "espuma",
+        "yaq": "somó’ochia"
+      },
+      "740": {
+        "en": "fog",
+        "fr": "brume, brouillard",
+        "es": "neblina, niebla",
+        "yaq": "bájewa"
+      },
+      "410": {
+        "en": "woods, forest",
+        "fr": "bois, forêt",
+        "es": "selva",
+        "yaq": "júya"
+      },
+      "343": {
+        "en": "point, headland",
+        "fr": "promontoire, pointe",
+        "es": "punta",
+        "yaq": "púnta"
+      },
+      "354": {
+        "en": "hightide",
+        "fr": "marée haute",
+        "es": "pleamar",
+        "yaq": "X"
+      },
+      "220": {
+        "en": "mountain, hill",
+        "fr": "montagne, colline",
+        "es": "montaña, loma",
+        "yaq": "káwi, chópo’oria"
+      },
+      "770": {
+        "en": "ice",
+        "fr": "glace",
+        "es": "hielo",
+        "yaq": "sápam"
+      },
+      "860": {
+        "en": "light, kindle, ignite",
+        "fr": "allumer",
+        "es": "encender",
+        "yaq": "táya"
+      },
+      "250": {
+        "en": "island",
+        "fr": "île",
+        "es": "isla",
+        "yaq": "X"
+      },
+      "341": {
+        "en": "lagoon",
+        "fr": "lagune",
+        "es": "laguna",
+        "yaq": "baubá’a"
+      },
+      "330": {
+        "en": "lake",
+        "fr": "lac",
+        "es": "lago",
+        "yaq": "X"
+      },
+      "610": {
+        "en": "light (noun)",
+        "fr": "lumière",
+        "es": "luz",
+        "yaq": "táji"
+      },
+      "550": {
+        "en": "lightning",
+        "fr": "éclair",
+        "es": "relámpago",
+        "yaq": "yúku be’óktia"
+      },
+      "570": {
+        "en": "lightning (as striking)",
+        "fr": "foudre",
+        "es": "rayo",
+        "yaq": "yúku jimaári"
+      },
+      "353": {
+        "en": "lowtide",
+        "fr": "marée basse",
+        "es": "bajamar",
+        "yaq": "X"
+      },
+      "260": {
+        "en": "mainland",
+        "fr": "continent",
+        "es": "continente",
+        "yaq": "X"
+      },
+      "870": {
+        "en": "match (noun)",
+        "fr": "allumette",
+        "es": "fósforo",
+        "yaq": "X"
+      },
+      "530": {
+        "en": "moon",
+        "fr": "lune",
+        "es": "luna",
+        "yaq": "meécha"
+      },
+      "214": {
+        "en": "mud",
+        "fr": "boue",
+        "es": "lodo",
+        "yaq": "techoá"
+      },
+      "329": {
+        "en": "ocean",
+        "fr": "océan",
+        "es": "océano",
+        "yaq": "X"
+      },
+      "750": {
+        "en": "rain (noun)",
+        "fr": "pluie",
+        "es": "lluvia",
+        "yaq": "X"
+      },
+      "590": {
+        "en": "rainbow",
+        "fr": "arc-en-ciel",
+        "es": "arco-iris",
+        "yaq": "X"
+      },
+      "342": {
+        "en": "reef",
+        "fr": "récif",
+        "es": "arrecife",
+        "yaq": "X"
+      },
+      "440": {
+        "en": "stone, rock",
+        "fr": "pierre, roc, rocher",
+        "es": "piedra, roca",
+        "yaq": "X"
+      },
+      "323": {
+        "en": "rough (of sea)",
+        "fr": "trouble, agité (mer)",
+        "es": "agitado (mar), borrascoso",
+        "yaq": "X"
+      },
+      "215": {
+        "en": "sand",
+        "fr": "sable",
+        "es": "arena",
+        "yaq": "X"
+      },
+      "320": {
+        "en": "sea",
+        "fr": "mer",
+        "es": "mar",
+        "yaq": "X"
+      },
+      "630": {
+        "en": "shade, shadow",
+        "fr": "ombre",
+        "es": "sombra",
+        "yaq": "X"
+      },
+      "510": {
+        "en": "sky",
+        "fr": "ciel",
+        "es": "cielo",
+        "yaq": "X"
+      },
+      "830": {
+        "en": "smoke (noun)",
+        "fr": "fumée",
+        "es": "humo",
+        "yaq": "X"
+      },
+      "760": {
+        "en": "snow (noun)",
+        "fr": "neige",
+        "es": "nieve",
+        "yaq": "X"
+      },
+      "370": {
+        "en": "well, spring",
+        "fr": "source, puits",
+        "es": "manantial, pozo",
+        "yaq": "X"
+      },
+      "540": {
+        "en": "star",
+        "fr": "étoile",
+        "es": "estrella",
+        "yaq": "X"
+      },
+      "580": {
+        "en": "storm",
+        "fr": "orage, tempête",
+        "es": "tempestad, tormenta",
+        "yaq": "X"
+      },
+      "520": {
+        "en": "sun",
+        "fr": "soleil",
+        "es": "sol",
+        "yaq": "X"
+      },
+      "380": {
+        "en": "swamp",
+        "fr": "marais, marécage",
+        "es": "pantano",
+        "yaq": "X"
+      },
+      "560": {
+        "en": "thunder",
+        "fr": "tonnerre",
+        "es": "trueno",
+        "yaq": "X"
+      },
+      "352": {
+        "en": "tide",
+        "fr": "marée",
+        "es": "marea",
+        "yaq": "X"
+      },
+      "420": {
+        "en": "tree (cf 08.600)",
+        "fr": "arbre",
+        "es": "árbol",
+        "yaq": "X"
+      },
+      "240": {
+        "en": "valley",
+        "fr": "vallée",
+        "es": "valle",
+        "yaq": "X"
+      },
+      "310": {
+        "en": "water",
+        "fr": "eau",
+        "es": "agua",
+        "yaq": "X"
+      },
+      "390": {
+        "en": "waterfall",
+        "fr": "chûte d'eau, cascade",
+        "es": "cascada",
+        "yaq": "X"
+      },
+      "350": {
+        "en": "wave",
+        "fr": "vague",
+        "es": "ola",
+        "yaq": "X"
+      },
+      "780": {
+        "en": "weather",
+        "fr": "temps",
+        "es": "tiempo",
+        "yaq": "X"
+      },
+      "362": {
+        "en": "whirlpool",
+        "fr": "tourbillon d'eau",
+        "es": "remolino",
+        "yaq": "X"
+      },
+      "720": {
+        "en": "wind",
+        "fr": "vent",
+        "es": "viento",
+        "yaq": "X"
+      },
+      "430": {
+        "en": "wood",
+        "fr": "bois",
+        "es": "madera",
+        "yaq": "X"
+      },
+      "100": {
+        "en": "world",
+        "fr": "monde",
+        "es": "mundo",
+        "yaq": "X"
+      }
+    },
+    "04": {
+      "740": {
+        "en": "live, living, life, alive",
+        "fr": "vivre, vivant, vie",
+        "es": "vivir",
+        "yaq": "jiápsa"
+      },
+      "371": {
+        "en": "ankle",
+        "fr": "cheville",
+        "es": "tobillo",
+        "yaq": "X"
+      },
+      "310": {
+        "en": "arm",
+        "fr": "bras",
+        "es": "brazo",
+        "yaq": "X"
+      },
+      "312": {
+        "en": "armpit",
+        "fr": "aisselle",
+        "es": "sobaco, axila",
+        "yaq": "seékam"
+      },
+      "151": {
+        "en": "vein, artery",
+        "fr": "veine, artère",
+        "es": "vena, arteria",
+        "yaq": "ójbo wíkia"
+      },
+      "190": {
+        "en": "back",
+        "fr": "dos",
+        "es": "espalda",
+        "yaq": "X"
+      },
+      "930": {
+        "en": "bald",
+        "fr": "chauve",
+        "es": "calvo",
+        "yaq": "kaá chonékame"
+      },
+      "990": {
+        "en": "naked, bare",
+        "fr": "nu",
+        "es": "desnudo",
+        "yaq": "biíchi"
+      },
+      "690": {
+        "en": "bathe",
+        "fr": "se baigner",
+        "es": "bañar(se)",
+        "yaq": "úba"
+      },
+      "241": {
+        "en": "beak",
+        "fr": "bec",
+        "es": "pico",
+        "yaq": "piíko"
+      },
+      "142": {
+        "en": "beard",
+        "fr": "barbe",
+        "es": "barba",
+        "yaq": "cháo bóam"
+      },
+      "710": {
+        "en": "beget (of father)",
+        "fr": "engendrer",
+        "es": "engendrar",
+        "yaq": "nauyaá"
+      },
+      "720": {
+        "en": "birth, born (to be)",
+        "fr": "né,  naître",
+        "es": "nacer",
+        "yaq": "tómte"
+      },
+      "580": {
+        "en": "bite",
+        "fr": "mordre",
+        "es": "morder",
+        "yaq": "ké’e"
+      },
+      "970": {
+        "en": "blind",
+        "fr": "aveugle",
+        "es": "ciego",
+        "yaq": "rípti"
+      },
+      "215": {
+        "en": "blink",
+        "fr": "cligner (de l'oeil)",
+        "es": "parpadear",
+        "yaq": "kupíkte"
+      },
+      "855": {
+        "en": "blister",
+        "fr": "ampoule",
+        "es": "ampolla",
+        "yaq": "boyória"
+      },
+      "150": {
+        "en": "blood",
+        "fr": "sang",
+        "es": "sangre",
+        "yaq": "ójbo"
+      },
+      "110": {
+        "en": "body",
+        "fr": "corps",
+        "es": "cuerpo",
+        "yaq": "taká"
+      },
+      "144": {
+        "en": "body hair",
+        "fr": "poil",
+        "es": "vello (del cuerpo)",
+        "yaq": "boá"
+      },
+      "856": {
+        "en": "boil (noun)",
+        "fr": "furoncle",
+        "es": "furúnculo, forúnculo",
+        "yaq": "X"
+      },
+      "160": {
+        "en": "bone",
+        "fr": "os",
+        "es": "hueso",
+        "yaq": "óta"
+      },
+      "203": {
+        "en": "brain",
+        "fr": "cerveau",
+        "es": "cerebro, sesos",
+        "yaq": "ó’oream"
+      },
+      "410": {
+        "en": "breast (of woman)",
+        "fr": "sein, poitrine",
+        "es": "seno",
+        "yaq": "pípim"
+      },
+      "510": {
+        "en": "breathe, breath",
+        "fr": "respirer, haleine",
+        "es": "respirar, aliento",
+        "yaq": "jiabijte, jiabijtei"
+      },
+      "852": {
+        "en": "bruise",
+        "fr": "contusion, bleu",
+        "es": "magulladura",
+        "yaq": "X"
+      },
+      "780": {
+        "en": "bury (the dead)",
+        "fr": "enterrer",
+        "es": "sepultar",
+        "yaq": "maá’a"
+      },
+      "464": {
+        "en": "buttocks",
+        "fr": "fesses, derrière",
+        "es": "nalgas,  trasero",
+        "yaq": "chóbe"
+      },
+      "352": {
+        "en": "calf of leg",
+        "fr": "mollet",
+        "es": "pantorrilla",
+        "yaq": "woktómam"
+      },
+      "843": {
+        "en": "catarrh, cold",
+        "fr": "rhume",
+        "es": "catarro",
+        "yaq": "chomkó’okoa"
+      },
+      "208": {
+        "en": "cheek",
+        "fr": "joue",
+        "es": "mejilla",
+        "yaq": "jópem"
+      },
+      "400": {
+        "en": "chest",
+        "fr": "poitrine",
+        "es": "pecho",
+        "yaq": "táwi"
+      },
+      "209": {
+        "en": "chin",
+        "fr": "menton",
+        "es": "mentón",
+        "yaq": "chaáo"
+      },
+      "345": {
+        "en": "claw",
+        "fr": "griffe",
+        "es": "garra",
+        "yaq": "sútum"
+      },
+      "302": {
+        "en": "collarbone",
+        "fr": "clavicule",
+        "es": "clavícula",
+        "yaq": "X"
+      },
+      "732": {
+        "en": "conceive",
+        "fr": "concevoir",
+        "es": "concebir",
+        "yaq": "X"
+      },
+      "770": {
+        "en": "corpse",
+        "fr": "cadavre",
+        "es": "cadaver",
+        "yaq": "mukíla"
+      },
+      "530": {
+        "en": "cough",
+        "fr": "tousser",
+        "es": "toser",
+        "yaq": "táse"
+      },
+      "860": {
+        "en": "heal, cure",
+        "fr": "guérir",
+        "es": "sanar",
+        "yaq": "X"
+      },
+      "146": {
+        "en": "dandruff",
+        "fr": "pellicule",
+        "es": "caspa",
+        "yaq": "X"
+      },
+      "750": {
+        "en": "dead, die",
+        "fr": "mourir, mort",
+        "es": "morir, muerto",
+        "yaq": "mukíla"
+      },
+      "950": {
+        "en": "deaf",
+        "fr": "sourd",
+        "es": "sordo",
+        "yaq": "nákapit"
+      },
+      "660": {
+        "en": "defecate",
+        "fr": "déféquer",
+        "es": "defecar, excremento (noun)",
+        "yaq": "bwíta"
+      },
+      "870": {
+        "en": "physician, doctor",
+        "fr": "médecin",
+        "es": "doctor, médico, medico",
+        "yaq": "yoi jitébi"
+      },
+      "620": {
+        "en": "dream",
+        "fr": "rêver",
+        "es": "sonar",
+        "yaq": "X"
+      },
+      "591": {
+        "en": "dribble",
+        "fr": "baver",
+        "es": "gotear, babear",
+        "yaq": "chíchek"
+      },
+      "751": {
+        "en": "drowned",
+        "fr": "noyé",
+        "es": "ahogado",
+        "yaq": "X"
+      },
+      "880": {
+        "en": "medicine, drug",
+        "fr": "remède, médecine",
+        "es": "medicina, remedio",
+        "yaq": "jíttoa"
+      },
+      "220": {
+        "en": "ear",
+        "fr": "oreille",
+        "es": "oreja",
+        "yaq": "nákam"
+      },
+      "221": {
+        "en": "earlobe",
+        "fr": "lobe de l'oreille",
+        "es": "lóbulo (de oreja)",
+        "yaq": "X"
+      },
+      "222": {
+        "en": "wax (ear), earwax",
+        "fr": "cèrumen, cire d'oreille",
+        "es": "cerumen",
+        "yaq": "X"
+      },
+      "320": {
+        "en": "elbow",
+        "fr": "coude",
+        "es": "codo",
+        "yaq": "téchom"
+      },
+      "210": {
+        "en": "eye",
+        "fr": "oeil",
+        "es": "ojo",
+        "yaq": "puúsim"
+      },
+      "212": {
+        "en": "eyebrow",
+        "fr": "sourcil",
+        "es": "ceja",
+        "yaq": "kúmsakam"
+      },
+      "214": {
+        "en": "eyelash",
+        "fr": "cil",
+        "es": "pestaña",
+        "yaq": "pussé’ebem"
+      },
+      "213": {
+        "en": "eyelid",
+        "fr": "paupière",
+        "es": "párpado",
+        "yaq": "pujbepá’aria"
+      },
+      "204": {
+        "en": "face",
+        "fr": "visage",
+        "es": "cara",
+        "yaq": "pújba"
+      },
+      "393": {
+        "en": "feather",
+        "fr": "plume",
+        "es": "pluma",
+        "yaq": "boá"
+      },
+      "841": {
+        "en": "fever",
+        "fr": "fièvre",
+        "es": "fiebre",
+        "yaq": "taiwéchia"
+      },
+      "340": {
+        "en": "finger",
+        "fr": "doigt",
+        "es": "dedo",
+        "yaq": "mampusiám"
+      },
+      "344": {
+        "en": "fingernail",
+        "fr": "ongle",
+        "es": "uña",
+        "yaq": "sútum"
+      },
+      "640": {
+        "en": "flatulence, break wind",
+        "fr": "péter",
+        "es": "flato",
+        "yaq": "X"
+      },
+      "130": {
+        "en": "flesh",
+        "fr": "chair",
+        "es": "carne",
+        "yaq": "waákas"
+      },
+      "370": {
+        "en": "foot",
+        "fr": "pied",
+        "es": "pie",
+        "yaq": "wókim"
+      },
+      "374": {
+        "en": "footprint",
+        "fr": "empreinte du pied",
+        "es": "huella",
+        "yaq": "X"
+      },
+      "205": {
+        "en": "forehead",
+        "fr": "front",
+        "es": "frente",
+        "yaq": "bíchapo"
+      },
+      "520": {
+        "en": "yawn, gape",
+        "fr": "bailler",
+        "es": "bostezar",
+        "yaq": "wa’awa’ákte"
+      },
+      "842": {
+        "en": "goiter",
+        "fr": "goître",
+        "es": "bocio, coto",
+        "yaq": "X"
+      },
+      "790": {
+        "en": "tomb, grave",
+        "fr": "tombeau",
+        "es": "sepulcro",
+        "yaq": "X"
+      },
+      "271": {
+        "en": "gums",
+        "fr": "gencives",
+        "es": "encías",
+        "yaq": "tamtékwa"
+      },
+      "461": {
+        "en": "intestines, guts",
+        "fr": "intestins, boyaux",
+        "es": "intestinos",
+        "yaq": "siíam"
+      },
+      "140": {
+        "en": "hair (head)",
+        "fr": "cheveu",
+        "es": "cabello, pelo",
+        "yaq": "choónim"
+      },
+      "330": {
+        "en": "hand",
+        "fr": "main",
+        "es": "mano",
+        "yaq": "X"
+      },
+      "670": {
+        "en": "sexual intercourse, have sexual intercourse",
+        "fr": "faire l'amour, copuler",
+        "es": "tener relaciones sexuales",
+        "yaq": "X"
+      },
+      "200": {
+        "en": "head",
+        "fr": "tête",
+        "es": "cabeza",
+        "yaq": "kóba"
+      },
+      "830": {
+        "en": "well, health",
+        "fr": "santé, en bonne santé",
+        "es": "sano, salud",
+        "yaq": "X"
+      },
+      "440": {
+        "en": "heart",
+        "fr": "coeur",
+        "es": "corazón",
+        "yaq": "jiápsi"
+      },
+      "372": {
+        "en": "heel",
+        "fr": "talon",
+        "es": "talon",
+        "yaq": "pémpe’im"
+      },
+      "521": {
+        "en": "hiccough",
+        "fr": "hoqueter",
+        "es": "hipo",
+        "yaq": "je’óktia"
+      },
+      "120": {
+        "en": "skin, hide",
+        "fr": "peau",
+        "es": "piel, cutis, pellejo",
+        "yaq": "X"
+      },
+      "463": {
+        "en": "hip",
+        "fr": "hanche",
+        "es": "cadera",
+        "yaq": "wépe’i"
+      },
+      "170": {
+        "en": "horn",
+        "fr": "corne",
+        "es": "cuerno",
+        "yaq": "aáwam"
+      },
+      "840": {
+        "en": "sick, sickness, ill",
+        "fr": "malade, maladie",
+        "es": "enfermo",
+        "yaq": "kó’okoe"
+      },
+      "980": {
+        "en": "intoxicated",
+        "fr": "ivre",
+        "es": "ebrio",
+        "yaq": "naámukia"
+      },
+      "854": {
+        "en": "itch",
+        "fr": "démangeaison",
+        "es": "comezón",
+        "yaq": "elesikiá"
+      },
+      "207": {
+        "en": "jaw",
+        "fr": "machoire",
+        "es": "mandíbula",
+        "yaq": "tabawása’im"
+      },
+      "451": {
+        "en": "kidney",
+        "fr": "rein",
+        "es": "riñón",
+        "yaq": "sikúpuriam"
+      },
+      "760": {
+        "en": "kill",
+        "fr": "tuer",
+        "es": "matar",
+        "yaq": "mé’a"
+      },
+      "360": {
+        "en": "knee",
+        "fr": "genou",
+        "es": "rodilla",
+        "yaq": "tónom"
+      },
+      "940": {
+        "en": "lame",
+        "fr": "boiteux",
+        "es": "lisiado",
+        "yaq": "X"
+      },
+      "920": {
+        "en": "lazy",
+        "fr": "paresseux",
+        "es": "perezoso",
+        "yaq": "obé’a"
+      },
+      "350": {
+        "en": "leg",
+        "fr": "jambe",
+        "es": "pierna,  pata",
+        "yaq": "wókim"
+      },
+      "590": {
+        "en": "lick",
+        "fr": "lécher",
+        "es": "lamer",
+        "yaq": "be’ókta"
+      },
+      "250": {
+        "en": "lip",
+        "fr": "lèvre",
+        "es": "labio",
+        "yaq": "tenberiá"
+      },
+      "450": {
+        "en": "liver",
+        "fr": "foie",
+        "es": "hígado",
+        "yaq": "jeémam"
+      },
+      "441": {
+        "en": "lung",
+        "fr": "poumon",
+        "es": "pulmón",
+        "yaq": "sáre’echiam"
+      },
+      "810": {
+        "en": "strong, mighty, powerful",
+        "fr": "fort, puissant",
+        "es": "fuerte, poderoso",
+        "yaq": "X"
+      },
+      "272": {
+        "en": "molartooth",
+        "fr": "molaire",
+        "es": "molar,  muela",
+        "yaq": "X"
+      },
+      "240": {
+        "en": "mouth",
+        "fr": "bouche",
+        "es": "boca",
+        "yaq": "teéni"
+      },
+      "232": {
+        "en": "mucus (nasal)",
+        "fr": "morve,  mucus",
+        "es": "moco",
+        "yaq": "choómim"
+      },
+      "960": {
+        "en": "mute",
+        "fr": "muet",
+        "es": "mudo",
+        "yaq": "kaá nonókame, múuro"
+      },
+      "281": {
+        "en": "nape of neck",
+        "fr": "nuque",
+        "es": "nuca",
+        "yaq": "bí’am"
+      },
+      "430": {
+        "en": "navel",
+        "fr": "nombril",
+        "es": "ombligo",
+        "yaq": "siíku"
+      },
+      "280": {
+        "en": "neck",
+        "fr": "cou",
+        "es": "cuello",
+        "yaq": "kutanaá"
+      },
+      "412": {
+        "en": "teat, nipple",
+        "fr": "mamelon, téton",
+        "es": "pezón",
+        "yaq": "X"
+      },
+      "230": {
+        "en": "nose",
+        "fr": "nez",
+        "es": "nariz",
+        "yaq": "yéka"
+      },
+      "231": {
+        "en": "nostril",
+        "fr": "narine",
+        "es": "ventana de la nariz",
+        "yaq": "yéka wojó’oria"
+      },
+      "331": {
+        "en": "palm of hand",
+        "fr": "paume",
+        "es": "palma de la mano",
+        "yaq": "mambéta’aria"
+      },
+      "492": {
+        "en": "penis",
+        "fr": "pénis",
+        "es": "pene",
+        "yaq": "bichoó"
+      },
+      "550": {
+        "en": "perspire",
+        "fr": "transpirer, suer",
+        "es": "sudar",
+        "yaq": "tatabújte"
+      },
+      "890": {
+        "en": "poison",
+        "fr": "poison",
+        "es": "veneno",
+        "yaq": "X"
+      },
+      "730": {
+        "en": "pregnant",
+        "fr": "enceinte",
+        "es": "embarazada (mujer), preñada (hembra)",
+        "yaq": "X"
+      },
+      "145": {
+        "en": "pubic hair",
+        "fr": "poil pubien",
+        "es": "pelo púbico",
+        "yaq": "X"
+      },
+      "857": {
+        "en": "pus",
+        "fr": "pus",
+        "es": "pus",
+        "yaq": "X"
+      },
+      "912": {
+        "en": "rest",
+        "fr": "se reposer",
+        "es": "descansar",
+        "yaq": "X"
+      },
+      "162": {
+        "en": "rib",
+        "fr": "côte",
+        "es": "costilla",
+        "yaq": "X"
+      },
+      "560": {
+        "en": "spit, saliva",
+        "fr": "cracher",
+        "es": "escupir (saliva [noun])",
+        "yaq": "X"
+      },
+      "858": {
+        "en": "scar",
+        "fr": "cicatrice",
+        "es": "cicatriz",
+        "yaq": "X"
+      },
+      "680": {
+        "en": "shiver",
+        "fr": "frissonner",
+        "es": "temblar",
+        "yaq": "X"
+      },
+      "300": {
+        "en": "shoulder",
+        "fr": "épaule",
+        "es": "hombro",
+        "yaq": "X"
+      },
+      "301": {
+        "en": "shoulderblade",
+        "fr": "omoplate",
+        "es": "escápula,  omóplato",
+        "yaq": "X"
+      },
+      "201": {
+        "en": "temple, side of head",
+        "fr": "tempe",
+        "es": "sien",
+        "yaq": "X"
+      },
+      "202": {
+        "en": "skull",
+        "fr": "crâne",
+        "es": "cráneo, calavera",
+        "yaq": "X"
+      },
+      "610": {
+        "en": "sleep",
+        "fr": "dormir",
+        "es": "dormir",
+        "yaq": "X"
+      },
+      "540": {
+        "en": "sneeze",
+        "fr": "éternuer",
+        "es": "estornudar",
+        "yaq": "X"
+      },
+      "612": {
+        "en": "snore",
+        "fr": "ronfler",
+        "es": "roncar",
+        "yaq": "X"
+      },
+      "850": {
+        "en": "wound, sore",
+        "fr": "blessure, plaie",
+        "es": "herida, llaga",
+        "yaq": "X"
+      },
+      "191": {
+        "en": "spine",
+        "fr": "épine dorsale",
+        "es": "espinazo,   espina dorsal",
+        "yaq": "X"
+      },
+      "452": {
+        "en": "spleen",
+        "fr": "rate",
+        "es": "bazo----báaso",
+        "yaq": "X"
+      },
+      "460": {
+        "en": "stomach",
+        "fr": "estomac, (malau) ventre",
+        "es": "estómago",
+        "yaq": "X"
+      },
+      "853": {
+        "en": "swelling",
+        "fr": "bosse, enflure",
+        "es": "hinchazón",
+        "yaq": "X"
+      },
+      "180": {
+        "en": "tail",
+        "fr": "queue",
+        "es": "cola",
+        "yaq": "X"
+      },
+      "490": {
+        "en": "testicle",
+        "fr": "testicule",
+        "es": "testículo",
+        "yaq": "X"
+      },
+      "351": {
+        "en": "thigh",
+        "fr": "cuisse",
+        "es": "muslo",
+        "yaq": "X"
+      },
+      "290": {
+        "en": "throat",
+        "fr": "gorge",
+        "es": "garganta",
+        "yaq": "X"
+      },
+      "342": {
+        "en": "thumb",
+        "fr": "pouce",
+        "es": "pulgar",
+        "yaq": "X"
+      },
+      "910": {
+        "en": "weary, tired",
+        "fr": "fatigue",
+        "es": "cansado",
+        "yaq": "X"
+      },
+      "380": {
+        "en": "toe",
+        "fr": "orteil, doigt de pied",
+        "es": "dedo del pie",
+        "yaq": "X"
+      },
+      "260": {
+        "en": "tongue",
+        "fr": "langue",
+        "es": "lengua",
+        "yaq": "X"
+      },
+      "270": {
+        "en": "tooth",
+        "fr": "dent",
+        "es": "diente",
+        "yaq": "X"
+      },
+      "420": {
+        "en": "udder",
+        "fr": "pis,  mamelle",
+        "es": "ubre",
+        "yaq": "X"
+      },
+      "650": {
+        "en": "urinate",
+        "fr": "uriner",
+        "es": "orinar",
+        "yaq": "X"
+      },
+      "570": {
+        "en": "vomit",
+        "fr": "vomir",
+        "es": "vomitar",
+        "yaq": "X"
+      },
+      "462": {
+        "en": "waist",
+        "fr": "taille",
+        "es": "cintura",
+        "yaq": "X"
+      },
+      "630": {
+        "en": "wake up",
+        "fr": "se réveiller, s'eveiller",
+        "es": "despertarse",
+        "yaq": "X"
+      },
+      "820": {
+        "en": "weak",
+        "fr": "faible",
+        "es": "débil",
+        "yaq": "X"
+      },
+      "392": {
+        "en": "wing",
+        "fr": "aile",
+        "es": "ala",
+        "yaq": "X"
+      },
+      "470": {
+        "en": "womb",
+        "fr": "matrice",
+        "es": "matriz,  vientre",
+        "yaq": "X"
+      },
+      "321": {
+        "en": "wrist",
+        "fr": "poignet",
+        "es": "muñeca-----munyeéka",
+        "yaq": "X"
+      }
+    },
+    "03": {
+      "970": {
+        "en": "alligator, crocodile",
+        "fr": "crocodile",
+        "es": "cocodrilo, caimán",
+        "yaq": "káma"
+      },
+      "110": {
+        "en": "animal",
+        "fr": "animal,  bête",
+        "es": "animal",
+        "yaq": "animaál"
+      },
+      "817": {
+        "en": "ant",
+        "fr": "fourmi",
+        "es": "hormiga",
+        "yaq": "X"
+      },
+      "591": {
+        "en": "bat",
+        "fr": "chauve-souris",
+        "es": "murciélago",
+        "yaq": "sóchik"
+      },
+      "730": {
+        "en": "bear",
+        "fr": "ours",
+        "es": "oso",
+        "yaq": "oóso, joóso"
+      },
+      "820": {
+        "en": "bee",
+        "fr": "abeille",
+        "es": "abeja",
+        "yaq": "muúmu"
+      },
+      "822": {
+        "en": "beehive",
+        "fr": "ruche",
+        "es": "colmena",
+        "yaq": "kolméenam"
+      },
+      "821": {
+        "en": "wax (bees), beeswax",
+        "fr": "cire",
+        "es": "cera de abeja",
+        "yaq": "mumú jo’ára"
+      },
+      "581": {
+        "en": "bird",
+        "fr": "oiseau",
+        "es": "pájaro",
+        "yaq": "wiíkit"
+      },
+      "320": {
+        "en": "boar",
+        "fr": "sanglier",
+        "es": "jabalí",
+        "yaq": "juá kówi"
+      },
+      "210": {
+        "en": "bull",
+        "fr": "taureau",
+        "es": "toro",
+        "yaq": "toóro, toó"
+      },
+      "920": {
+        "en": "butterfly",
+        "fr": "papillon",
+        "es": "mariposa",
+        "yaq": "baisé’eboli"
+      },
+      "586": {
+        "en": "vulture, buzzard",
+        "fr": "vautour",
+        "es": "buitre",
+        "yaq": "wiíru"
+      },
+      "240": {
+        "en": "calf",
+        "fr": "veau",
+        "es": "becerro,  ternero",
+        "yaq": "beseó"
+      },
+      "780": {
+        "en": "camel",
+        "fr": "chameau",
+        "es": "camello",
+        "yaq": "kaméeyo"
+      },
+      "620": {
+        "en": "cat",
+        "fr": "chat",
+        "es": "gato",
+        "yaq": "miísi"
+      },
+      "200": {
+        "en": "cattle (bovine)",
+        "fr": "bétail",
+        "es": "ganado",
+        "yaq": "X"
+      },
+      "814": {
+        "en": "centipede",
+        "fr": "mille-pattes",
+        "es": "ciempiés",
+        "yaq": "X"
+      },
+      "550": {
+        "en": "chicken",
+        "fr": "poulet",
+        "es": "pollo",
+        "yaq": "tótoi"
+      },
+      "520": {
+        "en": "rooster, cock",
+        "fr": "coq",
+        "es": "gallo",
+        "yaq": "tótoi"
+      },
+      "816": {
+        "en": "cockroach",
+        "fr": "cafard, cancrelat",
+        "es": "cucaracha",
+        "yaq": "X"
+      },
+      "450": {
+        "en": "colt, foal",
+        "fr": "poulain",
+        "es": "potrillo",
+        "yaq": "ilí kába’i"
+      },
+      "230": {
+        "en": "cow",
+        "fr": "vache",
+        "es": "vaca",
+        "yaq": "waákas"
+      },
+      "593": {
+        "en": "crow",
+        "fr": "corbeau",
+        "es": "cuervo",
+        "yaq": "koóni"
+      },
+      "750": {
+        "en": "deer",
+        "fr": "daim, cerf, chevreuil",
+        "es": "venado",
+        "yaq": "maáso"
+      },
+      "610": {
+        "en": "dog",
+        "fr": "chien",
+        "es": "perro",
+        "yaq": "chuú’u"
+      },
+      "662": {
+        "en": "porpoise, dolphin",
+        "fr": "marsouin, dauphin",
+        "es": "delfín",
+        "yaq": "X"
+      },
+      "460": {
+        "en": "donkey, ass",
+        "fr": "âne",
+        "es": "asno,  burro",
+        "yaq": "buúru"
+      },
+      "594": {
+        "en": "dove",
+        "fr": "colombe",
+        "es": "paloma",
+        "yaq": "palóma"
+      },
+      "570": {
+        "en": "duck",
+        "fr": "canard",
+        "es": "pato",
+        "yaq": "paáto"
+      },
+      "584": {
+        "en": "eagle",
+        "fr": "aigle",
+        "es": "águila",
+        "yaq": "taáwe"
+      },
+      "770": {
+        "en": "elephant",
+        "fr": "éléphant",
+        "es": "elefante",
+        "yaq": "elépante"
+      },
+      "280": {
+        "en": "ewe",
+        "fr": "brebis",
+        "es": "oveja",
+        "yaq": "bwára"
+      },
+      "130": {
+        "en": "female (adj)",
+        "fr": "femelle",
+        "es": "femenino",
+        "yaq": "jámut"
+      },
+      "652": {
+        "en": "fin (dorsal)",
+        "fr": "nageoire",
+        "es": "aleta",
+        "yaq": "másam"
+      },
+      "910": {
+        "en": "firefly",
+        "fr": "verluisant, luciole",
+        "es": "luciérnaga",
+        "yaq": "kuúpis"
+      },
+      "650": {
+        "en": "fish",
+        "fr": "poisson",
+        "es": "pez, pescado",
+        "yaq": "kúchu"
+      },
+      "653": {
+        "en": "fishscale",
+        "fr": "écaille",
+        "es": "escama",
+        "yaq": "kuúpem"
+      },
+      "813": {
+        "en": "flea",
+        "fr": "puce",
+        "es": "pulga",
+        "yaq": "téput"
+      },
+      "830": {
+        "en": "fly (noun)",
+        "fr": "mouche",
+        "es": "mosca",
+        "yaq": "sé’eboi"
+      },
+      "500": {
+        "en": "fowl",
+        "fr": "poule",
+        "es": "ave",
+        "yaq": "wiíkit"
+      },
+      "740": {
+        "en": "fox",
+        "fr": "renard",
+        "es": "zorro",
+        "yaq": "káwis"
+      },
+      "665": {
+        "en": "freshwater eel",
+        "fr": "anguille d'eau douce",
+        "es": "anguila de agua dulce",
+        "yaq": "X"
+      },
+      "950": {
+        "en": "frog",
+        "fr": "grenouille",
+        "es": "rana",
+        "yaq": "bátat"
+      },
+      "654": {
+        "en": "gill",
+        "fr": "ouïes",
+        "es": "agalla",
+        "yaq": "X"
+      },
+      "831": {
+        "en": "sandfly (midge), gnat",
+        "fr": "moucheron",
+        "es": "jején",
+        "yaq": "kúru"
+      },
+      "360": {
+        "en": "goat",
+        "fr": "chèvre",
+        "es": "cabra",
+        "yaq": "kabá"
+      },
+      "560": {
+        "en": "goose",
+        "fr": "oie",
+        "es": "ganso",
+        "yaq": "gánso"
+      },
+      "930": {
+        "en": "grasshopper",
+        "fr": "sauterelle",
+        "es": "saltamontes",
+        "yaq": "wakáwo’ochi"
+      },
+      "585": {
+        "en": "hawk",
+        "fr": "faucon",
+        "es": "gavilán, halcón",
+        "yaq": "X"
+      },
+      "370": {
+        "en": "he-goat",
+        "fr": "bouc",
+        "es": "chivo",
+        "yaq": "chíba’ato"
+      },
+      "540": {
+        "en": "hen",
+        "fr": "poule",
+        "es": "gallina",
+        "yaq": "tótoi"
+      },
+      "180": {
+        "en": "herdsman",
+        "fr": "bouvier, pâtre",
+        "es": "pastor",
+        "yaq": "kapyeó"
+      },
+      "583": {
+        "en": "heron",
+        "fr": "héron",
+        "es": "garza",
+        "yaq": "baáwo’i"
+      },
+      "410": {
+        "en": "horse (equine)",
+        "fr": "cheval",
+        "es": "caballo",
+        "yaq": "kába’i"
+      },
+      "810": {
+        "en": "insect",
+        "fr": "insecte",
+        "es": "insecto",
+        "yaq": "X"
+      },
+      "380": {
+        "en": "kid",
+        "fr": "chevreau",
+        "es": "cabrito",
+        "yaq": "X"
+      },
+      "290": {
+        "en": "lamb",
+        "fr": "agneau",
+        "es": "borrego, cordero",
+        "yaq": "X"
+      },
+      "720": {
+        "en": "lion",
+        "fr": "lion",
+        "es": "león",
+        "yaq": "oúsei"
+      },
+      "150": {
+        "en": "livestock",
+        "fr": "bétail",
+        "es": "ganado",
+        "yaq": "X"
+      },
+      "960": {
+        "en": "lizard",
+        "fr": "lézard",
+        "es": "lagartija",
+        "yaq": "wikuím"
+      },
+      "811": {
+        "en": "louse",
+        "fr": "pou",
+        "es": "piojo",
+        "yaq": "éte"
+      },
+      "812": {
+        "en": "nit (louse egg), louse egg (nit)",
+        "fr": "lente",
+        "es": "liendre",
+        "yaq": "natchí’ika"
+      },
+      "120": {
+        "en": "male (adj)",
+        "fr": "mâle",
+        "es": "masculine",
+        "yaq": "o’oú"
+      },
+      "440": {
+        "en": "mare",
+        "fr": "jument",
+        "es": "yegua",
+        "yaq": "X"
+      },
+      "760": {
+        "en": "monkey",
+        "fr": "singe",
+        "es": "mono",
+        "yaq": "X"
+      },
+      "832": {
+        "en": "mosquito",
+        "fr": "moustique",
+        "es": "mosquito",
+        "yaq": "X"
+      },
+      "630": {
+        "en": "rat, mouse",
+        "fr": "souris, rat",
+        "es": "ratón, rata",
+        "yaq": "tóri"
+      },
+      "470": {
+        "en": "mule",
+        "fr": "mulet",
+        "es": "mulo",
+        "yaq": "X"
+      },
+      "580": {
+        "en": "nest",
+        "fr": "nid",
+        "es": "nido",
+        "yaq": "toósa"
+      },
+      "622": {
+        "en": "opossum",
+        "fr": "opossum",
+        "es": "zarigüeya",
+        "yaq": "X"
+      },
+      "596": {
+        "en": "owl",
+        "fr": "hibou",
+        "es": "lechuza, buho",
+        "yaq": "muú’u"
+      },
+      "220": {
+        "en": "ox",
+        "fr": "boeuf",
+        "es": "buey",
+        "yaq": "boés"
+      },
+      "592": {
+        "en": "parrot",
+        "fr": "perroquet",
+        "es": "loro",
+        "yaq": "X"
+      },
+      "160": {
+        "en": "pasture",
+        "fr": "pâturage, pâture",
+        "es": "pradera, potrero",
+        "yaq": "poteó"
+      },
+      "350": {
+        "en": "pig",
+        "fr": "cochon,  porc",
+        "es": "cerdo, puerco",
+        "yaq": "koówi"
+      },
+      "614": {
+        "en": "rabbit",
+        "fr": "lapin",
+        "es": "conejo",
+        "yaq": "X"
+      },
+      "260": {
+        "en": "ram",
+        "fr": "bélier",
+        "es": "carnero, morueco",
+        "yaq": "X"
+      },
+      "815": {
+        "en": "scorpion",
+        "fr": "scorpion",
+        "es": "alacrán",
+        "yaq": "X"
+      },
+      "582": {
+        "en": "seagull",
+        "fr": "mouette",
+        "es": "gaviota",
+        "yaq": "X"
+      },
+      "661": {
+        "en": "shark",
+        "fr": "requin",
+        "es": "tiburón",
+        "yaq": "X"
+      },
+      "250": {
+        "en": "sheep",
+        "fr": "mouton",
+        "es": "oveja",
+        "yaq": "X"
+      },
+      "655": {
+        "en": "shell",
+        "fr": "coquille,  coquillage",
+        "es": "valva",
+        "yaq": "X"
+      },
+      "940": {
+        "en": "snail",
+        "fr": "escargot",
+        "es": "caracol",
+        "yaq": "X"
+      },
+      "850": {
+        "en": "snake",
+        "fr": "serpent, couleuvre",
+        "es": "culebra,  serpiente",
+        "yaq": "X"
+      },
+      "340": {
+        "en": "sow",
+        "fr": "truie",
+        "es": "puerca, cochina, cerda",
+        "yaq": "X"
+      },
+      "818": {
+        "en": "spider",
+        "fr": "araignée",
+        "es": "araña",
+        "yaq": "X"
+      },
+      "819": {
+        "en": "spider web",
+        "fr": "toile d'araignée",
+        "es": "telaraña",
+        "yaq": "X"
+      },
+      "190": {
+        "en": "stable, stall",
+        "fr": "étable, écurie",
+        "es": "establo",
+        "yaq": "X"
+      },
+      "420": {
+        "en": "stallion",
+        "fr": "étalon",
+        "es": "caballo padre,  semental",
+        "yaq": "X"
+      },
+      "664": {
+        "en": "stingray",
+        "fr": "raie",
+        "es": "raya, pastinaca",
+        "yaq": "X"
+      },
+      "980": {
+        "en": "turtle",
+        "fr": "tortue",
+        "es": "tortuga",
+        "yaq": "X"
+      },
+      "823": {
+        "en": "wasp",
+        "fr": "guêpe",
+        "es": "avispa",
+        "yaq": "X"
+      },
+      "663": {
+        "en": "whale",
+        "fr": "baleine",
+        "es": "ballena",
+        "yaq": "X"
+      },
+      "710": {
+        "en": "wolf",
+        "fr": "loup",
+        "es": "lobo",
+        "yaq": "X"
+      },
+      "840": {
+        "en": "worm",
+        "fr": "ver de terre",
+        "es": "lombriz, gusano",
+        "yaq": "X"
+      }
+    },
+    "19": {
+      "470": {
+        "en": "permit, let, allow",
+        "fr": "permettre",
+        "es": "permitir, dejar",
+        "yaq": "sú’utoja"
+      },
+      "240": {
+        "en": "chief, chieftain",
+        "fr": "chef",
+        "es": "jefe, cacique",
+        "yaq": "X"
+      },
+      "370": {
+        "en": "citizen, subject",
+        "fr": "citoyen, sujet",
+        "es": "ciudadano, súbdito",
+        "yaq": "X"
+      },
+      "150": {
+        "en": "town, city",
+        "fr": "cité, ville",
+        "es": "ciudad",
+        "yaq": "X"
+      },
+      "230": {
+        "en": "tribe, clan",
+        "fr": "tribu, clan",
+        "es": "tribu, clan",
+        "yaq": "X"
+      },
+      "450": {
+        "en": "order, command",
+        "fr": "commander, ordonner",
+        "es": "mandar",
+        "yaq": "bíttua, sáwe"
+      },
+      "510": {
+        "en": "companion, friend",
+        "fr": "ami,  compagnon",
+        "es": "amigo, compañero",
+        "yaq": "jalá’i"
+      },
+      "630": {
+        "en": "plot, conspiracy",
+        "fr": "conspiration, complot",
+        "es": "conspiración",
+        "yaq": "X"
+      },
+      "110": {
+        "en": "country",
+        "fr": "pays",
+        "es": "país",
+        "yaq": "X"
+      },
+      "610": {
+        "en": "custom",
+        "fr": "coutume",
+        "es": "costumbre",
+        "yaq": "kojtumre"
+      },
+      "520": {
+        "en": "enemy",
+        "fr": "ennemi",
+        "es": "enemigo",
+        "yaq": "X"
+      },
+      "440": {
+        "en": "freeman",
+        "fr": "homme libre",
+        "es": "hombre libre",
+        "yaq": "X"
+      },
+      "170": {
+        "en": "frontier, boundary",
+        "fr": "frontière,  limite",
+        "es": "límite,  frontera",
+        "yaq": "mámlo"
+      },
+      "310": {
+        "en": "rule, govern",
+        "fr": "régner, gouverner",
+        "es": "gobernar",
+        "yaq": "kobanároa"
+      },
+      "560": {
+        "en": "guest",
+        "fr": "invité",
+        "es": "huésped",
+        "yaq": "X"
+      },
+      "580": {
+        "en": "help, aid",
+        "fr": "aider",
+        "es": "ayudar",
+        "yaq": "aniá"
+      },
+      "590": {
+        "en": "prevent, hinder",
+        "fr": "empêcher",
+        "es": "impedir, estorbar-----ejtorbároa, estorbar",
+        "yaq": "ejtorbároa"
+      },
+      "570": {
+        "en": "host",
+        "fr": "hôte",
+        "es": "huésped, hospedero",
+        "yaq": "X"
+      },
+      "320": {
+        "en": "ruler, king",
+        "fr": "roi",
+        "es": "rey, gobernante",
+        "yaq": "kobanaáo"
+      },
+      "410": {
+        "en": "master",
+        "fr": "maître",
+        "es": "amo, dueño",
+        "yaq": "teéko"
+      },
+      "650": {
+        "en": "meet",
+        "fr": "rencontrer",
+        "es": "encontrar",
+        "yaq": "teá"
+      },
+      "540": {
+        "en": "neighbor",
+        "fr": "voisin",
+        "es": "vecino",
+        "yaq": "X"
+      },
+      "360": {
+        "en": "noble, nobleman",
+        "fr": "noble",
+        "es": "noble",
+        "yaq": "X"
+      },
+      "460": {
+        "en": "obey",
+        "fr": "obéir",
+        "es": "obedecer",
+        "yaq": "jíkkaja"
+      },
+      "120": {
+        "en": "one's native country",
+        "fr": "patrie",
+        "es": "patria",
+        "yaq": "X"
+      },
+      "210": {
+        "en": "people (populace)",
+        "fr": "gens",
+        "es": "pueblo, gente",
+        "yaq": "bató’ora"
+      },
+      "720": {
+        "en": "prostitute",
+        "fr": "prostituée",
+        "es": "prostituta",
+        "yaq": "X"
+      },
+      "620": {
+        "en": "strife, quarrel",
+        "fr": "lutte, querelle",
+        "es": "lucha, pleito",
+        "yaq": "X"
+      },
+      "330": {
+        "en": "queen",
+        "fr": "reine",
+        "es": "reina",
+        "yaq": "X"
+      },
+      "430": {
+        "en": "servant",
+        "fr": "domestique, serviteur",
+        "es": "sirviente",
+        "yaq": "X"
+      },
+      "420": {
+        "en": "slave",
+        "fr": "esclave",
+        "es": "esclavo",
+        "yaq": "X"
+      },
+      "250": {
+        "en": "walking stick, staff",
+        "fr": "canne",
+        "es": "bastón, bordó",
+        "yaq": "X"
+      },
+      "550": {
+        "en": "stranger",
+        "fr": "étranger",
+        "es": "extranjero, forastero",
+        "yaq": "X"
+      },
+      "160": {
+        "en": "village",
+        "fr": "village",
+        "es": "pueblo-------puépplo",
+        "yaq": "X"
+      }
+    },
+    "13": {
+      "330": {
+        "en": "single, only, alone",
+        "fr": "seul",
+        "es": "solo, solamente",
+        "yaq": "X"
+      },
+      "107": {
+        "en": "count",
+        "fr": "compter",
+        "es": "contra",
+        "yaq": "kontrak"
+      },
+      "190": {
+        "en": "multitude, crowd",
+        "fr": "foule",
+        "es": "multitude, multitud",
+        "yaq": "bu’úra"
+      },
+      "080": {
+        "en": "eight",
+        "fr": "huit",
+        "es": "ocho",
+        "yaq": "wojnaíki"
+      },
+      "101": {
+        "en": "eleven",
+        "fr": "onze",
+        "es": "once",
+        "yaq": "wojmámni áma wépulai"
+      },
+      "220": {
+        "en": "empty",
+        "fr": "vide",
+        "es": "vacío",
+        "yaq": "wakiá, juné’ela"
+      },
+      "180": {
+        "en": "enough",
+        "fr": "assez",
+        "es": "bastante,  suficiente",
+        "yaq": "sopároa"
+      },
+      "140": {
+        "en": "every, all",
+        "fr": "tous",
+        "es": "todo",
+        "yaq": "sí’ime"
+      },
+      "170": {
+        "en": "little (quantity), few",
+        "fr": "peu",
+        "es": "poco",
+        "yaq": "ilíiki, ilíki"
+      },
+      "103": {
+        "en": "fifteen",
+        "fr": "quinze",
+        "es": "quince",
+        "yaq": "wojmámni áma mámni"
+      },
+      "340": {
+        "en": "first",
+        "fr": "premier",
+        "es": "primero",
+        "yaq": "báchia"
+      },
+      "050": {
+        "en": "five",
+        "fr": "cinq",
+        "es": "cinco",
+        "yaq": "mámni"
+      },
+      "040": {
+        "en": "four",
+        "fr": "quatre",
+        "es": "cuatro",
+        "yaq": "naíki"
+      },
+      "210": {
+        "en": "full",
+        "fr": "plein",
+        "es": "lleno",
+        "yaq": "tápuni"
+      },
+      "240": {
+        "en": "half",
+        "fr": "moitié",
+        "es": "mitad",
+        "yaq": "nasúkria"
+      },
+      "105": {
+        "en": "hundred",
+        "fr": "cent",
+        "es": "ciento,  cien",
+        "yaq": "mámni taká"
+      },
+      "350": {
+        "en": "last",
+        "fr": "dernier",
+        "es": "último",
+        "yaq": "X"
+      },
+      "150": {
+        "en": "much, many",
+        "fr": "beaucoup",
+        "es": "mucho",
+        "yaq": "bú’u"
+      },
+      "160": {
+        "en": "more",
+        "fr": "encore",
+        "es": "más",
+        "yaq": "ché’a, oúsi"
+      },
+      "090": {
+        "en": "nine",
+        "fr": "neuf",
+        "es": "nueve",
+        "yaq": "bátani"
+      },
+      "000": {
+        "en": "zero, nothing",
+        "fr": "zéro, rien",
+        "es": "cero, nada",
+        "yaq": "kaíta"
+      },
+      "010": {
+        "en": "one",
+        "fr": "un",
+        "es": "uno",
+        "yaq": "wépulai"
+      },
+      "370": {
+        "en": "pair",
+        "fr": "couple, paire",
+        "es": "par",
+        "yaq": "X"
+      },
+      "230": {
+        "en": "piece, part",
+        "fr": "morceau, partie",
+        "es": "pedazo",
+        "yaq": "rébei"
+      },
+      "360": {
+        "en": "second",
+        "fr": "deuxième",
+        "es": "segundo",
+        "yaq": "X"
+      },
+      "070": {
+        "en": "seven",
+        "fr": "sept",
+        "es": "siete",
+        "yaq": "X"
+      },
+      "060": {
+        "en": "six",
+        "fr": "six",
+        "es": "seis",
+        "yaq": "X"
+      },
+      "181": {
+        "en": "some",
+        "fr": "un peu",
+        "es": "algo,  alguno",
+        "yaq": "X"
+      },
+      "100": {
+        "en": "ten",
+        "fr": "dix",
+        "es": "diez",
+        "yaq": "X"
+      },
+      "420": {
+        "en": "third",
+        "fr": "troisième",
+        "es": "tercero",
+        "yaq": "X"
+      },
+      "106": {
+        "en": "thousand",
+        "fr": "mille",
+        "es": "mil",
+        "yaq": "X"
+      },
+      "030": {
+        "en": "three",
+        "fr": "trois",
+        "es": "tres",
+        "yaq": "X"
+      },
+      "440": {
+        "en": "three times",
+        "fr": "trois fois",
+        "es": "tres veces",
+        "yaq": "X"
+      },
+      "102": {
+        "en": "twelve",
+        "fr": "douze",
+        "es": "doce",
+        "yaq": "X"
+      },
+      "104": {
+        "en": "twenty",
+        "fr": "vingt",
+        "es": "veinte",
+        "yaq": "X"
+      },
+      "020": {
+        "en": "two",
+        "fr": "deux",
+        "es": "dos",
+        "yaq": "X"
+      },
+      "380": {
+        "en": "two times",
+        "fr": "deux fois",
+        "es": "dos veces",
+        "yaq": "X"
+      }
+    },
+    "22": {
+      "140": {
+        "en": "altar",
+        "fr": "autel",
+        "es": "altar",
+        "yaq": "altaár"
+      },
+      "230": {
+        "en": "bless",
+        "fr": "bénir",
+        "es": "bendecir",
+        "yaq": "bendesiároa"
+      },
+      "130": {
+        "en": "temple, church",
+        "fr": "temple, église",
+        "es": "iglesia",
+        "yaq": "té’opo"
+      },
+      "240": {
+        "en": "curse",
+        "fr": "maudire",
+        "es": "maldecir",
+        "yaq": "X"
+      },
+      "350": {
+        "en": "demon (evil spirit)",
+        "fr": "démon, diable",
+        "es": "demonio",
+        "yaq": "lemónio"
+      },
+      "440": {
+        "en": "elf, fairy",
+        "fr": "fée",
+        "es": "hada, duende",
+        "yaq": "choóni"
+      },
+      "260": {
+        "en": "fast (vb)",
+        "fr": "jeûner",
+        "es": "ayunar",
+        "yaq": "kaá jí’ibwa"
+      },
+      "450": {
+        "en": "phantom, ghost",
+        "fr": "fantôme, esprit, revenant",
+        "es": "fantasma",
+        "yaq": "mukiá"
+      },
+      "120": {
+        "en": "God",
+        "fr": "Dieu",
+        "es": "Dios",
+        "yaq": "Liós"
+      },
+      "310": {
+        "en": "heaven",
+        "fr": "ciel, cieux",
+        "es": "cielo,  paraíso",
+        "yaq": "téeka"
+      },
+      "320": {
+        "en": "hell",
+        "fr": "enfer",
+        "es": "infierno",
+        "yaq": "X"
+      },
+      "190": {
+        "en": "sacred, holy",
+        "fr": "sacré, saint",
+        "es": "sagrado",
+        "yaq": "X"
+      },
+      "370": {
+        "en": "idol",
+        "fr": "idole",
+        "es": "ídolo",
+        "yaq": "X"
+      },
+      "420": {
+        "en": "witchcraft, magic, sorcery",
+        "fr": "magie, sorcellerie",
+        "es": "brujería, hechicería",
+        "yaq": "X"
+      },
+      "150": {
+        "en": "sacrifice, offering",
+        "fr": "sacrifice, offrande",
+        "es": "ofrenda",
+        "yaq": "X"
+      },
+      "470": {
+        "en": "portent, omen",
+        "fr": "présage, augure",
+        "es": "agüero, presagio",
+        "yaq": "X"
+      },
+      "170": {
+        "en": "pray",
+        "fr": "prier",
+        "es": "orar-----orároa",
+        "yaq": "X"
+      },
+      "220": {
+        "en": "preach",
+        "fr": "prêcher",
+        "es": "predicar",
+        "yaq": "X"
+      },
+      "180": {
+        "en": "priest",
+        "fr": "prêtre,  curé",
+        "es": "cura,  presbítero",
+        "yaq": "X"
+      },
+      "110": {
+        "en": "religion",
+        "fr": "religion",
+        "es": "religión",
+        "yaq": "X"
+      },
+      "430": {
+        "en": "witch, sorcerer",
+        "fr": "sorcier, sorcière",
+        "es": "brujo/bruja, hechicero",
+        "yaq": "X"
+      },
+      "160": {
+        "en": "worship",
+        "fr": "adorer",
+        "es": "culto",
+        "yaq": "X"
+      }
+    },
+    "20": {
+      "490": {
+        "en": "ambush",
+        "fr": "embuscade",
+        "es": "acechar,  emboscar",
+        "yaq": "embojkároa"
+      },
+      "310": {
+        "en": "armor (defensive)",
+        "fr": "armure",
+        "es": "armadura",
+        "yaq": "*"
+      },
+      "210": {
+        "en": "weapons, arms",
+        "fr": "armes",
+        "es": "armas",
+        "yaq": "*"
+      },
+      "150": {
+        "en": "army",
+        "fr": "armée",
+        "es": "ejército,  tropas",
+        "yaq": "tróopa"
+      },
+      "250": {
+        "en": "arrow",
+        "fr": "flèche",
+        "es": "flecha",
+        "yaq": "juíwam"
+      },
+      "430": {
+        "en": "attack",
+        "fr": "attaque",
+        "es": "atacar",
+        "yaq": "atakároa"
+      },
+      "560": {
+        "en": "bait",
+        "fr": "appât",
+        "es": "cebo, carnada",
+        "yaq": "áwira"
+      },
+      "130": {
+        "en": "war, battle",
+        "fr": "guerre, bataille",
+        "es": "guerra, batalla",
+        "yaq": "jusákana, géera"
+      },
+      "222": {
+        "en": "battle-ax",
+        "fr": "hâche d'armes",
+        "es": "hacha de combate",
+        "yaq": "----------"
+      },
+      "480": {
+        "en": "spoils, booty",
+        "fr": "butin, dépouilles",
+        "es": "botín",
+        "yaq": "yó’ori, tómi, kobá’ari"
+      },
+      "240": {
+        "en": "bow",
+        "fr": "arc",
+        "es": "arco",
+        "yaq": "X"
+      },
+      "470": {
+        "en": "prisoner, captive",
+        "fr": "prisonnier, captit",
+        "es": "cautivo, preso----péeso, preso",
+        "yaq": "péeso"
+      },
+      "220": {
+        "en": "club",
+        "fr": "casse-tête",
+        "es": "macana, garrote",
+        "yaq": "X"
+      },
+      "420": {
+        "en": "defeat",
+        "fr": "défaite, déroute",
+        "es": "derrota",
+        "yaq": "kobá’awame"
+      },
+      "440": {
+        "en": "defend",
+        "fr": "défendre",
+        "es": "defender",
+        "yaq": "jínne’u"
+      },
+      "110": {
+        "en": "fight (vb)",
+        "fr": "se battre",
+        "es": "pelear",
+        "yaq": "nássua"
+      },
+      "550": {
+        "en": "trap (fish), fish trap",
+        "fr": "nasse",
+        "es": "nasa",
+        "yaq": "X"
+      },
+      "510": {
+        "en": "fisherman",
+        "fr": "pêcheur",
+        "es": "pescador",
+        "yaq": "kuchúreo"
+      },
+      "520": {
+        "en": "fishhook",
+        "fr": "hameçon",
+        "es": "anzuelo",
+        "yaq": "ansuélom"
+      },
+      "530": {
+        "en": "fishing line",
+        "fr": "ligne (pour la pêche)",
+        "es": "cuerda de pescar",
+        "yaq": "X"
+      },
+      "540": {
+        "en": "net (fishnet), fishnet",
+        "fr": "filet de pêche",
+        "es": "red, atarraya",
+        "yaq": "X"
+      },
+      "350": {
+        "en": "fortress",
+        "fr": "château-fort, forteresse",
+        "es": "fortaleza",
+        "yaq": "X"
+      },
+      "471": {
+        "en": "sentinel, guard",
+        "fr": "garde, sentinelle",
+        "es": "guardia, centinela",
+        "yaq": "wáaria"
+      },
+      "280": {
+        "en": "gun, cannon",
+        "fr": "fusil, canon",
+        "es": "escopeta, canon",
+        "yaq": "wíko’i"
+      },
+      "330": {
+        "en": "helmet",
+        "fr": "casque",
+        "es": "yelmo",
+        "yaq": "X"
+      },
+      "610": {
+        "en": "hunt",
+        "fr": "chasser",
+        "es": "cazar",
+        "yaq": "aámu"
+      },
+      "630": {
+        "en": "miss (target)",
+        "fr": "râter, manquer",
+        "es": "errar, fallar",
+        "yaq": "X"
+      },
+      "140": {
+        "en": "peace",
+        "fr": "paix",
+        "es": "paz",
+        "yaq": "X"
+      },
+      "450": {
+        "en": "retreat",
+        "fr": "fuir,  battre en retraite",
+        "es": "huir, retirarse",
+        "yaq": "X"
+      },
+      "340": {
+        "en": "shield",
+        "fr": "bouclier",
+        "es": "escudo",
+        "yaq": "X"
+      },
+      "620": {
+        "en": "shoot",
+        "fr": "tirer,  fusiller",
+        "es": "tirar, disparar",
+        "yaq": "X"
+      },
+      "230": {
+        "en": "sling",
+        "fr": "fronde",
+        "es": "honda",
+        "yaq": "X"
+      },
+      "170": {
+        "en": "soldier",
+        "fr": "soldat",
+        "es": "soldado-----sontaáo",
+        "yaq": "X"
+      },
+      "260": {
+        "en": "spear",
+        "fr": "épieu, sagaie,  transpercer",
+        "es": "lanza",
+        "yaq": "X"
+      },
+      "460": {
+        "en": "surrender",
+        "fr": "céder, se rendre",
+        "es": "rendirse",
+        "yaq": "X"
+      },
+      "270": {
+        "en": "sword",
+        "fr": "épée",
+        "es": "espada-----ejpaám",
+        "yaq": "X"
+      },
+      "360": {
+        "en": "tower",
+        "fr": "tour",
+        "es": "torre",
+        "yaq": "X"
+      },
+      "640": {
+        "en": "trap (noun)",
+        "fr": "piège",
+        "es": "trampa",
+        "yaq": "X"
+      },
+      "650": {
+        "en": "trap (vb)",
+        "fr": "prendre au piège",
+        "es": "atrapar",
+        "yaq": "X"
+      },
+      "410": {
+        "en": "victory",
+        "fr": "victoire",
+        "es": "victoria",
+        "yaq": "X"
+      }
+    },
+    "02": {
+      "560": {
+        "en": "ancestors",
+        "fr": "ancêtres,  aïeux",
+        "es": "antepasados",
+        "yaq": "yo’ówe, yoyówe"
+      },
+      "520": {
+        "en": "aunt",
+        "fr": "tante",
+        "es": "tía",
+        "yaq": "chí’ila, jaáka, né’esa"
+      },
+      "280": {
+        "en": "infant, baby",
+        "fr": "enfant, bébé",
+        "es": "niño, bebé",
+        "yaq": "ilí uúsi, uúsi"
+      },
+      "250": {
+        "en": "boy",
+        "fr": "garçon",
+        "es": "muchacho",
+        "yaq": "uúsi jú’ubwa yó’otune"
+      },
+      "440": {
+        "en": "brother",
+        "fr": "frère",
+        "es": "hermano",
+        "yaq": "saíla"
+      },
+      "270": {
+        "en": "child",
+        "fr": "enfant",
+        "es": "niño",
+        "yaq": "uúsi"
+      },
+      "550": {
+        "en": "cousin",
+        "fr": "cousin, cousine",
+        "es": "primo/prima",
+        "yaq": "X"
+      },
+      "420": {
+        "en": "daughter",
+        "fr": "fille",
+        "es": "hija",
+        "yaq": "asoá"
+      },
+      "640": {
+        "en": "daughter-in-law (of a man)",
+        "fr": "bru, belle-fille (d'un homme)",
+        "es": "nuera (de hombre)  jabórae",
+        "yaq": "X"
+      },
+      "641": {
+        "en": "daughter-in-law (of a woman)",
+        "fr": "bru, belle-fille (d'une femme)",
+        "es": "nuera (de mujer) jabórae",
+        "yaq": "X"
+      },
+      "570": {
+        "en": "descendants",
+        "fr": "descendants",
+        "es": "descendientes",
+        "yaq": "X"
+      },
+      "341": {
+        "en": "divorce",
+        "fr": "divorce",
+        "es": "divorcio",
+        "yaq": "X"
+      },
+      "820": {
+        "en": "family",
+        "fr": "famille",
+        "es": "familia",
+        "yaq": "yoémia"
+      },
+      "350": {
+        "en": "father",
+        "fr": "père",
+        "es": "padre",
+        "yaq": "áchai"
+      },
+      "610": {
+        "en": "father-in-law (of a man)",
+        "fr": "beau-père (d'un homme)",
+        "es": "suegro (de hombre) asé’ebwa",
+        "yaq": "X"
+      },
+      "611": {
+        "en": "father-in-law (of a woman)",
+        "fr": "beau-père (d'une femme)",
+        "es": "suegro (de mujer) aséka",
+        "yaq": "X"
+      },
+      "512": {
+        "en": "father's brother",
+        "fr": "frère du père",
+        "es": "hermano (del padre)",
+        "yaq": "sai"
+      },
+      "522": {
+        "en": "father's sister",
+        "fr": "soeur du père",
+        "es": "hermana (del padre)",
+        "yaq": "áko"
+      },
+      "240": {
+        "en": "female",
+        "fr": "femelle",
+        "es": "hembra",
+        "yaq": "jámut"
+      },
+      "260": {
+        "en": "girl",
+        "fr": "fille",
+        "es": "muchacha",
+        "yaq": "ilí jámut"
+      },
+      "490": {
+        "en": "granddaughter",
+        "fr": "petite-fille",
+        "es": "nieta",
+        "yaq": "ámu( de mujer), ápala( de hombre)"
+      },
+      "460": {
+        "en": "grandfather",
+        "fr": "grand-père",
+        "es": "abuelo",
+        "yaq": "jaboí"
+      },
+      "470": {
+        "en": "grandmother",
+        "fr": "grand-mère",
+        "es": "abuela",
+        "yaq": "jaáka"
+      },
+      "480": {
+        "en": "grandson",
+        "fr": "petit-fils",
+        "es": "nieto",
+        "yaq": "X"
+      },
+      "930": {
+        "en": "she/he/it, it/he/she, he/she/it",
+        "fr": "il/elle",
+        "es": "él/ella/ello",
+        "yaq": "áapo’ik"
+      },
+      "100": {
+        "en": "person, human being",
+        "fr": "personne, être humain",
+        "es": "persona",
+        "yaq": "bató’i"
+      },
+      "310": {
+        "en": "husband",
+        "fr": "mari",
+        "es": "marido, esposo",
+        "yaq": "kuúna"
+      },
+      "910": {
+        "en": "I",
+        "fr": "je, moi",
+        "es": "yo",
+        "yaq": "ínepo"
+      },
+      "810": {
+        "en": "relatives, kinsmen",
+        "fr": "parents",
+        "es": "parientes, parentela",
+        "yaq": "wawaíra"
+      },
+      "230": {
+        "en": "male",
+        "fr": "mâle",
+        "es": "varón, macho",
+        "yaq": "o’oú"
+      },
+      "210": {
+        "en": "man (vs.woman)",
+        "fr": "homme",
+        "es": "hombre",
+        "yaq": "o’oú"
+      },
+      "340": {
+        "en": "wedding, marriage",
+        "fr": "mariage, noces",
+        "es": "casamiento, boda",
+        "yaq": "jújupwa’u"
+      },
+      "380": {
+        "en": "married man",
+        "fr": "homme marié",
+        "es": "hombre casado",
+        "yaq": "júpla"
+      },
+      "390": {
+        "en": "married woman",
+        "fr": "femme mariée",
+        "es": "mujer casada",
+        "yaq": "kunála"
+      },
+      "330": {
+        "en": "marry",
+        "fr": "se marier, épouser",
+        "es": "casarse",
+        "yaq": "juúbe(hombre), kuúna(mujer)"
+      },
+      "360": {
+        "en": "mother",
+        "fr": "mère",
+        "es": "madre",
+        "yaq": "maála, ae"
+      },
+      "620": {
+        "en": "mother-in-law (of a man)",
+        "fr": "belle-mère (d'un homme)",
+        "es": "suegra (de hombre)",
+        "yaq": "X"
+      },
+      "621": {
+        "en": "mother-in-law (of a woman)",
+        "fr": "belle-mère (d'une femme)",
+        "es": "suegra (de mujer)",
+        "yaq": "X"
+      },
+      "511": {
+        "en": "mother's brother",
+        "fr": "frère de la mère",
+        "es": "hermano (de la madre)",
+        "yaq": "X"
+      },
+      "521": {
+        "en": "mother's sister",
+        "fr": "soeur de la mère",
+        "es": "hermana (de la madre)",
+        "yaq": "X"
+      },
+      "530": {
+        "en": "nephew",
+        "fr": "neveu",
+        "es": "sobrino",
+        "yaq": "asowaára"
+      },
+      "540": {
+        "en": "niece",
+        "fr": "nièce",
+        "es": "sobrina",
+        "yaq": "asowaára"
+      },
+      "430": {
+        "en": "offspring (son or daughter)",
+        "fr": "enfant",
+        "es": "hijo, hija",
+        "yaq": "X"
+      },
+      "461": {
+        "en": "old man",
+        "fr": "vieillard",
+        "es": "hombre viejo",
+        "yaq": "yoém ó’ola"
+      },
+      "471": {
+        "en": "old woman",
+        "fr": "vieillarde",
+        "es": "mujer vieja",
+        "yaq": "jámut ó’ola"
+      },
+      "444": {
+        "en": "older brother",
+        "fr": "frêre aîné",
+        "es": "hermano mayor",
+        "yaq": "X"
+      },
+      "454": {
+        "en": "older sister",
+        "fr": "soeur ainée",
+        "es": "hermana mayor",
+        "yaq": "X"
+      },
+      "750": {
+        "en": "orphan",
+        "fr": "orphelin, orpheline",
+        "es": "huérfano/ huérfana",
+        "yaq": "leépe"
+      },
+      "370": {
+        "en": "parents",
+        "fr": "parents",
+        "es": "padres",
+        "yaq": "X"
+      },
+      "456": {
+        "en": "sibling",
+        "fr": "frère/soeur",
+        "es": "hermano, hermana",
+        "yaq": "X"
+      },
+      "450": {
+        "en": "sister",
+        "fr": "soeur",
+        "es": "hermana",
+        "yaq": "X"
+      },
+      "410": {
+        "en": "son",
+        "fr": "fils",
+        "es": "hijo",
+        "yaq": "X"
+      },
+      "630": {
+        "en": "son-in-law (of a man)",
+        "fr": "gendre (d'un homme)",
+        "es": "yerno  (de hombre)",
+        "yaq": "X"
+      },
+      "631": {
+        "en": "son-in-law (of a woman)",
+        "fr": "gendre (d'une femme)",
+        "es": "yerno (de mujer)",
+        "yaq": "X"
+      },
+      "740": {
+        "en": "stepdaughter",
+        "fr": "belle-fille",
+        "es": "hijastra",
+        "yaq": "X"
+      },
+      "710": {
+        "en": "stepfather",
+        "fr": "beau-père",
+        "es": "padrastro",
+        "yaq": "X"
+      },
+      "720": {
+        "en": "stepmother",
+        "fr": "belle-mère",
+        "es": "madrastra",
+        "yaq": "X"
+      },
+      "730": {
+        "en": "stepson",
+        "fr": "beau-fils",
+        "es": "hijastro",
+        "yaq": "X"
+      },
+      "960": {
+        "en": "they",
+        "fr": "eux, elles",
+        "es": "ellos, ellas",
+        "yaq": "X"
+      },
+      "458": {
+        "en": "twins",
+        "fr": "jumeaux",
+        "es": "gemelos",
+        "yaq": "X"
+      },
+      "510": {
+        "en": "uncle",
+        "fr": "oncle",
+        "es": "tío",
+        "yaq": "X"
+      },
+      "940": {
+        "en": "we",
+        "fr": "nous",
+        "es": "nosotros/ nosotras",
+        "yaq": "X"
+      },
+      "942": {
+        "en": "we (exclusive)",
+        "fr": "nous",
+        "es": "nosotros/nosotras (exclusivo)",
+        "yaq": "X"
+      },
+      "941": {
+        "en": "we (inclusive)",
+        "fr": "nous",
+        "es": "nosotros/nosotras (inclusivo)",
+        "yaq": "X"
+      },
+      "760": {
+        "en": "widow",
+        "fr": "veuve",
+        "es": "viuda",
+        "yaq": "X"
+      },
+      "770": {
+        "en": "widower",
+        "fr": "veuf",
+        "es": "viudo",
+        "yaq": "X"
+      },
+      "320": {
+        "en": "wife",
+        "fr": "femme, épouse",
+        "es": "esposa",
+        "yaq": "X"
+      },
+      "220": {
+        "en": "woman",
+        "fr": "femme",
+        "es": "mujer",
+        "yaq": "X"
+      },
+      "950": {
+        "en": "you (plural)",
+        "fr": "vous",
+        "es": "ustedes",
+        "yaq": "X"
+      },
+      "920": {
+        "en": "you (singular)",
+        "fr": "tu",
+        "es": "tú, usted",
+        "yaq": "X"
+      },
+      "251": {
+        "en": "young man (adolescent)",
+        "fr": "jeune homme",
+        "es": "joven",
+        "yaq": "X"
+      },
+      "261": {
+        "en": "young woman (adolescent)",
+        "fr": "jeune fille",
+        "es": "joven",
+        "yaq": "X"
+      },
+      "445": {
+        "en": "younger brother",
+        "fr": "frère cadet",
+        "es": "hermano menor",
+        "yaq": "X"
+      },
+      "455": {
+        "en": "younger sister",
+        "fr": "soeur cadette",
+        "es": "hermana menor",
+        "yaq": "X"
+      }
+    },
+    "10": {
+      "890": {
+        "en": "anchor",
+        "fr": "ancre",
+        "es": "ancla",
+        "yaq": "ánklam"
+      },
+      "560": {
+        "en": "approach",
+        "fr": "approcher",
+        "es": "acercarse",
+        "yaq": "rúkte"
+      },
+      "550": {
+        "en": "reach, arrive",
+        "fr": "atteindre, arriver",
+        "es": "llegar, alcanzar",
+        "yaq": "yépsa, jájame"
+      },
+      "770": {
+        "en": "axle",
+        "fr": "essieu",
+        "es": "eje",
+        "yaq": "eéje"
+      },
+      "840": {
+        "en": "raft, balsa",
+        "fr": "radeau",
+        "es": "balsa",
+        "yaq": "X"
+      },
+      "380": {
+        "en": "blow",
+        "fr": "souffler",
+        "es": "soplar",
+        "yaq": "pújta"
+      },
+      "830": {
+        "en": "boat",
+        "fr": "bateau",
+        "es": "bote",
+        "yaq": "kanoá"
+      },
+      "740": {
+        "en": "bridge",
+        "fr": "pont",
+        "es": "Puente",
+        "yaq": "puéntes"
+      },
+      "620": {
+        "en": "bring",
+        "fr": "apporter, amener",
+        "es": "traer",
+        "yaq": "nu’upa"
+      },
+      "831": {
+        "en": "canoe",
+        "fr": "pirogue",
+        "es": "canoa",
+        "yaq": "kanoá"
+      },
+      "750": {
+        "en": "carriage, wagon, cart",
+        "fr": "wagon,  charrette",
+        "es": "carro, carretón   kaáro",
+        "yaq": "X"
+      },
+      "610": {
+        "en": "carry (bear)",
+        "fr": "porter",
+        "es": "llevar, cargar",
+        "yaq": "X"
+      },
+      "612": {
+        "en": "carry-in-hand",
+        "fr": "porter (dans la main)",
+        "es": "llevar en la mano      máchu’ute",
+        "yaq": "X"
+      },
+      "614": {
+        "en": "carry-on-head",
+        "fr": "porter (sur la tête)",
+        "es": "llevar sobre la cabeza   mobé’ete",
+        "yaq": "X"
+      },
+      "613": {
+        "en": "carry-on-shoulder",
+        "fr": "porter (sur l'épaule)",
+        "es": "llevar a la espalda/ en el hombro",
+        "yaq": "X"
+      },
+      "615": {
+        "en": "carry-underarm",
+        "fr": "porter (sous le bras)",
+        "es": "llevar bajo el brazo",
+        "yaq": "sekawáasime"
+      },
+      "252": {
+        "en": "catch (ball)",
+        "fr": "attraper",
+        "es": "coger",
+        "yaq": "X"
+      },
+      "472": {
+        "en": "climb",
+        "fr": "grimper",
+        "es": "trepar",
+        "yaq": "X"
+      },
+      "480": {
+        "en": "come",
+        "fr": "venir",
+        "es": "venir",
+        "yaq": "X"
+      },
+      "481": {
+        "en": "return, come back",
+        "fr": "revenir",
+        "es": "volver",
+        "yaq": "nótte"
+      },
+      "410": {
+        "en": "crawl, creep",
+        "fr": "ramper",
+        "es": "gatear",
+        "yaq": "waká’ate"
+      },
+      "413": {
+        "en": "crouch",
+        "fr": "s'accroupir",
+        "es": "agacharse, ponerse en cuclillas",
+        "yaq": "X"
+      },
+      "440": {
+        "en": "dance",
+        "fr": "danser",
+        "es": "bailar",
+        "yaq": "yé’e"
+      },
+      "490": {
+        "en": "leave, go away, depart",
+        "fr": "s'en aller, partir",
+        "es": "irse, marcharse",
+        "yaq": "siíka"
+      },
+      "491": {
+        "en": "disappear",
+        "fr": "disparaïtre",
+        "es": "desaparecer",
+        "yaq": "áma lu’útek"
+      },
+      "351": {
+        "en": "dive",
+        "fr": "plonger",
+        "es": "zambullirse",
+        "yaq": "rópte"
+      },
+      "240": {
+        "en": "drip",
+        "fr": "s'égoutter",
+        "es": "gotear, escurrir",
+        "yaq": "chákte"
+      },
+      "650": {
+        "en": "drive",
+        "fr": "conduire",
+        "es": "conducir",
+        "yaq": "wéetua"
+      },
+      "160": {
+        "en": "drop (vb)",
+        "fr": "laisser tomber",
+        "es": "dejar caer",
+        "yaq": "X"
+      },
+      "570": {
+        "en": "enter",
+        "fr": "entrer",
+        "es": "entrar",
+        "yaq": "kibáke"
+      },
+      "230": {
+        "en": "fall",
+        "fr": "tomber",
+        "es": "caer",
+        "yaq": "kom wéche"
+      },
+      "510": {
+        "en": "flee",
+        "fr": "s'enfuir",
+        "es": "huir",
+        "yaq": "X"
+      },
+      "340": {
+        "en": "float",
+        "fr": "flotter",
+        "es": "flotar",
+        "yaq": "X"
+      },
+      "320": {
+        "en": "flow",
+        "fr": "couler",
+        "es": "fluir, corer",
+        "yaq": "buíte"
+      },
+      "370": {
+        "en": "fly (vb)",
+        "fr": "voler",
+        "es": "volar",
+        "yaq": "né’e"
+      },
+      "520": {
+        "en": "follow",
+        "fr": "suivre",
+        "es": "seguir",
+        "yaq": "jajáse"
+      },
+      "470": {
+        "en": "go",
+        "fr": "aller",
+        "es": "ir",
+        "yaq": "siíka"
+      },
+      "473": {
+        "en": "go down",
+        "fr": "descendre",
+        "es": "bajar",
+        "yaq": "kom chépte"
+      },
+      "474": {
+        "en": "go out",
+        "fr": "sortir",
+        "es": "salir",
+        "yaq": "yeu siíka"
+      },
+      "471": {
+        "en": "go up",
+        "fr": "monter",
+        "es": "subir",
+        "yaq": "já’amu"
+      },
+      "910": {
+        "en": "port, harbor",
+        "fr": "port, mouillage",
+        "es": "puerto",
+        "yaq": "X"
+      },
+      "430": {
+        "en": "leap, jump",
+        "fr": "sauter",
+        "es": "saltar, brincar",
+        "yaq": "chépte"
+      },
+      "431": {
+        "en": "kick",
+        "fr": "donner un coup de pied",
+        "es": "patear",
+        "yaq": "jítemu"
+      },
+      "412": {
+        "en": "kneel",
+        "fr": "s'agenouiller",
+        "es": "arrodillarse",
+        "yaq": "tónommea kíkte"
+      },
+      "920": {
+        "en": "land (vb)",
+        "fr": "atterrir",
+        "es": "desembarcar",
+        "yaq": "desembarkároa"
+      },
+      "640": {
+        "en": "lead (vb)",
+        "fr": "mener, conduire",
+        "es": "guiar",
+        "yaq": "wéetua"
+      },
+      "220": {
+        "en": "raise, lift",
+        "fr": "lever, élever",
+        "es": "levantar, levanter",
+        "yaq": "báksia"
+      },
+      "451": {
+        "en": "limp",
+        "fr": "boiter",
+        "es": "lisiar",
+        "yaq": "X"
+      },
+      "870": {
+        "en": "mast",
+        "fr": "mat",
+        "es": "mástil",
+        "yaq": "X"
+      },
+      "110": {
+        "en": "move",
+        "fr": "mouvoir,  bouger",
+        "es": "mover",
+        "yaq": "mobiároa, rukta"
+      },
+      "850": {
+        "en": "oar",
+        "fr": "rame",
+        "es": "remo",
+        "yaq": "X"
+      },
+      "832": {
+        "en": "outrigger",
+        "fr": "balancier",
+        "es": "batanga",
+        "yaq": "X"
+      },
+      "851": {
+        "en": "paddle (noun)",
+        "fr": "pagaie",
+        "es": "remo corto",
+        "yaq": "X"
+      },
+      "720": {
+        "en": "path",
+        "fr": "sentier",
+        "es": "camino, senda",
+        "yaq": "X"
+      },
+      "530": {
+        "en": "pursue",
+        "fr": "poursuivre",
+        "es": "perseguir",
+        "yaq": "X"
+      },
+      "670": {
+        "en": "shove, push",
+        "fr": "pousser",
+        "es": "empujar",
+        "yaq": "X"
+      },
+      "660": {
+        "en": "ride",
+        "fr": "chevaucher",
+        "es": "montar",
+        "yaq": "X"
+      },
+      "210": {
+        "en": "rise",
+        "fr": "monter, se lever",
+        "es": "ascender",
+        "yaq": "X"
+      },
+      "710": {
+        "en": "road",
+        "fr": "route",
+        "es": "carretera",
+        "yaq": "X"
+      },
+      "150": {
+        "en": "roll",
+        "fr": "rouler",
+        "es": "rodar, arrollar, enrollar",
+        "yaq": "X"
+      },
+      "852": {
+        "en": "row (vb)",
+        "fr": "ramer",
+        "es": "remar",
+        "yaq": "X"
+      },
+      "860": {
+        "en": "rudder",
+        "fr": "gouvernail",
+        "es": "timón",
+        "yaq": "X"
+      },
+      "460": {
+        "en": "run",
+        "fr": "courir",
+        "es": "correr",
+        "yaq": "X"
+      },
+      "880": {
+        "en": "sail (noun)",
+        "fr": "voile",
+        "es": "vela",
+        "yaq": "X"
+      },
+      "360": {
+        "en": "sail (vb)",
+        "fr": "naviguer",
+        "es": "navegar",
+        "yaq": "X"
+      },
+      "630": {
+        "en": "send",
+        "fr": "envoyer",
+        "es": "enviar,  mandar",
+        "yaq": "X"
+      },
+      "260": {
+        "en": "shake",
+        "fr": "secouer,  agiter",
+        "es": "sacudir",
+        "yaq": "X"
+      },
+      "810": {
+        "en": "ship",
+        "fr": "navire,  bateau",
+        "es": "buque, barco",
+        "yaq": "X"
+      },
+      "330": {
+        "en": "sink",
+        "fr": "couler, sombrer",
+        "es": "hundir",
+        "yaq": "X"
+      },
+      "420": {
+        "en": "slip, slide",
+        "fr": "glisser",
+        "es": "resbalar",
+        "yaq": "X"
+      },
+      "352": {
+        "en": "splash",
+        "fr": "éclabousser",
+        "es": "salpicar",
+        "yaq": "X"
+      },
+      "350": {
+        "en": "swim",
+        "fr": "nager",
+        "es": "nadar",
+        "yaq": "X"
+      },
+      "250": {
+        "en": "throw",
+        "fr": "jeter",
+        "es": "echar, tirar",
+        "yaq": "X"
+      },
+      "130": {
+        "en": "turn around",
+        "fr": "se retourner",
+        "es": "dar vuelta, voltear",
+        "yaq": "X"
+      },
+      "120": {
+        "en": "turn over",
+        "fr": "retourner",
+        "es": "volcar, dar(se) vuelta",
+        "yaq": "X"
+      },
+      "170": {
+        "en": "twist",
+        "fr": "tordre",
+        "es": "torcer",
+        "yaq": "X"
+      },
+      "450": {
+        "en": "walk",
+        "fr": "marcher",
+        "es": "caminar",
+        "yaq": "X"
+      },
+      "760": {
+        "en": "wheel",
+        "fr": "roue",
+        "es": "rueda",
+        "yaq": "X"
+      },
+      "140": {
+        "en": "wrap, wind",
+        "fr": "enrouler",
+        "es": "enrollar, envolver",
+        "yaq": "X"
+      },
+      "780": {
+        "en": "yoke",
+        "fr": "joug",
+        "es": "yugo",
+        "yaq": "X"
+      }
+    },
+    "16": {
+      "420": {
+        "en": "anger",
+        "fr": "colère",
+        "es": "enojo",
+        "yaq": "X"
+      },
+      "330": {
+        "en": "worry, anxiety",
+        "fr": "anxiété",
+        "es": "ansiedad, angustia",
+        "yaq": "jiokót  éa, suáti éa"
+      },
+      "150": {
+        "en": "surprised, astonished",
+        "fr": "étonné, surpris",
+        "es": "sorprendido",
+        "yaq": "súumea"
+      },
+      "720": {
+        "en": "bad",
+        "fr": "mauvais",
+        "es": "malo",
+        "yaq": "ju’éna"
+      },
+      "190": {
+        "en": "misfortune, bad luck",
+        "fr": "malheur, malchance, infortune",
+        "es": "mala suerte, mala suerte kaá suertek",
+        "yaq": "X"
+      },
+      "810": {
+        "en": "beautiful",
+        "fr": "beau,  joli",
+        "es": "hermoso",
+        "yaq": "tutú’uli"
+      },
+      "780": {
+        "en": "blame",
+        "fr": "blâme",
+        "es": "culpa",
+        "yaq": "kúlpak"
+      },
+      "520": {
+        "en": "brave",
+        "fr": "courageux",
+        "es": "valiente",
+        "yaq": "emó oúleme"
+      },
+      "622": {
+        "en": "choose",
+        "fr": "choisir",
+        "es": "escoger",
+        "yaq": "yeupuá"
+      },
+      "840": {
+        "en": "clever",
+        "fr": "intelligent,  rusé",
+        "es": "hábil,  capaz",
+        "yaq": "X"
+      },
+      "350": {
+        "en": "pity, compassion",
+        "fr": "pitié, compassion",
+        "es": "compasión, lástima",
+        "yaq": "X"
+      },
+      "730": {
+        "en": "right, correct",
+        "fr": "juste, correct",
+        "es": "correcto",
+        "yaq": "tú’i"
+      },
+      "370": {
+        "en": "weep, cry",
+        "fr": "pleurer",
+        "es": "llorar",
+        "yaq": "bwaána"
+      },
+      "540": {
+        "en": "danger",
+        "fr": "danger",
+        "es": "peligro",
+        "yaq": "jilínwachi"
+      },
+      "510": {
+        "en": "dare",
+        "fr": "oser",
+        "es": "osar,  atreverse",
+        "yaq": "X"
+      },
+      "680": {
+        "en": "deceit",
+        "fr": "malhonnêteté",
+        "es": "engaño",
+        "yaq": "baitá’awame"
+      },
+      "620": {
+        "en": "want, desire",
+        "fr": "vouloir, désirer",
+        "es": "anhelar, desear",
+        "yaq": "wáata"
+      },
+      "300": {
+        "en": "embrace",
+        "fr": "embrasser",
+        "es": "abrazar",
+        "yaq": "íbakta"
+      },
+      "440": {
+        "en": "jealousy, envy",
+        "fr": "envie, jalousie",
+        "es": "envidia, celos",
+        "yaq": "selároa"
+      },
+      "770": {
+        "en": "mistake, error",
+        "fr": "erreur, faute",
+        "es": "equivocación, error",
+        "yaq": "kaá tú’isi aáyuk"
+      },
+      "650": {
+        "en": "faithful",
+        "fr": "fidèle",
+        "es": "fiel",
+        "yaq": "X"
+      },
+      "760": {
+        "en": "fault",
+        "fr": "faute",
+        "es": "culpa",
+        "yaq": "kúlpak"
+      },
+      "530": {
+        "en": "fear, fright",
+        "fr": "peur, crainte",
+        "es": "miedo",
+        "yaq": "májae, májaiwame"
+      },
+      "690": {
+        "en": "forgive",
+        "fr": "pardonner",
+        "es": "perdonar",
+        "yaq": "jiókoe"
+      },
+      "230": {
+        "en": "joyful, glad, happy",
+        "fr": "joyeux, heureux",
+        "es": "alegre",
+        "yaq": "alleá, alléwame"
+      },
+      "710": {
+        "en": "good",
+        "fr": "bon",
+        "es": "bueno",
+        "yaq": "tú’i"
+      },
+      "180": {
+        "en": "luck, good fortune",
+        "fr": "bonne chance, bonheur",
+        "es": "buena suerte",
+        "yaq": "X"
+      },
+      "830": {
+        "en": "greedy",
+        "fr": "gourmand",
+        "es": "codicioso,  voraz",
+        "yaq": "X"
+      },
+      "320": {
+        "en": "sorrow, grief, sadness",
+        "fr": "douleur, peine, chagrin",
+        "es": "tristeza, dolor, pena",
+        "yaq": "X"
+      },
+      "390": {
+        "en": "groan",
+        "fr": "grogner",
+        "es": "gemir",
+        "yaq": "té’ine"
+      },
+      "410": {
+        "en": "hate",
+        "fr": "haine",
+        "es": "odiar",
+        "yaq": "ómta"
+      },
+      "630": {
+        "en": "hope",
+        "fr": "espoir",
+        "es": "esperanza",
+        "yaq": "X"
+      },
+      "290": {
+        "en": "kiss",
+        "fr": "baiser,  embrasser",
+        "es": "besar",
+        "yaq": "liúta"
+      },
+      "250": {
+        "en": "laugh",
+        "fr": "rire",
+        "es": "reír",
+        "yaq": "aáche"
+      },
+      "670": {
+        "en": "tell lies, lie",
+        "fr": "mentir",
+        "es": "mentir",
+        "yaq": "baíta’a"
+      },
+      "270": {
+        "en": "love",
+        "fr": "amour,  aimer",
+        "es": "querer",
+        "yaq": "wáata"
+      },
+      "310": {
+        "en": "suffer, pain",
+        "fr": "douleur",
+        "es": "dolor",
+        "yaq": "X"
+      },
+      "260": {
+        "en": "play",
+        "fr": "jouer",
+        "es": "jugar",
+        "yaq": "yeéwe"
+      },
+      "790": {
+        "en": "praise",
+        "fr": "louange,  éloge",
+        "es": "exaltar,  alabar",
+        "yaq": "X"
+      },
+      "480": {
+        "en": "proud",
+        "fr": "fier",
+        "es": "orgulloso",
+        "yaq": "X"
+      },
+      "340": {
+        "en": "sorry (be), regret, be sorry",
+        "fr": "regretter",
+        "es": "lamentar",
+        "yaq": "X"
+      },
+      "450": {
+        "en": "shame (noun)",
+        "fr": "honte",
+        "es": "vergüenza",
+        "yaq": "X"
+      },
+      "251": {
+        "en": "smile",
+        "fr": "sourire",
+        "es": "sonreír",
+        "yaq": "X"
+      },
+      "110": {
+        "en": "spirit, soul",
+        "fr": "âme, esprit",
+        "es": "alma",
+        "yaq": "X"
+      },
+      "380": {
+        "en": "tear (noun)",
+        "fr": "larme",
+        "es": "lágrima",
+        "yaq": "X"
+      },
+      "660": {
+        "en": "true",
+        "fr": "vrai",
+        "es": "verdadero",
+        "yaq": "X"
+      },
+      "820": {
+        "en": "ugly",
+        "fr": "laid",
+        "es": "feo",
+        "yaq": "X"
+      },
+      "740": {
+        "en": "wrong",
+        "fr": "incorrect",
+        "es": "incorrecto, falso",
+        "yaq": "X"
+      }
+    },
+    "05": {
+      "240": {
+        "en": "bake",
+        "fr": "cuire au four",
+        "es": "hornear",
+        "yaq": "orniároa"
+      },
+      "660": {
+        "en": "bean",
+        "fr": "haba,  haricot",
+        "es": "frijol, poroto",
+        "yaq": "múni"
+      },
+      "930": {
+        "en": "beer",
+        "fr": "bière",
+        "es": "cerveza",
+        "yaq": "serbéesa"
+      },
+      "220": {
+        "en": "boil (vb)",
+        "fr": "bouillir",
+        "es": "hervir",
+        "yaq": "pójtia"
+      },
+      "330": {
+        "en": "bowl",
+        "fr": "bol",
+        "es": "tazón",
+        "yaq": "*"
+      },
+      "510": {
+        "en": "bread",
+        "fr": "pain",
+        "es": "pan",
+        "yaq": "páanim"
+      },
+      "420": {
+        "en": "breakfast",
+        "fr": "petit déjeuner",
+        "es": "desayuno",
+        "yaq": "bwa’aáme"
+      },
+      "640": {
+        "en": "soup, broth",
+        "fr": "soupe, potage",
+        "es": "sopa",
+        "yaq": "soópam"
+      },
+      "712": {
+        "en": "bunch",
+        "fr": "botte",
+        "es": "racimo",
+        "yaq": "X"
+      },
+      "890": {
+        "en": "butter",
+        "fr": "beurre",
+        "es": "manteca, mantequilla",
+        "yaq": "mantekiá"
+      },
+      "880": {
+        "en": "cheese",
+        "fr": "fromage",
+        "es": "queso",
+        "yaq": "keésum"
+      },
+      "180": {
+        "en": "chew",
+        "fr": "mastiquer,  macher",
+        "es": "masticar",
+        "yaq": "jíko’a"
+      },
+      "821": {
+        "en": "pepper (chili), chili pepper",
+        "fr": "piment",
+        "es": "ají",
+        "yaq": "X"
+      },
+      "190": {
+        "en": "choke",
+        "fr": "étouffer",
+        "es": "sofocar",
+        "yaq": "X"
+      },
+      "210": {
+        "en": "cook",
+        "fr": "cuire",
+        "es": "cocinar",
+        "yaq": "kosinároa"
+      },
+      "121": {
+        "en": "cooked",
+        "fr": "cuit",
+        "es": "cocinado",
+        "yaq": "kosinároari"
+      },
+      "260": {
+        "en": "pot, cooking vessel",
+        "fr": "casserole, marmite",
+        "es": "olla",
+        "yaq": "sóto’i"
+      },
+      "560": {
+        "en": "grind, crush",
+        "fr": "écraser, broyer",
+        "es": "aplastar, moler",
+        "yaq": "tuúse"
+      },
+      "350": {
+        "en": "cup, drinking vessel",
+        "fr": "tasse, coupe",
+        "es": "taza",
+        "yaq": "taása"
+      },
+      "440": {
+        "en": "dinner",
+        "fr": "dîner",
+        "es": "comida",
+        "yaq": "X"
+      },
+      "310": {
+        "en": "dish",
+        "fr": "plat, assiette",
+        "es": "plato",
+        "yaq": "pú’ato"
+      },
+      "530": {
+        "en": "dough",
+        "fr": "pâte",
+        "es": "masa",
+        "yaq": "kíttim"
+      },
+      "130": {
+        "en": "drink",
+        "fr": "boire",
+        "es": "beber",
+        "yaq": "jé’e"
+      },
+      "900": {
+        "en": "drink, beverage",
+        "fr": "boisson",
+        "es": "bebida",
+        "yaq": "jí’iwame, jí’iria"
+      },
+      "110": {
+        "en": "eat",
+        "fr": "manger",
+        "es": "comer",
+        "yaq": "jí’ibwa"
+      },
+      "970": {
+        "en": "egg",
+        "fr": "oeuf",
+        "es": "huevo",
+        "yaq": "kábam"
+      },
+      "971": {
+        "en": "yolk (egg), egg yolk",
+        "fr": "jaune d'oeuf",
+        "es": "yema (de huevo)",
+        "yaq": "X"
+      },
+      "141": {
+        "en": "famine",
+        "fr": "famine, disette",
+        "es": "hambre",
+        "yaq": "tebaúria"
+      },
+      "791": {
+        "en": "grease, fat",
+        "fr": "graisse, le gras",
+        "es": "grasa",
+        "yaq": "áwira"
+      },
+      "940": {
+        "en": "fermented drink",
+        "fr": "boisson fermentée",
+        "es": "bebida fermentada",
+        "yaq": "biá yéjtela"
+      },
+      "750": {
+        "en": "fig",
+        "fr": "figue",
+        "es": "higo",
+        "yaq": "chuúna"
+      },
+      "550": {
+        "en": "meal, flour",
+        "fr": "farine",
+        "es": "harina",
+        "yaq": "aínam"
+      },
+      "120": {
+        "en": "food",
+        "fr": "nourriture",
+        "es": "comida",
+        "yaq": "X"
+      },
+      "390": {
+        "en": "fork",
+        "fr": "fourchette",
+        "es": "tenedor",
+        "yaq": "X"
+      },
+      "710": {
+        "en": "fruit",
+        "fr": "fruit",
+        "es": "fruta",
+        "yaq": "frúuta"
+      },
+      "230": {
+        "en": "roast, fry",
+        "fr": "rôtir, frire",
+        "es": "asar, freír",
+        "yaq": "sóba, bwása"
+      },
+      "760": {
+        "en": "grape",
+        "fr": "raisin",
+        "es": "uva",
+        "yaq": "uúba"
+      },
+      "124": {
+        "en": "unripe, green",
+        "fr": "vert",
+        "es": "inmaduro, no maduro, verde",
+        "yaq": "kaá momoí"
+      },
+      "840": {
+        "en": "honey",
+        "fr": "miel",
+        "es": "mile",
+        "yaq": "miélim, kákam"
+      },
+      "140": {
+        "en": "hunger",
+        "fr": "faim",
+        "es": "hambre",
+        "yaq": "tébaure"
+      },
+      "340": {
+        "en": "water jar, jug, pitcher",
+        "fr": "cruche, broc",
+        "es": "cántaro, jarro",
+        "yaq": "sóto’i"
+      },
+      "270": {
+        "en": "kettle",
+        "fr": "bouilloire",
+        "es": "caldera",
+        "yaq": "X"
+      },
+      "540": {
+        "en": "knead",
+        "fr": "pétrir, masser",
+        "es": "amasar",
+        "yaq": "kítta"
+      },
+      "380": {
+        "en": "knife",
+        "fr": "couteau (de table)",
+        "es": "cuchillo (para cortar comida)",
+        "yaq": "kúchi’im"
+      },
+      "430": {
+        "en": "lunch",
+        "fr": "déjeuner, repas de midi",
+        "es": "almuerzo",
+        "yaq": "X"
+      },
+      "910": {
+        "en": "mead",
+        "fr": "hydromel",
+        "es": "aguamiel",
+        "yaq": "X"
+      },
+      "410": {
+        "en": "meal (a)",
+        "fr": "repas",
+        "es": "comida",
+        "yaq": "X"
+      },
+      "610": {
+        "en": "meat",
+        "fr": "viande",
+        "es": "carne",
+        "yaq": "waákas"
+      },
+      "860": {
+        "en": "milk (noun)",
+        "fr": "lait",
+        "es": "leche",
+        "yaq": "leéchim, kaúwam"
+      },
+      "870": {
+        "en": "milk (vb)",
+        "fr": "traire",
+        "es": "ordeñar",
+        "yaq": "jipí’ike"
+      },
+      "570": {
+        "en": "mill",
+        "fr": "moulin",
+        "es": "Molino",
+        "yaq": "molíno, moíno"
+      },
+      "490": {
+        "en": "stir, mix",
+        "fr": "mêler, mélanger",
+        "es": "mezclar, mixturar",
+        "yaq": "X"
+      },
+      "580": {
+        "en": "mortar",
+        "fr": "mortier",
+        "es": "mortero",
+        "yaq": "X"
+      },
+      "770": {
+        "en": "nut",
+        "fr": "noix",
+        "es": "nuez",
+        "yaq": "X"
+      },
+      "790": {
+        "en": "oil",
+        "fr": "huile",
+        "es": "aceite",
+        "yaq": "aseíte"
+      },
+      "780": {
+        "en": "olive",
+        "fr": "olive",
+        "es": "aceituna, oliva",
+        "yaq": "X"
+      },
+      "250": {
+        "en": "oven",
+        "fr": "four",
+        "es": "horno",
+        "yaq": "jóona"
+      },
+      "280": {
+        "en": "pan",
+        "fr": "casserole",
+        "es": "cacerola, cazuela",
+        "yaq": "X"
+      },
+      "460": {
+        "en": "peel",
+        "fr": "peler,  éplucher",
+        "es": "pelar",
+        "yaq": "nássua"
+      },
+      "820": {
+        "en": "pepper",
+        "fr": "poivre",
+        "es": "pimiento",
+        "yaq": "pimiéntam"
+      },
+      "590": {
+        "en": "pestle",
+        "fr": "pilon",
+        "es": "mano de mortero",
+        "yaq": "X"
+      },
+      "320": {
+        "en": "plate",
+        "fr": "assiette",
+        "es": "plato",
+        "yaq": "pú’ato"
+      },
+      "700": {
+        "en": "potato",
+        "fr": "pomme de terre",
+        "es": "papa----paápa",
+        "yaq": "X"
+      },
+      "122": {
+        "en": "raw",
+        "fr": "cru",
+        "es": "crudo",
+        "yaq": "X"
+      },
+      "123": {
+        "en": "ripe",
+        "fr": "mûr",
+        "es": "maduro",
+        "yaq": "X"
+      },
+      "125": {
+        "en": "spoiled, rotten",
+        "fr": "pourri",
+        "es": "podrido",
+        "yaq": "X"
+      },
+      "810": {
+        "en": "salt",
+        "fr": "sel",
+        "es": "sal",
+        "yaq": "X"
+      },
+      "360": {
+        "en": "saucer",
+        "fr": "soucoupe",
+        "es": "platillo",
+        "yaq": "X"
+      },
+      "630": {
+        "en": "sausage",
+        "fr": "saucisse",
+        "es": "salchicha",
+        "yaq": "X"
+      },
+      "480": {
+        "en": "scrape",
+        "fr": "gratter, raper",
+        "es": "raspar",
+        "yaq": "X"
+      },
+      "470": {
+        "en": "strain, sieve",
+        "fr": "passer",
+        "es": "cribar, colar, cerner",
+        "yaq": "X"
+      },
+      "370": {
+        "en": "spoon",
+        "fr": "cuiller",
+        "es": "cuchara",
+        "yaq": "X"
+      },
+      "160": {
+        "en": "suck",
+        "fr": "sucer",
+        "es": "chupar",
+        "yaq": "X"
+      },
+      "850": {
+        "en": "sugar",
+        "fr": "sucre",
+        "es": "azúcar------asúka",
+        "yaq": "X"
+      },
+      "450": {
+        "en": "supper",
+        "fr": "souper, repas du soir",
+        "es": "cena",
+        "yaq": "X"
+      },
+      "181": {
+        "en": "swallow",
+        "fr": "avaler",
+        "es": "tragar",
+        "yaq": "X"
+      },
+      "150": {
+        "en": "thirst",
+        "fr": "soif",
+        "es": "sed",
+        "yaq": "X"
+      },
+      "391": {
+        "en": "tongs",
+        "fr": "pinces",
+        "es": "tenazas-------tená’asam",
+        "yaq": "X"
+      },
+      "650": {
+        "en": "vegetables",
+        "fr": "légumes",
+        "es": "legumbres",
+        "yaq": "X"
+      },
+      "920": {
+        "en": "wine",
+        "fr": "vin",
+        "es": "vino -----biíno",
+        "yaq": "X"
+      }
+    }
+  }
+}

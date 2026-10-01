@@ -1,0 +1,1311 @@
+﻿id,group_id,element_id,en,fr,es,yaq
+01.100,01,100,world,monde,mundo,X
+01.210,01,210,"land, earth",terre,tierra,bwiá
+01.212,01,212,"soil, ground=earth, earth=ground","terre, sol",suelo,X
+01.213,01,213,dust,poussière,polvo,tóochia
+01.214,01,214,mud,boue,lodo,techoá
+01.215,01,215,sand,sable,arena,X
+01.220,01,220,"mountain, hill","montagne, colline","montaña, loma","káwi, chópo’oria"
+01.222,01,222,"precipice, cliff",falaise,barranca,siíba
+01.230,01,230,"plain, field","plaine, campagne","pampa, llano",pá’aria
+01.240,01,240,valley,vallée,valle,X
+01.250,01,250,island,île,isla,X
+01.260,01,260,mainland,continent,continente,X
+01.270,01,270,"bank (of river), shore","rivage,  littoral","ribera, playa",bawé mayoá
+01.280,01,280,cave,grotte,cueva,teéso
+01.310,01,310,water,eau,agua,X
+01.320,01,320,sea,mer,mar,X
+01.322,01,322,calm (of sea),étale,calma,kópalai
+01.323,01,323,rough (of sea),"trouble, agité (mer)","agitado (mar), borrascoso",X
+01.324,01,324,foam,"écume,  mousse",espuma,somó’ochia
+01.329,01,329,ocean,océan,océano,X
+01.330,01,330,lake,lac,lago,X
+01.340,01,340,"gulf, bay","golfe, baie","golfo, bahía",wólpo
+01.341,01,341,lagoon,lagune,laguna,baubá’a
+01.342,01,342,reef,récif,arrecife,X
+01.343,01,343,"point, headland","promontoire, pointe",punta,púnta
+01.350,01,350,wave,vague,ola,X
+01.352,01,352,tide,marée,marea,X
+01.353,01,353,lowtide,marée basse,bajamar,X
+01.354,01,354,hightide,marée haute,pleamar,X
+01.360,01,360,"stream, brook, river","fleuve, rivière, ruisseau","río, corriente, arroyo",X
+01.362,01,362,whirlpool,tourbillon d'eau,remolino,X
+01.370,01,370,"well, spring","source, puits","manantial, pozo",X
+01.380,01,380,swamp,"marais, marécage",pantano,X
+01.390,01,390,waterfall,"chûte d'eau, cascade",cascada,X
+01.410,01,410,"woods, forest","bois, forêt",selva,júya
+01.420,01,420,tree (cf 08.600),arbre,árbol,X
+01.430,01,430,wood,bois,madera,X
+01.440,01,440,"stone, rock","pierre, roc, rocher","piedra, roca",X
+01.450,01,450,earthquake,"tremblement de terre, séisme",terremoto,X
+01.510,01,510,sky,ciel,cielo,X
+01.520,01,520,sun,soleil,sol,X
+01.530,01,530,moon,lune,luna,meécha
+01.540,01,540,star,étoile,estrella,X
+01.550,01,550,lightning,éclair,relámpago,yúku be’óktia
+01.560,01,560,thunder,tonnerre,trueno,X
+01.570,01,570,lightning (as striking),foudre,rayo,yúku jimaári
+01.580,01,580,storm,"orage, tempête","tempestad, tormenta",X
+01.590,01,590,rainbow,arc-en-ciel,arco-iris,X
+01.610,01,610,light (noun),lumière,luz,táji
+01.620,01,620,darkness,"obscurité, ténèbres",oscuridad,kaá mamáchia
+01.630,01,630,"shade, shadow",ombre,sombra,X
+01.640,01,640,dew,rosée,rocío,síjjo’ote
+01.710,01,710,air,air,aire,X
+01.720,01,720,wind,vent,viento,X
+01.730,01,730,cloud,nuage,nube,naámu
+01.740,01,740,fog,"brume, brouillard","neblina, niebla",bájewa
+01.750,01,750,rain (noun),pluie,lluvia,X
+01.760,01,760,snow (noun),neige,nieve,X
+01.770,01,770,ice,glace,hielo,sápam
+01.780,01,780,weather,temps,tiempo,X
+01.810,01,810,fire,feu,fuego,táji
+01.820,01,820,flame (noun),flamme,llama,buáktia
+01.830,01,830,smoke (noun),fumée,humo,X
+01.840,01,840,ashes,cendres,cenizas,náposa
+01.841,01,841,embers,braise,brasas,oúbam
+01.851,01,851,burn (vb trans),brûler,quemar,táya
+01.852,01,852,burn (vb intrans),brûler,arder,béete
+01.860,01,860,"light, kindle, ignite",allumer,encender,táya
+01.861,01,861,extinguish,éteindre,apagar,bejé’etua
+01.870,01,870,match (noun),allumette,fósforo,X
+01.880,01,880,firewood,"bois (pour le feu), bûches",leña,kútam
+01.890,01,890,charcoal,charbon de bois,carbón,maátum
+02.100,02,100,"person, human being","personne, être humain",persona,bató’i
+02.210,02,210,man (vs.woman),homme,hombre,o’oú
+02.220,02,220,woman,femme,mujer,X
+02.230,02,230,male,mâle,"varón, macho",o’oú
+02.240,02,240,female,femelle,hembra,jámut
+02.250,02,250,boy,garçon,muchacho,uúsi jú’ubwa yó’otune
+02.251,02,251,young man (adolescent),jeune homme,joven,X
+02.260,02,260,girl,fille,muchacha,ilí jámut
+02.261,02,261,young woman (adolescent),jeune fille,joven,X
+02.270,02,270,child,enfant,niño,uúsi
+02.280,02,280,"infant, baby","enfant, bébé","niño, bebé","ilí uúsi, uúsi"
+02.310,02,310,husband,mari,"marido, esposo",kuúna
+02.320,02,320,wife,"femme, épouse",esposa,X
+02.330,02,330,marry,"se marier, épouser",casarse,"juúbe(hombre), kuúna(mujer)"
+02.340,02,340,"wedding, marriage","mariage, noces","casamiento, boda",jújupwa’u
+02.341,02,341,divorce,divorce,divorcio,X
+02.350,02,350,father,père,padre,áchai
+02.360,02,360,mother,mère,madre,"maála, ae"
+02.370,02,370,parents,parents,padres,X
+02.380,02,380,married man,homme marié,hombre casado,júpla
+02.390,02,390,married woman,femme mariée,mujer casada,kunála
+02.410,02,410,son,fils,hijo,X
+02.420,02,420,daughter,fille,hija,asoá
+02.430,02,430,offspring (son or daughter),enfant,"hijo, hija",X
+02.440,02,440,brother,frère,hermano,saíla
+02.444,02,444,older brother,frêre aîné,hermano mayor,X
+02.445,02,445,younger brother,frère cadet,hermano menor,X
+02.450,02,450,sister,soeur,hermana,X
+02.454,02,454,older sister,soeur ainée,hermana mayor,X
+02.455,02,455,younger sister,soeur cadette,hermana menor,X
+02.456,02,456,sibling,frère/soeur,"hermano, hermana",X
+02.458,02,458,twins,jumeaux,gemelos,X
+02.460,02,460,grandfather,grand-père,abuelo,jaboí
+02.461,02,461,old man,vieillard,hombre viejo,yoém ó’ola
+02.470,02,470,grandmother,grand-mère,abuela,jaáka
+02.471,02,471,old woman,vieillarde,mujer vieja,jámut ó’ola
+02.480,02,480,grandson,petit-fils,nieto,X
+02.490,02,490,granddaughter,petite-fille,nieta,"ámu( de mujer), ápala( de hombre)"
+02.510,02,510,uncle,oncle,tío,X
+02.511,02,511,mother's brother,frère de la mère,hermano (de la madre),X
+02.512,02,512,father's brother,frère du père,hermano (del padre),sai
+02.520,02,520,aunt,tante,tía,"chí’ila, jaáka, né’esa"
+02.521,02,521,mother's sister,soeur de la mère,hermana (de la madre),X
+02.522,02,522,father's sister,soeur du père,hermana (del padre),áko
+02.530,02,530,nephew,neveu,sobrino,asowaára
+02.540,02,540,niece,nièce,sobrina,asowaára
+02.550,02,550,cousin,"cousin, cousine",primo/prima,X
+02.560,02,560,ancestors,"ancêtres,  aïeux",antepasados,"yo’ówe, yoyówe"
+02.570,02,570,descendants,descendants,descendientes,X
+02.610,02,610,father-in-law (of a man),beau-père (d'un homme),suegro (de hombre) asé’ebwa,X
+02.611,02,611,father-in-law (of a woman),beau-père (d'une femme),suegro (de mujer) aséka,X
+02.620,02,620,mother-in-law (of a man),belle-mère (d'un homme),suegra (de hombre),X
+02.621,02,621,mother-in-law (of a woman),belle-mère (d'une femme),suegra (de mujer),X
+02.630,02,630,son-in-law (of a man),gendre (d'un homme),yerno  (de hombre),X
+02.631,02,631,son-in-law (of a woman),gendre (d'une femme),yerno (de mujer),X
+02.640,02,640,daughter-in-law (of a man),"bru, belle-fille (d'un homme)",nuera (de hombre)  jabórae,X
+02.641,02,641,daughter-in-law (of a woman),"bru, belle-fille (d'une femme)",nuera (de mujer) jabórae,X
+02.710,02,710,stepfather,beau-père,padrastro,X
+02.720,02,720,stepmother,belle-mère,madrastra,X
+02.730,02,730,stepson,beau-fils,hijastro,X
+02.740,02,740,stepdaughter,belle-fille,hijastra,X
+02.750,02,750,orphan,"orphelin, orpheline",huérfano/ huérfana,leépe
+02.760,02,760,widow,veuve,viuda,X
+02.770,02,770,widower,veuf,viudo,X
+02.810,02,810,"relatives, kinsmen",parents,"parientes, parentela",wawaíra
+02.820,02,820,family,famille,familia,yoémia
+02.910,02,910,I,"je, moi",yo,ínepo
+02.920,02,920,you (singular),tu,"tú, usted",X
+02.930,02,930,"she/he/it, it/he/she, he/she/it",il/elle,él/ella/ello,áapo’ik
+02.940,02,940,we,nous,nosotros/ nosotras,X
+02.941,02,941,we (inclusive),nous,nosotros/nosotras (inclusivo),X
+02.942,02,942,we (exclusive),nous,nosotros/nosotras (exclusivo),X
+02.950,02,950,you (plural),vous,ustedes,X
+02.960,02,960,they,"eux, elles","ellos, ellas",X
+03.110,03,110,animal,"animal,  bête",animal,animaál
+03.120,03,120,male (adj),mâle,masculine,o’oú
+03.130,03,130,female (adj),femelle,femenino,jámut
+03.150,03,150,livestock,bétail,ganado,X
+03.160,03,160,pasture,"pâturage, pâture","pradera, potrero",poteó
+03.180,03,180,herdsman,"bouvier, pâtre",pastor,kapyeó
+03.190,03,190,"stable, stall","étable, écurie",establo,X
+03.200,03,200,cattle (bovine),bétail,ganado,X
+03.210,03,210,bull,taureau,toro,"toóro, toó"
+03.220,03,220,ox,boeuf,buey,boés
+03.230,03,230,cow,vache,vaca,waákas
+03.240,03,240,calf,veau,"becerro,  ternero",beseó
+03.250,03,250,sheep,mouton,oveja,X
+03.260,03,260,ram,bélier,"carnero, morueco",X
+03.280,03,280,ewe,brebis,oveja,bwára
+03.290,03,290,lamb,agneau,"borrego, cordero",X
+03.320,03,320,boar,sanglier,jabalí,juá kówi
+03.340,03,340,sow,truie,"puerca, cochina, cerda",X
+03.350,03,350,pig,"cochon,  porc","cerdo, puerco",koówi
+03.360,03,360,goat,chèvre,cabra,kabá
+03.370,03,370,he-goat,bouc,chivo,chíba’ato
+03.380,03,380,kid,chevreau,cabrito,X
+03.410,03,410,horse (equine),cheval,caballo,kába’i
+03.420,03,420,stallion,étalon,"caballo padre,  semental",X
+03.440,03,440,mare,jument,yegua,X
+03.450,03,450,"colt, foal",poulain,potrillo,ilí kába’i
+03.460,03,460,"donkey, ass",âne,"asno,  burro",buúru
+03.470,03,470,mule,mulet,mulo,X
+03.500,03,500,fowl,poule,ave,wiíkit
+03.520,03,520,"rooster, cock",coq,gallo,tótoi
+03.540,03,540,hen,poule,gallina,tótoi
+03.550,03,550,chicken,poulet,pollo,tótoi
+03.560,03,560,goose,oie,ganso,gánso
+03.570,03,570,duck,canard,pato,paáto
+03.580,03,580,nest,nid,nido,toósa
+03.581,03,581,bird,oiseau,pájaro,wiíkit
+03.582,03,582,seagull,mouette,gaviota,X
+03.583,03,583,heron,héron,garza,baáwo’i
+03.584,03,584,eagle,aigle,águila,taáwe
+03.585,03,585,hawk,faucon,"gavilán, halcón",X
+03.586,03,586,"vulture, buzzard",vautour,buitre,wiíru
+03.591,03,591,bat,chauve-souris,murciélago,sóchik
+03.592,03,592,parrot,perroquet,loro,X
+03.593,03,593,crow,corbeau,cuervo,koóni
+03.594,03,594,dove,colombe,paloma,palóma
+03.596,03,596,owl,hibou,"lechuza, buho",muú’u
+03.610,03,610,dog,chien,perro,chuú’u
+03.614,03,614,rabbit,lapin,conejo,X
+03.620,03,620,cat,chat,gato,miísi
+03.622,03,622,opossum,opossum,zarigüeya,X
+03.630,03,630,"rat, mouse","souris, rat","ratón, rata",tóri
+03.650,03,650,fish,poisson,"pez, pescado",kúchu
+03.652,03,652,fin (dorsal),nageoire,aleta,másam
+03.653,03,653,fishscale,écaille,escama,kuúpem
+03.654,03,654,gill,ouïes,agalla,X
+03.655,03,655,shell,"coquille,  coquillage",valva,X
+03.661,03,661,shark,requin,tiburón,X
+03.662,03,662,"porpoise, dolphin","marsouin, dauphin",delfín,X
+03.663,03,663,whale,baleine,ballena,X
+03.664,03,664,stingray,raie,"raya, pastinaca",X
+03.665,03,665,freshwater eel,anguille d'eau douce,anguila de agua dulce,X
+03.710,03,710,wolf,loup,lobo,X
+03.720,03,720,lion,lion,león,oúsei
+03.730,03,730,bear,ours,oso,"oóso, joóso"
+03.740,03,740,fox,renard,zorro,káwis
+03.750,03,750,deer,"daim, cerf, chevreuil",venado,maáso
+03.760,03,760,monkey,singe,mono,X
+03.770,03,770,elephant,éléphant,elefante,elépante
+03.780,03,780,camel,chameau,camello,kaméeyo
+03.810,03,810,insect,insecte,insecto,X
+03.811,03,811,louse,pou,piojo,éte
+03.812,03,812,"nit (louse egg), louse egg (nit)",lente,liendre,natchí’ika
+03.813,03,813,flea,puce,pulga,téput
+03.814,03,814,centipede,mille-pattes,ciempiés,X
+03.815,03,815,scorpion,scorpion,alacrán,X
+03.816,03,816,cockroach,"cafard, cancrelat",cucaracha,X
+03.817,03,817,ant,fourmi,hormiga,X
+03.818,03,818,spider,araignée,araña,X
+03.819,03,819,spider web,toile d'araignée,telaraña,X
+03.820,03,820,bee,abeille,abeja,muúmu
+03.821,03,821,"wax (bees), beeswax",cire,cera de abeja,mumú jo’ára
+03.822,03,822,beehive,ruche,colmena,kolméenam
+03.823,03,823,wasp,guêpe,avispa,X
+03.830,03,830,fly (noun),mouche,mosca,sé’eboi
+03.831,03,831,"sandfly (midge), gnat",moucheron,jején,kúru
+03.832,03,832,mosquito,moustique,mosquito,X
+03.840,03,840,worm,ver de terre,"lombriz, gusano",X
+03.850,03,850,snake,"serpent, couleuvre","culebra,  serpiente",X
+03.910,03,910,firefly,"verluisant, luciole",luciérnaga,kuúpis
+03.920,03,920,butterfly,papillon,mariposa,baisé’eboli
+03.930,03,930,grasshopper,sauterelle,saltamontes,wakáwo’ochi
+03.940,03,940,snail,escargot,caracol,X
+03.950,03,950,frog,grenouille,rana,bátat
+03.960,03,960,lizard,lézard,lagartija,wikuím
+03.970,03,970,"alligator, crocodile",crocodile,"cocodrilo, caimán",káma
+03.980,03,980,turtle,tortue,tortuga,X
+04.110,04,110,body,corps,cuerpo,taká
+04.120,04,120,"skin, hide",peau,"piel, cutis, pellejo",X
+04.130,04,130,flesh,chair,carne,waákas
+04.140,04,140,hair (head),cheveu,"cabello, pelo",choónim
+04.142,04,142,beard,barbe,barba,cháo bóam
+04.144,04,144,body hair,poil,vello (del cuerpo),boá
+04.145,04,145,pubic hair,poil pubien,pelo púbico,X
+04.146,04,146,dandruff,pellicule,caspa,X
+04.150,04,150,blood,sang,sangre,ójbo
+04.151,04,151,"vein, artery","veine, artère","vena, arteria",ójbo wíkia
+04.160,04,160,bone,os,hueso,óta
+04.162,04,162,rib,côte,costilla,X
+04.170,04,170,horn,corne,cuerno,aáwam
+04.180,04,180,tail,queue,cola,X
+04.190,04,190,back,dos,espalda,X
+04.191,04,191,spine,épine dorsale,"espinazo,   espina dorsal",X
+04.200,04,200,head,tête,cabeza,kóba
+04.201,04,201,"temple, side of head",tempe,sien,X
+04.202,04,202,skull,crâne,"cráneo, calavera",X
+04.203,04,203,brain,cerveau,"cerebro, sesos",ó’oream
+04.204,04,204,face,visage,cara,pújba
+04.205,04,205,forehead,front,frente,bíchapo
+04.207,04,207,jaw,machoire,mandíbula,tabawása’im
+04.208,04,208,cheek,joue,mejilla,jópem
+04.209,04,209,chin,menton,mentón,chaáo
+04.210,04,210,eye,oeil,ojo,puúsim
+04.212,04,212,eyebrow,sourcil,ceja,kúmsakam
+04.213,04,213,eyelid,paupière,párpado,pujbepá’aria
+04.214,04,214,eyelash,cil,pestaña,pussé’ebem
+04.215,04,215,blink,cligner (de l'oeil),parpadear,kupíkte
+04.220,04,220,ear,oreille,oreja,nákam
+04.221,04,221,earlobe,lobe de l'oreille,lóbulo (de oreja),X
+04.222,04,222,"wax (ear), earwax","cèrumen, cire d'oreille",cerumen,X
+04.230,04,230,nose,nez,nariz,yéka
+04.231,04,231,nostril,narine,ventana de la nariz,yéka wojó’oria
+04.232,04,232,mucus (nasal),"morve,  mucus",moco,choómim
+04.240,04,240,mouth,bouche,boca,teéni
+04.241,04,241,beak,bec,pico,piíko
+04.250,04,250,lip,lèvre,labio,tenberiá
+04.260,04,260,tongue,langue,lengua,X
+04.270,04,270,tooth,dent,diente,X
+04.271,04,271,gums,gencives,encías,tamtékwa
+04.272,04,272,molartooth,molaire,"molar,  muela",X
+04.280,04,280,neck,cou,cuello,kutanaá
+04.281,04,281,nape of neck,nuque,nuca,bí’am
+04.290,04,290,throat,gorge,garganta,X
+04.300,04,300,shoulder,épaule,hombro,X
+04.301,04,301,shoulderblade,omoplate,"escápula,  omóplato",X
+04.302,04,302,collarbone,clavicule,clavícula,X
+04.310,04,310,arm,bras,brazo,X
+04.312,04,312,armpit,aisselle,"sobaco, axila",seékam
+04.320,04,320,elbow,coude,codo,téchom
+04.321,04,321,wrist,poignet,muñeca-----munyeéka,X
+04.330,04,330,hand,main,mano,X
+04.331,04,331,palm of hand,paume,palma de la mano,mambéta’aria
+04.340,04,340,finger,doigt,dedo,mampusiám
+04.342,04,342,thumb,pouce,pulgar,X
+04.344,04,344,fingernail,ongle,uña,sútum
+04.345,04,345,claw,griffe,garra,sútum
+04.350,04,350,leg,jambe,"pierna,  pata",wókim
+04.351,04,351,thigh,cuisse,muslo,X
+04.352,04,352,calf of leg,mollet,pantorrilla,woktómam
+04.360,04,360,knee,genou,rodilla,tónom
+04.370,04,370,foot,pied,pie,wókim
+04.371,04,371,ankle,cheville,tobillo,X
+04.372,04,372,heel,talon,talon,pémpe’im
+04.374,04,374,footprint,empreinte du pied,huella,X
+04.380,04,380,toe,"orteil, doigt de pied",dedo del pie,X
+04.392,04,392,wing,aile,ala,X
+04.393,04,393,feather,plume,pluma,boá
+04.400,04,400,chest,poitrine,pecho,táwi
+04.410,04,410,breast (of woman),"sein, poitrine",seno,pípim
+04.412,04,412,"teat, nipple","mamelon, téton",pezón,X
+04.420,04,420,udder,"pis,  mamelle",ubre,X
+04.430,04,430,navel,nombril,ombligo,siíku
+04.440,04,440,heart,coeur,corazón,jiápsi
+04.441,04,441,lung,poumon,pulmón,sáre’echiam
+04.450,04,450,liver,foie,hígado,jeémam
+04.451,04,451,kidney,rein,riñón,sikúpuriam
+04.452,04,452,spleen,rate,bazo----báaso,X
+04.460,04,460,stomach,"estomac, (malau) ventre",estómago,X
+04.461,04,461,"intestines, guts","intestins, boyaux",intestinos,siíam
+04.462,04,462,waist,taille,cintura,X
+04.463,04,463,hip,hanche,cadera,wépe’i
+04.464,04,464,buttocks,"fesses, derrière","nalgas,  trasero",chóbe
+04.470,04,470,womb,matrice,"matriz,  vientre",X
+04.490,04,490,testicle,testicule,testículo,X
+04.492,04,492,penis,pénis,pene,bichoó
+04.510,04,510,"breathe, breath","respirer, haleine","respirar, aliento","jiabijte, jiabijtei"
+04.520,04,520,"yawn, gape",bailler,bostezar,wa’awa’ákte
+04.521,04,521,hiccough,hoqueter,hipo,je’óktia
+04.530,04,530,cough,tousser,toser,táse
+04.540,04,540,sneeze,éternuer,estornudar,X
+04.550,04,550,perspire,"transpirer, suer",sudar,tatabújte
+04.560,04,560,"spit, saliva",cracher,escupir (saliva [noun]),X
+04.570,04,570,vomit,vomir,vomitar,X
+04.580,04,580,bite,mordre,morder,ké’e
+04.590,04,590,lick,lécher,lamer,be’ókta
+04.591,04,591,dribble,baver,"gotear, babear",chíchek
+04.610,04,610,sleep,dormir,dormir,X
+04.612,04,612,snore,ronfler,roncar,X
+04.620,04,620,dream,rêver,sonar,X
+04.630,04,630,wake up,"se réveiller, s'eveiller",despertarse,X
+04.640,04,640,"flatulence, break wind",péter,flato,X
+04.650,04,650,urinate,uriner,orinar,X
+04.660,04,660,defecate,déféquer,"defecar, excremento (noun)",bwíta
+04.670,04,670,"sexual intercourse, have sexual intercourse","faire l'amour, copuler",tener relaciones sexuales,X
+04.680,04,680,shiver,frissonner,temblar,X
+04.690,04,690,bathe,se baigner,bañar(se),úba
+04.710,04,710,beget (of father),engendrer,engendrar,nauyaá
+04.720,04,720,"birth, born (to be)","né,  naître",nacer,tómte
+04.730,04,730,pregnant,enceinte,"embarazada (mujer), preñada (hembra)",X
+04.732,04,732,conceive,concevoir,concebir,X
+04.740,04,740,"live, living, life, alive","vivre, vivant, vie",vivir,jiápsa
+04.750,04,750,"dead, die","mourir, mort","morir, muerto",mukíla
+04.751,04,751,drowned,noyé,ahogado,X
+04.760,04,760,kill,tuer,matar,mé’a
+04.770,04,770,corpse,cadavre,cadaver,mukíla
+04.780,04,780,bury (the dead),enterrer,sepultar,maá’a
+04.790,04,790,"tomb, grave",tombeau,sepulcro,X
+04.810,04,810,"strong, mighty, powerful","fort, puissant","fuerte, poderoso",X
+04.820,04,820,weak,faible,débil,X
+04.830,04,830,"well, health","santé, en bonne santé","sano, salud",X
+04.840,04,840,"sick, sickness, ill","malade, maladie",enfermo,kó’okoe
+04.841,04,841,fever,fièvre,fiebre,taiwéchia
+04.842,04,842,goiter,goître,"bocio, coto",X
+04.843,04,843,"catarrh, cold",rhume,catarro,chomkó’okoa
+04.850,04,850,"wound, sore","blessure, plaie","herida, llaga",X
+04.852,04,852,bruise,"contusion, bleu",magulladura,X
+04.853,04,853,swelling,"bosse, enflure",hinchazón,X
+04.854,04,854,itch,démangeaison,comezón,elesikiá
+04.855,04,855,blister,ampoule,ampolla,boyória
+04.856,04,856,boil (noun),furoncle,"furúnculo, forúnculo",X
+04.857,04,857,pus,pus,pus,X
+04.858,04,858,scar,cicatrice,cicatriz,X
+04.860,04,860,"heal, cure",guérir,sanar,X
+04.870,04,870,"physician, doctor",médecin,"doctor, médico, medico",yoi jitébi
+04.880,04,880,"medicine, drug","remède, médecine","medicina, remedio",jíttoa
+04.890,04,890,poison,poison,veneno,X
+04.910,04,910,"weary, tired",fatigue,cansado,X
+04.912,04,912,rest,se reposer,descansar,X
+04.920,04,920,lazy,paresseux,perezoso,obé’a
+04.930,04,930,bald,chauve,calvo,kaá chonékame
+04.940,04,940,lame,boiteux,lisiado,X
+04.950,04,950,deaf,sourd,sordo,nákapit
+04.960,04,960,mute,muet,mudo,"kaá nonókame, múuro"
+04.970,04,970,blind,aveugle,ciego,rípti
+04.980,04,980,intoxicated,ivre,ebrio,naámukia
+04.990,04,990,"naked, bare",nu,desnudo,biíchi
+05.110,05,110,eat,manger,comer,jí’ibwa
+05.120,05,120,food,nourriture,comida,X
+05.121,05,121,cooked,cuit,cocinado,kosinároari
+05.122,05,122,raw,cru,crudo,X
+05.123,05,123,ripe,mûr,maduro,X
+05.124,05,124,"unripe, green",vert,"inmaduro, no maduro, verde",kaá momoí
+05.125,05,125,"spoiled, rotten",pourri,podrido,X
+05.130,05,130,drink,boire,beber,jé’e
+05.140,05,140,hunger,faim,hambre,tébaure
+05.141,05,141,famine,"famine, disette",hambre,tebaúria
+05.150,05,150,thirst,soif,sed,X
+05.160,05,160,suck,sucer,chupar,X
+05.180,05,180,chew,"mastiquer,  macher",masticar,jíko’a
+05.181,05,181,swallow,avaler,tragar,X
+05.190,05,190,choke,étouffer,sofocar,X
+05.210,05,210,cook,cuire,cocinar,kosinároa
+05.220,05,220,boil (vb),bouillir,hervir,pójtia
+05.230,05,230,"roast, fry","rôtir, frire","asar, freír","sóba, bwása"
+05.240,05,240,bake,cuire au four,hornear,orniároa
+05.250,05,250,oven,four,horno,jóona
+05.260,05,260,"pot, cooking vessel","casserole, marmite",olla,sóto’i
+05.270,05,270,kettle,bouilloire,caldera,X
+05.280,05,280,pan,casserole,"cacerola, cazuela",X
+05.310,05,310,dish,"plat, assiette",plato,pú’ato
+05.320,05,320,plate,assiette,plato,pú’ato
+05.330,05,330,bowl,bol,tazón,*
+05.340,05,340,"water jar, jug, pitcher","cruche, broc","cántaro, jarro",sóto’i
+05.350,05,350,"cup, drinking vessel","tasse, coupe",taza,taása
+05.360,05,360,saucer,soucoupe,platillo,X
+05.370,05,370,spoon,cuiller,cuchara,X
+05.380,05,380,knife,couteau (de table),cuchillo (para cortar comida),kúchi’im
+05.390,05,390,fork,fourchette,tenedor,X
+05.391,05,391,tongs,pinces,tenazas-------tená’asam,X
+05.410,05,410,meal (a),repas,comida,X
+05.420,05,420,breakfast,petit déjeuner,desayuno,bwa’aáme
+05.430,05,430,lunch,"déjeuner, repas de midi",almuerzo,X
+05.440,05,440,dinner,dîner,comida,X
+05.450,05,450,supper,"souper, repas du soir",cena,X
+05.460,05,460,peel,"peler,  éplucher",pelar,nássua
+05.470,05,470,"strain, sieve",passer,"cribar, colar, cerner",X
+05.480,05,480,scrape,"gratter, raper",raspar,X
+05.490,05,490,"stir, mix","mêler, mélanger","mezclar, mixturar",X
+05.510,05,510,bread,pain,pan,páanim
+05.530,05,530,dough,pâte,masa,kíttim
+05.540,05,540,knead,"pétrir, masser",amasar,kítta
+05.550,05,550,"meal, flour",farine,harina,aínam
+05.560,05,560,"grind, crush","écraser, broyer","aplastar, moler",tuúse
+05.570,05,570,mill,moulin,Molino,"molíno, moíno"
+05.580,05,580,mortar,mortier,mortero,X
+05.590,05,590,pestle,pilon,mano de mortero,X
+05.610,05,610,meat,viande,carne,waákas
+05.630,05,630,sausage,saucisse,salchicha,X
+05.640,05,640,"soup, broth","soupe, potage",sopa,soópam
+05.650,05,650,vegetables,légumes,legumbres,X
+05.660,05,660,bean,"haba,  haricot","frijol, poroto",múni
+05.700,05,700,potato,pomme de terre,papa----paápa,X
+05.710,05,710,fruit,fruit,fruta,frúuta
+05.712,05,712,bunch,botte,racimo,X
+05.750,05,750,fig,figue,higo,chuúna
+05.760,05,760,grape,raisin,uva,uúba
+05.770,05,770,nut,noix,nuez,X
+05.780,05,780,olive,olive,"aceituna, oliva",X
+05.790,05,790,oil,huile,aceite,aseíte
+05.791,05,791,"grease, fat","graisse, le gras",grasa,áwira
+05.810,05,810,salt,sel,sal,X
+05.820,05,820,pepper,poivre,pimiento,pimiéntam
+05.821,05,821,"pepper (chili), chili pepper",piment,ají,X
+05.840,05,840,honey,miel,mile,"miélim, kákam"
+05.850,05,850,sugar,sucre,azúcar------asúka,X
+05.860,05,860,milk (noun),lait,leche,"leéchim, kaúwam"
+05.870,05,870,milk (vb),traire,ordeñar,jipí’ike
+05.880,05,880,cheese,fromage,queso,keésum
+05.890,05,890,butter,beurre,"manteca, mantequilla",mantekiá
+05.900,05,900,"drink, beverage",boisson,bebida,"jí’iwame, jí’iria"
+05.910,05,910,mead,hydromel,aguamiel,X
+05.920,05,920,wine,vin,vino -----biíno,X
+05.930,05,930,beer,bière,cerveza,serbéesa
+05.940,05,940,fermented drink,boisson fermentée,bebida fermentada,biá yéjtela
+05.970,05,970,egg,oeuf,huevo,kábam
+05.971,05,971,"yolk (egg), egg yolk",jaune d'oeuf,yema (de huevo),X
+06.110,06,110,"put on (clothes), dress (vb)","porter, mettre (vêtement)",vestirse,X
+06.120,06,120,"clothing, clothes","habit, vêtement",ropa,tajó’ori
+06.130,06,130,tailor,tailleur,sastre,X
+06.210,06,210,cloth,"étoffe,  tissu",tela,teéla
+06.220,06,220,wool,laine,lana,X
+06.230,06,230,"linen, flax",lin,lino,X
+06.240,06,240,cotton,coton,algodón,chiínim
+06.250,06,250,silk,soie,seda,X
+06.270,06,270,felt,feutre,fieltro,X
+06.280,06,280,fur,fourrure,piel (de animal),beéa
+06.290,06,290,leather,cuir,cuero,beéa
+06.310,06,310,spin,filer,hilar,X
+06.320,06,320,spindle,fuseau,huso,X
+06.330,06,330,weave,tisser,tejer,X
+06.340,06,340,loom,métier â tisser,telar,X
+06.350,06,350,sew,coudre,coser,X
+06.360,06,360,needle,aiguille,aguja,ji’íkiam
+06.370,06,370,awl,alène,punzón,*
+06.380,06,380,thread,fil,hilo,X
+06.390,06,390,dye,teindre,teñir,tójta
+06.410,06,410,cloak,cape,capa,X
+06.411,06,411,poncho,poncho,"poncho,  ruana",X
+06.420,06,420,"woman's dress, dress (noun)(woman's)",robe de femme,vestido,X
+06.430,06,430,coat,"manteau, pardessus","abrigo,  saco",saákom
+06.440,06,440,shirt,chemise,camisa,X
+06.450,06,450,collar,col,cuello,kutanaá
+06.460,06,460,skirt,jupe,falda,X
+06.461,06,461,grass-skirt,jupe en rafia,falda de hierbas,X
+06.480,06,480,trousers,pantalon,"pantalones, calzones",X
+06.490,06,490,"stocking, sock","bas, chaussette","media, calcetín, calcetín----kalsetíinim",X
+06.510,06,510,shoe,"chaussure, soulier",zapato---sapá’atom,X
+06.520,06,520,boot,botte,bota,boótam
+06.540,06,540,"shoemaker, cobbler",cordonnier,zapatero----sapateó,X
+06.550,06,550,"hat, cap","chapeau, casquette","sombrero, gorro",monteéo
+06.570,06,570,"girdle, belt","ceinture, gaine","cinturón, faja","wikósa, tomjísumiam, faájam"
+06.580,06,580,glove,gant,guante,wántem
+06.590,06,590,veil,voile,velo,X
+06.610,06,610,pocket,poche,bolsillo,X
+06.620,06,620,button,bouton,botón,botón
+06.630,06,630,pin,épingle,alfiler,alpilér
+06.710,06,710,"ornament, adornment",ornement,"adorno, ornato",X
+06.720,06,720,jewel,"bijou, joyau",joya,X
+06.730,06,730,ring (for finger),"bague, anneau","anillo, sortija------anílio",X
+06.740,06,740,bracelet,bracelet,brazalete,mapoám
+06.750,06,750,necklace,collier,collar,koóka
+06.760,06,760,bead,graine,"chaquira, abalorio","mapoá, chakíira"
+06.770,06,770,earring,boucle d'oreille,"arete, aro",reépam
+06.780,06,780,"headband, headdress",couronne,"cinta (para la cabeza), tocado",X
+06.790,06,790,tattoo,tatouage,tatuaje,X
+06.810,06,810,"rag, handkerchief","mouchoir, chiffon","pañuelo, trapo","paáyum, tájo’orim"
+06.820,06,820,towel,serviette,toalla,X
+06.910,06,910,comb,peigne,peine,chíchikia
+06.920,06,920,brush,brosse,cepillo,sepió
+06.921,06,921,"plait, braid",tresser,trenzar,bwassúma
+06.930,06,930,razor,rasoir,navaja de afeitar,X
+06.940,06,940,ointment,"pommade, onguent",ungüento,X
+06.950,06,950,soap,savon,jabón------saábum,X
+06.960,06,960,mirror,"miroir, glace",espejo,ejpeéko
+07.110,07,110,"live, dwell","habiter, demeurer",habitar,jo’árak
+07.120,07,120,house,maison,casa,kári
+07.130,07,130,hut,hutte,"cabaña,  choza",kári
+07.131,07,131,garden-house,"abride jardin, cabane","casa de huerta,  granja",X
+07.140,07,140,tent,tente,toldo,X
+07.150,07,150,"yard, court",cour,cancha,káncha
+07.160,07,160,men's house,maison réservée aux hommes,casa de hombres,X
+07.170,07,170,cookhouse,cuisine,cocina (lugar),kosína
+07.180,07,180,meeting house,maison de réunion,casa de reunión,X
+07.210,07,210,room,piéce,"cuarto, pieza",X
+07.220,07,220,"door, gate",porte,puerta,puéta
+07.221,07,221,"doorpost, jamb","pied-droit, pilier",jamba de puerta,X
+07.230,07,230,lock (noun),cadenas,"cerradura, candado",X
+07.231,07,231,"latch, door-bolt",serrure,cerrojo,X
+07.240,07,240,key,clef,llave,yaábem
+07.250,07,250,window,fenêtre,ventana---bentaána,X
+07.260,07,260,floor,"plancher, sol",suelo,X
+07.270,07,270,wall,mur,"pared, muro",X
+07.310,07,310,fireplace,foyer,fogón,táji
+07.320,07,320,stove,four,estufa,X
+07.330,07,330,chimney,cheminée,chimenea,X
+07.370,07,370,ladder,échelle,escalera,ejkaleá
+07.420,07,420,bed,lit,cama,kaámam
+07.421,07,421,pillow,oreiller,almohada,múteka
+07.422,07,422,blanket,couverture,"frazada,  cobija",píisam
+07.430,07,430,chair,"chaise,  siège",silla,bánko
+07.440,07,440,table,table,mesa ------meésa,X
+07.450,07,450,"torch, lamp",lampe,"lámpara, antorcha",lampaá
+07.460,07,460,candle,"bougie, cierge, chandelle",vela,kanteélam
+07.470,07,470,shelf,étagère,repisa,X
+07.480,07,480,trough,auge,"batea, artesa",X
+07.510,07,510,roof,toit,techo,X
+07.520,07,520,thatch,toiture de chaume,techumbre de paja,X
+07.530,07,530,ridgepole,poutre de faïte,cumbrera,X
+07.540,07,540,rafter,poutres,viga,X
+07.550,07,550,beam,poutre,viga,"jepéktia, bíiga"
+07.560,07,560,"post, pole","poteau, piquet","poste, poste-----pojte",X
+07.570,07,570,board,planche,tabla,táppla
+07.580,07,580,arch,arche,arco,kúta wíko’i
+07.610,07,610,mason,maçon,albañil,albányil
+07.620,07,620,brick,brique,ladrillo,lákrio
+07.630,07,630,mortar,mortier,argamasa,X
+07.640,07,640,adobe,adobe,adobe,X
+08.110,08,110,farmer,fermier,"labrador, ranchero",rancheó
+08.120,08,120,field (for cultivation),champ,"campo de cultivo,  chacra",X
+08.130,08,130,garden,jardin,"jardín, huerto",X
+08.150,08,150,"till, cultivate",labourer,"cultivar, labrar",eécha
+08.160,08,160,fence,barrière,cerco,kóra
+08.170,08,170,ditch,fosse,zanja,sánja
+08.210,08,210,plow,"labourer,  charrue",arar,mó’ite
+08.212,08,212,furrow,sillon,surco,súuko
+08.220,08,220,dig,"creuser,  piocher","excavar, cavar",jí’ibweje
+08.230,08,230,spade,bêche,azada,X
+08.240,08,240,shovel,pelle,pala------paálam,X
+08.250,08,250,hoe,houe,azadón,asaróonim
+08.260,08,260,fork,"fourche, fourchette",horqueta,taká’aria
+08.270,08,270,rake,rateau,"rastro, rastrillo---rajtióm",X
+08.310,08,310,sow (seed),semer,"sembrar, desparramar",X
+08.311,08,311,seed,"graine, semence",semilla,X
+08.320,08,320,"reap, mow","tondre, récolter","segar, cosechar----kosechároa, cosechar",X
+08.330,08,330,"sickle, scythe","faux, faucille","hoz, guadaña, hoz----oósam",X
+08.340,08,340,thresh,battre le ble,desgranar,X
+08.350,08,350,threshing-floor,aire,lugar para trillar,X
+08.410,08,410,"harvest, crop",moisson,cosecha,"jipésuma’awame, jipésumai"
+08.420,08,420,"grain (barley, oats etc)","grain, graine",grano,báchia
+08.430,08,430,wheat,blé,trigo-----tíikom,X
+08.440,08,440,barley,orge,cebada,sebáada
+08.450,08,450,rye,seigle,centeno,X
+08.460,08,460,oats,avoine,avena,abéena
+08.470,08,470,"maize, corn",maïs,maíz,báchi
+08.480,08,480,rice,riz,arroz-------arósim,X
+08.510,08,510,grass,herbe,"hierba, pasto",báso
+08.520,08,520,hay,foin,"heno,  paja",X
+08.530,08,530,plant (noun),plante,planta,júya
+08.531,08,531,plant (vb),planter,"plantar, sembrar",eécha
+08.540,08,540,root,racine,raíz,X
+08.550,08,550,branch,"branche,  rameau",rama,nassá’akaria
+08.560,08,560,leaf,feuille,hoja,X
+08.570,08,570,flower,fleur,flor,seéwa
+08.600,08,600,tree,arbre,árbol,X
+08.610,08,610,oak,chêne,roble,X
+08.620,08,620,beech,hêtre,haya,----------
+08.630,08,630,birch,bouleau,abedul,----------
+08.640,08,640,pine,pin,pino,piíno
+08.650,08,650,fir,"sapin, conifère",abeto,X
+08.660,08,660,acorn,gland,bellota;,X
+08.670,08,670,vine,vigne,"enredadera,  bejuco, liana",X
+08.680,08,680,tobacco,tabac,tabaco,X
+08.690,08,690,"tobacco (to smoke), smoke (tobacco)",fumer,fumar,X
+08.691,08,691,pipe,pipe,pipa,X
+08.720,08,720,tree stump,souche d'arbre,tocón,X
+08.730,08,730,"trunk (tree), tree trunk",tronc d'arbre,tronco,X
+08.740,08,740,forked branch,"branche fourchue, fourche",rama bifurcada,X
+08.750,08,750,bark,écorce,corteza,beéa
+08.760,08,760,sap,sève,savia,X
+08.810,08,810,palm tree,palmier,palmera,X
+08.820,08,820,coconut,noix de coco,coco,koóko
+08.830,08,830,citrus fruit,citrique,cítrico,X
+08.840,08,840,banana tree,bananier,"plátano, banano",pláatano
+08.850,08,850,banyan,banyan,baniano,----------
+08.910,08,910,"sweet potato, potato (sweet)",patate douce,"camote, batata",X
+08.912,08,912,yam,igname,ñame,X
+08.920,08,920,"tapioca, manioc, cassava",manioc,"mandioca, yuca",X
+08.930,08,930,gourd,calebasse,calabaza,káabansam
+08.931,08,931,"squash, pumpkin","courge, potiron, citrouille","zapallo, calabaza, calabazo",X
+08.940,08,940,bamboo,bambou,bambú,X
+08.941,08,941,"sugar cane, cane (sugar)",canne à sucre,caña de azúcar,X
+08.960,08,960,"poison (root) fish, fish poison (root)",poison a poisson,"veneno  (raíz), barbasco","pájti, jóyo"
+08.970,08,970,nettle,ortie,ortiga,X
+08.980,08,980,mushroom,champignon,"hongo, seta",X
+09.110,09,110,"make, do",faire,hacer,joóa
+09.120,09,120,work,travailler,trabajar,X
+09.140,09,140,bend,plier,"encorvar, doblar","kuákta, tótta"
+09.150,09,150,fold,plier,doblar,tótta
+09.160,09,160,"tie, bind",lier,"amarrar, atar",súma
+09.161,09,161,untie,"détacher, délier",desatar,X
+09.180,09,180,chain,chaîne,cadena,karénam
+09.190,09,190,"rope, cord",corde,"cuerda, soga",wíkia
+09.192,09,192,knot (noun),noeud,nudo,X
+09.210,09,210,"strike (hit, beat), hit, strike (beat), beat, strike","frapper, battre",golpear,"béeba, béba"
+09.211,09,211,pound with fist,marteler de ses poing,machacar con el puño,X
+09.220,09,220,cut,couper,cortar,chúkta
+09.221,09,221,cut down,abattre,"tumbar, talar",chúkta
+09.222,09,222,"hew, chop",tailler,"tajar, picar",soá
+09.223,09,223,"stab, pierce",poignarder,apuñalar,kúchi soá
+09.230,09,230,knife,couteau,cuchillo (herramienta),kúchi’im
+09.240,09,240,"shears, scissors",ciseaux,tijeras,X
+09.250,09,250,ax,hache,hacha,tépuam
+09.251,09,251,adze,herminette,azuela,ansuélam
+09.260,09,260,break,"casser,  briser",quebrar,kótta
+09.261,09,261,broken,"brisé, cassé",quebrado,kóttila
+09.270,09,270,split,fendre,"hender, partir",X
+09.280,09,280,tear (vb),déchirer,"romper, rasgar",X
+09.290,09,290,"skin, flay",écorcher,desollar,X
+09.310,09,310,"wipe, rub","frotter, essuyer",frotar,X
+09.320,09,320,stretch,étendre,"alargar, estirar",X
+09.330,09,330,pull,tirer,"tirar, jalar",X
+09.340,09,340,spread out,"étaler, éparpiller","extender, esparcir",X
+09.341,09,341,hang up,suspendre,colgar,cháya
+09.342,09,342,press,"presser, appuyer","apretar,  oprimir",X
+09.343,09,343,"wring, squeeze",presser,"estrujar, exprimir",X
+09.350,09,350,pour,verser,"vaciar, verter,  derramar",X
+09.360,09,360,wash,laver,lavar,X
+09.370,09,370,sweep,balayer,barrer,X
+09.380,09,380,broom,balai,escoba,jíchikia
+09.422,09,422,tool,outil,herramienta,X
+09.430,09,430,carpenter,charpentier,carpintero,kapinteó
+09.440,09,440,build,"bâtir,  construire",edificar,"yáa, joóa"
+09.460,09,460,"pierce, bore","percer, perforer",perforar,"wójokta, wojókta"
+09.461,09,461,hollow out,creuser,ahuecar,X
+09.480,09,480,saw,scie,"serrucho, sierra",X
+09.490,09,490,hammer,marteau,martillo,máatiom
+09.500,09,500,nail,"clou, ongle, pointe",clavo,láabos
+09.560,09,560,glue,colle,"cola,  adhesivo (pegar)",X
+09.600,09,600,"smith, blacksmith",forgeron,herrero,ereó
+09.610,09,610,forge,forger,fragua,X
+09.620,09,620,anvil,enclume,yunque,*
+09.630,09,630,"(metals) cast, cast (metals)",mouler,fundir,X
+09.640,09,640,gold,or,oro,oóro
+09.650,09,650,silver,argent,plata,X
+09.660,09,660,"bronze, copper",cuivre,"cobre, bronce",X
+09.670,09,670,iron,fer,hierro,sisi’iwoóko
+09.680,09,680,lead (noun),plomb,plomo,X
+09.690,09,690,"tin, tinplate",étain,estaño,X
+09.710,09,710,potter,pottier,alfarero,X
+09.720,09,720,mold (clay etc),mouler,"moldear, formar",X
+09.730,09,730,clay,"argile,  glaise","barro, arcilla",X
+09.740,09,740,glass,verre,vidrio,liméete
+09.750,09,750,"weave, plait",tresser,"tejer, trenzar",bwassúma
+09.760,09,760,basket,panier,"canasto, canasta",waári
+09.770,09,770,mat,natte,estera,X
+09.771,09,771,rug,tapis,"tapete,  alfombra",X
+09.780,09,780,"netbag, bag (net)",filet,bolsa de malla,maáyam
+09.790,09,790,fan (noun),éventail,abanico,abaniíko
+09.791,09,791,fan (vb),s'éventer,"abanicar, aventar",mékka wo’óta
+09.810,09,810,carve,"sculpter,  graver",esculpir,chikwatte
+09.820,09,820,sculptor,sculpteur,escultor,X
+09.830,09,830,statue,statue,estatua,X
+09.840,09,840,chisel,ciseau,"escoplo, cincel",X
+09.880,09,880,paint (noun),peinture,pintura,pintuúra
+09.890,09,890,paint (vb),peindre,pintar,"pintároa, yóka"
+10.110,10,110,move,"mouvoir,  bouger",mover,"mobiároa, rukta"
+10.120,10,120,turn over,retourner,"volcar, dar(se) vuelta",X
+10.130,10,130,turn around,se retourner,"dar vuelta, voltear",X
+10.140,10,140,"wrap, wind",enrouler,"enrollar, envolver",X
+10.150,10,150,roll,rouler,"rodar, arrollar, enrollar",X
+10.160,10,160,drop (vb),laisser tomber,dejar caer,X
+10.170,10,170,twist,tordre,torcer,X
+10.210,10,210,rise,"monter, se lever",ascender,X
+10.220,10,220,"raise, lift","lever, élever","levantar, levanter",báksia
+10.230,10,230,fall,tomber,caer,kom wéche
+10.240,10,240,drip,s'égoutter,"gotear, escurrir",chákte
+10.250,10,250,throw,jeter,"echar, tirar",X
+10.252,10,252,catch (ball),attraper,coger,X
+10.260,10,260,shake,"secouer,  agiter",sacudir,X
+10.320,10,320,flow,couler,"fluir, corer",buíte
+10.330,10,330,sink,"couler, sombrer",hundir,X
+10.340,10,340,float,flotter,flotar,X
+10.350,10,350,swim,nager,nadar,X
+10.351,10,351,dive,plonger,zambullirse,rópte
+10.352,10,352,splash,éclabousser,salpicar,X
+10.360,10,360,sail (vb),naviguer,navegar,X
+10.370,10,370,fly (vb),voler,volar,né’e
+10.380,10,380,blow,souffler,soplar,pújta
+10.410,10,410,"crawl, creep",ramper,gatear,waká’ate
+10.412,10,412,kneel,s'agenouiller,arrodillarse,tónommea kíkte
+10.413,10,413,crouch,s'accroupir,"agacharse, ponerse en cuclillas",X
+10.420,10,420,"slip, slide",glisser,resbalar,X
+10.430,10,430,"leap, jump",sauter,"saltar, brincar",chépte
+10.431,10,431,kick,donner un coup de pied,patear,jítemu
+10.440,10,440,dance,danser,bailar,yé’e
+10.450,10,450,walk,marcher,caminar,X
+10.451,10,451,limp,boiter,lisiar,X
+10.460,10,460,run,courir,correr,X
+10.470,10,470,go,aller,ir,siíka
+10.471,10,471,go up,monter,subir,já’amu
+10.472,10,472,climb,grimper,trepar,X
+10.473,10,473,go down,descendre,bajar,kom chépte
+10.474,10,474,go out,sortir,salir,yeu siíka
+10.480,10,480,come,venir,venir,X
+10.481,10,481,"return, come back",revenir,volver,nótte
+10.490,10,490,"leave, go away, depart","s'en aller, partir","irse, marcharse",siíka
+10.491,10,491,disappear,disparaïtre,desaparecer,áma lu’útek
+10.510,10,510,flee,s'enfuir,huir,X
+10.520,10,520,follow,suivre,seguir,jajáse
+10.530,10,530,pursue,poursuivre,perseguir,X
+10.550,10,550,"reach, arrive","atteindre, arriver","llegar, alcanzar","yépsa, jájame"
+10.560,10,560,approach,approcher,acercarse,rúkte
+10.570,10,570,enter,entrer,entrar,kibáke
+10.610,10,610,carry (bear),porter,"llevar, cargar",X
+10.612,10,612,carry-in-hand,porter (dans la main),llevar en la mano      máchu’ute,X
+10.613,10,613,carry-on-shoulder,porter (sur l'épaule),llevar a la espalda/ en el hombro,X
+10.614,10,614,carry-on-head,porter (sur la tête),llevar sobre la cabeza   mobé’ete,X
+10.615,10,615,carry-underarm,porter (sous le bras),llevar bajo el brazo,sekawáasime
+10.620,10,620,bring,"apporter, amener",traer,nu’upa
+10.630,10,630,send,envoyer,"enviar,  mandar",X
+10.640,10,640,lead (vb),"mener, conduire",guiar,wéetua
+10.650,10,650,drive,conduire,conducir,wéetua
+10.660,10,660,ride,chevaucher,montar,X
+10.670,10,670,"shove, push",pousser,empujar,X
+10.710,10,710,road,route,carretera,X
+10.720,10,720,path,sentier,"camino, senda",X
+10.740,10,740,bridge,pont,Puente,puéntes
+10.750,10,750,"carriage, wagon, cart","wagon,  charrette","carro, carretón   kaáro",X
+10.760,10,760,wheel,roue,rueda,X
+10.770,10,770,axle,essieu,eje,eéje
+10.780,10,780,yoke,joug,yugo,X
+10.810,10,810,ship,"navire,  bateau","buque, barco",X
+10.830,10,830,boat,bateau,bote,kanoá
+10.831,10,831,canoe,pirogue,canoa,kanoá
+10.832,10,832,outrigger,balancier,batanga,X
+10.840,10,840,"raft, balsa",radeau,balsa,X
+10.850,10,850,oar,rame,remo,X
+10.851,10,851,paddle (noun),pagaie,remo corto,X
+10.852,10,852,row (vb),ramer,remar,X
+10.860,10,860,rudder,gouvernail,timón,X
+10.870,10,870,mast,mat,mástil,X
+10.880,10,880,sail (noun),voile,vela,X
+10.890,10,890,anchor,ancre,ancla,ánklam
+10.910,10,910,"port, harbor","port, mouillage",puerto,X
+10.920,10,920,land (vb),atterrir,desembarcar,desembarkároa
+11.110,11,110,have,avoir,tener,jíppue
+11.120,11,120,"possess, own",posséder,poseer,jíppue
+11.130,11,130,take,prendre,tomar,X
+11.140,11,140,"seize, grasp","saisir, attraper","agarrar, empuñar, coger",nú’e
+11.150,11,150,hold,tenir,"tener (en mano),  apoyar, asir",X
+11.160,11,160,"obtain, get",obtenir,obtener,X
+11.170,11,170,"retain, keep","garder, retenir",conservar,X
+11.180,11,180,thing,chose,cosa,X
+11.210,11,210,give,donner,dar,máka
+11.220,11,220,"return, give back",rendre,devolver,nótta
+11.240,11,240,"protect, look after, preserve",préserver,"conservar, proteger",konserbároa
+11.250,11,250,"save, rescue",sauver,"salvar, salvar----salbároa",X
+11.270,11,270,destroy,détruire,destruir,mójakta
+11.280,11,280,"injure, harm, damage",endommager,"dañar, herir","kó’okosi yaa, kó’okosi yáa"
+11.310,11,310,"seek, look for",chercher,buscar,jaríwa
+11.320,11,320,find,trouver,"encontrar,  hallar",teá
+11.330,11,330,lose,perdre,perder,tá’aru
+11.340,11,340,"release, let go","libérer, décharger",soltar,sú’utoja
+11.430,11,430,money,argent,dinero,tómi
+11.440,11,440,coin,pièce de monnaie,moneda,tómi
+11.510,11,510,rich,riche,rico,X
+11.520,11,520,poor,pauvre,pobre----póobe,X
+11.530,11,530,beggar,mendiant,mendigo,póobe
+11.540,11,540,"stingy, avaricious","radin, avare","avaro, mezquino","námaka, tébae muúke"
+11.610,11,610,lend,prêter,prestar,reúwa
+11.620,11,620,borrow,emprunter,pedir prestado,réwe
+11.630,11,630,owe,devoir,deber,jé’e
+11.640,11,640,debt,dette,deuda,wikiriawáme
+11.650,11,650,pay (vb),payer,pagar,X
+11.660,11,660,"reckoning, account",compte,cuenta,kuénta
+11.690,11,690,"tribute, tax","taxe, impôt","impuesto, tributo",X
+11.770,11,770,hire,louer,"alquilar, emplear",X
+11.780,11,780,wages,salaire,"salario, sueldo",X
+11.790,11,790,earn,gagner,ganar (dinero),tómi yó’o
+11.810,11,810,buy,acheter,comprar,jínu
+11.820,11,820,sell,vendre,vender,X
+11.830,11,830,"trade, barter",échange,trocar,nakúlia
+11.840,11,840,merchant,"marchand, commerçant",comerciante,jíta nenénkame
+11.850,11,850,market (place),marché,Mercado,"merkaó, jíta áma nenénkiwa’u"
+11.860,11,860,"store, shop","boutique, magasin",tienda,X
+11.870,11,870,price,prix,precio,X
+11.880,11,880,"expensive, dear (costly)",cher,caro    (costoso),béje’e
+11.890,11,890,cheap,bon marché,barato,kaá béje’e
+11.910,11,910,"share (distribute), distribute, share",partager,repartir,ná’ikimte
+11.920,11,920,weigh,peser,pesar,X
+12.010,12,010,after,après,después,X
+12.011,12,011,behind,derrière,"atrás,  detrás",amápo
+12.020,12,020,beside,à côté de,al lado de,chaká’aku
+12.030,12,030,"below, down","en bas,  là-bas",abajo,"betúku, betúkuni"
+12.040,12,040,before,"avant, devant","delante, antes de","béwichi, bíchapo"
+12.041,12,041,front,devant,"delantero, delante de",X
+12.050,12,050,"inside, in","dans, dedans",adentro,wájiwa
+12.060,12,060,outside,dehors,"afuera,  exterior",pá’akuni
+12.070,12,070,under,"dessous,  sous",debajo,X
+12.080,12,080,"up, above","sur, là-haut, là dessus",arriba,X
+12.110,12,110,place,"endroit,  place, lieu",lugar,X
+12.120,12,120,put,mettre,poner,X
+12.130,12,130,sit,s'asseoir,sentar,X
+12.140,12,140,lie down,se coucher,"acostarse,  echarse",bó’ote
+12.150,12,150,stand,se tenir debout,poner(se) de pie,X
+12.160,12,160,"stay, remain","rester, demeurer, attendre",quedar,X
+12.170,12,170,"remains, left overs",reste,sobras,yeu bí’iria
+12.210,12,210,"collect, gather","recueillir, rassembler","recoger, reunir",nau tója
+12.212,12,212,pick up,ramasser,recoger,X
+12.213,12,213,pile up,entasser,amontonar,nat wátta
+12.220,12,220,"join, unite",unir,juntar,nau tója
+12.230,12,230,separate,séparer,"separar,  apartar",X
+12.232,12,232,divide,diviser,divider,na’ikimte
+12.240,12,240,open,ouvrir,abrir,étapo
+12.250,12,250,"shut, close",fermer,cerrar,éta
+12.260,12,260,cover,couvrir,cubrir,X
+12.270,12,270,"hide, conceal","cacher, dissimuler",esconder,é’eria
+12.310,12,310,high,haut,alto,X
+12.320,12,320,low,bas,bajo,bétuku
+12.330,12,330,top,"haut,  sommet",cima,X
+12.340,12,340,bottom,fond,fondo,betúkria
+12.350,12,350,end,"bout, extrêmité",final,X
+12.352,12,352,pointed,pointu,puntiagudo,X
+12.353,12,353,"border, edge","bord, orée","borde, orilla, margen",mayoá
+12.360,12,360,side,côté,"lado,  costado",X
+12.370,12,370,"middle, center","milieu, centre","medio, centro","nasúku, séntro"
+12.410,12,410,right (side),droite,derecha,X
+12.420,12,420,left (side),gauche,izquierda,míkko’im
+12.430,12,430,near (adv),près,cerca,kaá mekka
+12.440,12,440,far (adv),loin,lejos,mékka
+12.450,12,450,east,"est,  orient",este (punto cardinal),X
+12.460,12,460,west,"ouest, occident",oeste,X
+12.470,12,470,north,nord,norte,ta’ata kom weché bétana
+12.480,12,480,south,sud,sur,X
+12.530,12,530,grow,"grandir, croitre, pousser",crecer,yó’otu
+12.540,12,540,measure,mesurer,medir,mediároa
+12.541,12,541,"span, fathom",brasse,braza,X
+12.550,12,550,"large, big","grand, gros",grande,bwé’u
+12.560,12,560,"small, little",petit,"chico, pequeño",ilítchi
+12.570,12,570,long,long,largo,teébe
+12.580,12,580,tall,grand,alto,X
+12.590,12,590,short,court,corto,X
+12.610,12,610,"wide, broad",large,"ancho, amplio",bweéka
+12.620,12,620,narrow,étroit,"angosto,  estrecho",ná’ulai
+12.630,12,630,thick (in dimension),"épais,  grossier",grueso,X
+12.650,12,650,thin (in dimension),mince,delgado,X
+12.670,12,670,deep,profond,"profundo,  hondo",mékka kó’omi
+12.680,12,680,shallow,peu profond,"bajo, poco profundo",X
+12.710,12,710,flat,plat,plano,pú’ato
+12.730,12,730,straight,droit,"derecho,  recto",X
+12.740,12,740,crooked,"courbe,  pas droit",torcido,X
+12.750,12,750,hook,crochet,gancho,gáncho
+12.760,12,760,corner,coin,"esquina, rincón",kobí’iku
+12.770,12,770,cross,croix,cruz,kúus
+12.780,12,780,square,carré,cuadrado,X
+12.810,12,810,round,rond,redondo,X
+12.820,12,820,circle,cercle,círculo,X
+12.830,12,830,"sphere, ball","sphère, ballon","pelota, esfera, globo","pelo’otam, bómba"
+12.840,12,840,line,"ligne,  rang",línea,X
+12.850,12,850,hole,trou,agujero,wojó’oria
+12.920,12,920,"similar, like","comme, semblable",semejante,naná’ana
+12.930,12,930,change,changer,cambiar,kambiároa
+13.000,13,000,"zero, nothing","zéro, rien","cero, nada",kaíta
+13.010,13,010,one,un,uno,wépulai
+13.020,13,020,two,deux,dos,X
+13.030,13,030,three,trois,tres,X
+13.040,13,040,four,quatre,cuatro,naíki
+13.050,13,050,five,cinq,cinco,mámni
+13.060,13,060,six,six,seis,X
+13.070,13,070,seven,sept,siete,X
+13.080,13,080,eight,huit,ocho,wojnaíki
+13.090,13,090,nine,neuf,nueve,bátani
+13.100,13,100,ten,dix,diez,X
+13.101,13,101,eleven,onze,once,wojmámni áma wépulai
+13.102,13,102,twelve,douze,doce,X
+13.103,13,103,fifteen,quinze,quince,wojmámni áma mámni
+13.104,13,104,twenty,vingt,veinte,X
+13.105,13,105,hundred,cent,"ciento,  cien",mámni taká
+13.106,13,106,thousand,mille,mil,X
+13.107,13,107,count,compter,contra,kontrak
+13.140,13,140,"every, all",tous,todo,sí’ime
+13.150,13,150,"much, many",beaucoup,mucho,bú’u
+13.160,13,160,more,encore,más,"ché’a, oúsi"
+13.170,13,170,"little (quantity), few",peu,poco,"ilíiki, ilíki"
+13.180,13,180,enough,assez,"bastante,  suficiente",sopároa
+13.181,13,181,some,un peu,"algo,  alguno",X
+13.190,13,190,"multitude, crowd",foule,"multitude, multitud",bu’úra
+13.210,13,210,full,plein,lleno,tápuni
+13.220,13,220,empty,vide,vacío,"wakiá, juné’ela"
+13.230,13,230,"piece, part","morceau, partie",pedazo,rébei
+13.240,13,240,half,moitié,mitad,nasúkria
+13.330,13,330,"single, only, alone",seul,"solo, solamente",X
+13.340,13,340,first,premier,primero,báchia
+13.350,13,350,last,dernier,último,X
+13.360,13,360,second,deuxième,segundo,X
+13.370,13,370,pair,"couple, paire",par,X
+13.380,13,380,two times,deux fois,dos veces,X
+13.420,13,420,third,troisième,tercero,X
+13.440,13,440,three times,trois fois,tres veces,X
+14.110,14,110,time,heure,tiempo------tiémpo,X
+14.120,14,120,age,âge,edad,wasúktia
+14.130,14,130,new,nouveau,Nuevo,beméla
+14.140,14,140,young,jeune,"tierno, joven",X
+14.150,14,150,old,"vieux,âgé",viejo,ó’ola
+14.160,14,160,early,"tôt,  de bonne heure",temprano,ketwó
+14.170,14,170,late,tard,tarde,X
+14.180,14,180,now,maintenant,ahora,í’ani
+14.190,14,190,immediately,tout de suite,inmediatamente,sépia
+14.210,14,210,"swift, fast, quick","vite, rapide",rápido,laútia
+14.220,14,220,slow,lent,"despacio,  lentamente",X
+14.230,14,230,"hurry, hasten",se dépêcher,apurarse,bámse
+14.240,14,240,"retard, delay","différer, retarder",demorar,kaá bámse
+14.250,14,250,"begin, beginning","début,  commencement","empezar, comienzo naáte, naátei",X
+14.252,14,252,"last, endure",durer,durar,bínwatu
+14.260,14,260,end (temporal),fin,fin,X
+14.270,14,270,finish,"finir, terminer","terminar,  finalizar",chúpa
+14.280,14,280,"stop, cease","cesser, s'arrêter","terminar, detenerse",kíkte
+14.290,14,290,ready,prêt,listo----líjto,X
+14.310,14,310,always,toujours,siempre,X
+14.320,14,320,often,souvent,frecuentemente,X
+14.330,14,330,sometimes,quelquefois,a veces,X
+14.331,14,331,soon,bientôt,pronto,X
+14.332,14,332,long-time (for a),longtemps,por mucho tiempo,bínwatu
+14.340,14,340,never,jamais,"nunca, jamás",jákko júni é’e
+14.350,14,350,again,encore,otra vez,X
+14.410,14,410,day,jour,día,taéwai
+14.420,14,420,night,nuit,noche,tukária
+14.430,14,430,dawn,aube,madrugada,X
+14.440,14,440,morning,"matin,  matinée",mañana,yoóko
+14.450,14,450,"noon, midday",midi,mediodía,lúula kátek
+14.451,14,451,afternoon,après-midi,tarde,X
+14.460,14,460,evening,soir,"vísperas, noche",tukáaria
+14.470,14,470,today,aujourd'hui,hoy,X
+14.480,14,480,tomorrow,demain,mañana,X
+14.481,14,481,day-after-tomorrow,après-demain,pasado mañana,yoóko
+14.490,14,490,yesterday,hier,ayer,X
+14.491,14,491,day-before-yesterday,avant-hier,anteayer,battuúka
+14.510,14,510,hour,heure,hora,oóra
+14.530,14,530,"clock, timepiece","horloge,  montre",reloj,relók
+14.610,14,610,week,semaine,semana------semáana,X
+14.620,14,620,Sunday,dimanche,domingo------lomínko,X
+14.630,14,630,Monday,lundi,lunes,luúnes
+14.640,14,640,Tuesday,mardi,martes-----máates,X
+14.650,14,650,Wednesday,mercredi,miércoles----miékoles,X
+14.660,14,660,Thursday,jeudi,jueves----------juébes,X
+14.670,14,670,Friday,vendredi,viernes,biénes
+14.680,14,680,Saturday,samedi,sábado----sábala,X
+14.710,14,710,month,mois,mes,meécha
+14.730,14,730,year,année,año,X
+14.740,14,740,winter,hiver,invierno,X
+14.750,14,750,spring (season),printemps,primavera,X
+14.760,14,760,summer,été,verano,X
+14.770,14,770,autumn,automne,otoño,*
+14.780,14,780,season,saison,estación,X
+15.210,15,210,smell (vb intrans),sentir,"oler, olfatear",X
+15.212,15,212,sniff,renifler,husmear,X
+15.220,15,220,smell (vb trans),sentir,"oler, olfatear",X
+15.250,15,250,"odor, fragrant, good smelling","odorant, parfumé",fragante,winjúba
+15.260,15,260,"stinking, bad smelling, odor",puant,hediondo,"juba, jaiti maáchi, juúba"
+15.310,15,310,taste,goûter,"gustar, saborear",X
+15.350,15,350,sweet,"sucré, doux",dulce,X
+15.360,15,360,salty,salé,salado,X
+15.370,15,370,bitter,"amer,  âpre",amargo,chiíbu
+15.380,15,380,"sour, acid","âpre, acide, aigre","ácido, agrio",X
+15.390,15,390,brackish,saumâtre,salobre,chó’oko
+15.410,15,410,hear,entendre,oír,jíkkaja
+15.420,15,420,listen,écouter,escuchar,jíkkaja
+15.440,15,440,"sound, noise","son, bruit","ruido, sonido","jaíti jiía, jiáwai"
+15.450,15,450,loud,"bruyant, retentissant","alta (voz),  ruidoso",X
+15.460,15,460,"silence, quiet","tranquille, silence","silencio, tranquilo",X
+15.510,15,510,see,voir,ver,X
+15.520,15,520,"look, look at",regarder,"mirar, contemplar",bítchu
+15.550,15,550,show,montrer,mostrar,X
+15.560,15,560,shine,briller,brillar,X
+15.570,15,570,bright,"luisant, gai, vif","brillante,  resplandor",beójko
+15.610,15,610,color,couleur,color,yókia
+15.620,15,620,light (in color),clair,claro,X
+15.630,15,630,dark (in color),"sombre,  foncé",oscuro,kaá mamáchi
+15.640,15,640,white,blanc,blanco,X
+15.650,15,650,black,noir,negro,chúkuli
+15.660,15,660,red,rouge,rojo,X
+15.670,15,670,blue,bleu,azul,tóloko
+15.680,15,680,green,vert,verde,siáli
+15.690,15,690,yellow,jaune,amarillo,X
+15.710,15,710,touch,toucher,tocar,X
+15.712,15,712,pinch,pincer,pellizcar,kítta
+15.720,15,720,feel,sentir,sentir,eíya
+15.740,15,740,hard,dur,duro,námaka
+15.750,15,750,soft,doux,suave,X
+15.760,15,760,rough,"rugueux,  rude",áspero,X
+15.770,15,770,smooth,lisse,"suave,  liso",X
+15.780,15,780,sharp,"tranchant,  aiguisé","afilado,  aguzado, filoso",X
+15.790,15,790,"dull, blunt",émoussé,"romo, embotado",X
+15.810,15,810,heavy,lourd,pesado,bétte
+15.820,15,820,light (in weight),léger,"liviano, ligero",kaá bétte
+15.830,15,830,"wet, damp",humide,mojado,bá’ari
+15.840,15,840,dry,sec,seco,wakiá
+15.850,15,850,hot,chaud,caliente,táta
+15.851,15,851,warm,"tiède, chaud, réchauffer(se)","tibio,  cálido",X
+15.860,15,860,cold,froid,frío,sébe
+15.870,15,870,clean,propre,limpio,kaá jaiti maáchi
+15.880,15,880,"soiled, dirty","sale, crasseux",sucio,jaiti maáchi
+15.890,15,890,wrinkled,ridé,arrugado,X
+16.110,16,110,"spirit, soul","âme, esprit",alma,X
+16.150,16,150,"surprised, astonished","étonné, surpris",sorprendido,súumea
+16.180,16,180,"luck, good fortune","bonne chance, bonheur",buena suerte,X
+16.190,16,190,"misfortune, bad luck","malheur, malchance, infortune","mala suerte, mala suerte kaá suertek",X
+16.230,16,230,"joyful, glad, happy","joyeux, heureux",alegre,"alleá, alléwame"
+16.250,16,250,laugh,rire,reír,aáche
+16.251,16,251,smile,sourire,sonreír,X
+16.260,16,260,play,jouer,jugar,yeéwe
+16.270,16,270,love,"amour,  aimer",querer,wáata
+16.290,16,290,kiss,"baiser,  embrasser",besar,liúta
+16.300,16,300,embrace,embrasser,abrazar,íbakta
+16.310,16,310,"suffer, pain",douleur,dolor,X
+16.320,16,320,"sorrow, grief, sadness","douleur, peine, chagrin","tristeza, dolor, pena",X
+16.330,16,330,"worry, anxiety",anxiété,"ansiedad, angustia","jiokót  éa, suáti éa"
+16.340,16,340,"sorry (be), regret, be sorry",regretter,lamentar,X
+16.350,16,350,"pity, compassion","pitié, compassion","compasión, lástima",X
+16.370,16,370,"weep, cry",pleurer,llorar,bwaána
+16.380,16,380,tear (noun),larme,lágrima,X
+16.390,16,390,groan,grogner,gemir,té’ine
+16.410,16,410,hate,haine,odiar,ómta
+16.420,16,420,anger,colère,enojo,X
+16.440,16,440,"jealousy, envy","envie, jalousie","envidia, celos",selároa
+16.450,16,450,shame (noun),honte,vergüenza,X
+16.480,16,480,proud,fier,orgulloso,X
+16.510,16,510,dare,oser,"osar,  atreverse",X
+16.520,16,520,brave,courageux,valiente,emó oúleme
+16.530,16,530,"fear, fright","peur, crainte",miedo,"májae, májaiwame"
+16.540,16,540,danger,danger,peligro,jilínwachi
+16.620,16,620,"want, desire","vouloir, désirer","anhelar, desear",wáata
+16.622,16,622,choose,choisir,escoger,yeupuá
+16.630,16,630,hope,espoir,esperanza,X
+16.650,16,650,faithful,fidèle,fiel,X
+16.660,16,660,true,vrai,verdadero,X
+16.670,16,670,"tell lies, lie",mentir,mentir,baíta’a
+16.680,16,680,deceit,malhonnêteté,engaño,baitá’awame
+16.690,16,690,forgive,pardonner,perdonar,jiókoe
+16.710,16,710,good,bon,bueno,tú’i
+16.720,16,720,bad,mauvais,malo,ju’éna
+16.730,16,730,"right, correct","juste, correct",correcto,tú’i
+16.740,16,740,wrong,incorrect,"incorrecto, falso",X
+16.760,16,760,fault,faute,culpa,kúlpak
+16.770,16,770,"mistake, error","erreur, faute","equivocación, error",kaá tú’isi aáyuk
+16.780,16,780,blame,blâme,culpa,kúlpak
+16.790,16,790,praise,"louange,  éloge","exaltar,  alabar",X
+16.810,16,810,beautiful,"beau,  joli",hermoso,tutú’uli
+16.820,16,820,ugly,laid,feo,X
+16.830,16,830,greedy,gourmand,"codicioso,  voraz",X
+16.840,16,840,clever,"intelligent,  rusé","hábil,  capaz",X
+17.110,17,110,mind,"pensée,  avis","mente, pensamiento",X
+17.130,17,130,"think (= reflect), reflect= think",penser,pensar,X
+17.140,17,140,"think (= be of the opinion), opinion (be of the) think",croire,"creer, suponer",X
+17.150,17,150,believe,croire,creer,suále
+17.160,17,160,understand,comprendre,entender,X
+17.170,17,170,know,savoir,saber,jú’unea
+17.171,17,171,guess,deviner,"adivinar,  acertar",X
+17.172,17,172,imitate,imiter,imitar,mamáto
+17.180,17,180,seem,sembler,parecer,X
+17.190,17,190,"notion, idea",idée,"idea, concepto",X
+17.210,17,210,wise,"sage,  érudit",sabio,X
+17.220,17,220,"stupid, foolish","bête, stupide",necio,néesio
+17.230,17,230,"insane, crazy","fou, bête, idiot",loco,kaá suúak
+17.240,17,240,learn,apprendre,aprender,a’áwe
+17.242,17,242,study,étudier,estudiar,X
+17.250,17,250,teach,enseigner,enseñar,X
+17.260,17,260,pupil,élève,alumno,X
+17.270,17,270,teacher,professeur,maestro-------maéjto,X
+17.280,17,280,school,école,escuela----ejkuéla,X
+17.310,17,310,remember,se souvenir,"recordar,  acordarse",X
+17.320,17,320,forget,oublier,olvidar,kópta
+17.340,17,340,"plain, clear","évident, net, clair",claro,X
+17.350,17,350,obscure,obscur,obscuro,X
+17.360,17,360,secret,secret,secreto,X
+17.370,17,370,"sure, certain","sûr, certain",seguro,X
+17.380,17,380,explain,expliquer,explicar,esplikároa
+17.410,17,410,"purpose, intention",but,propósito,X
+17.420,17,420,cause,"causer,  provoquer",causa,X
+17.430,17,430,doubt,douter,dudar,X
+17.440,17,440,suspect,soupçonner,sospechar,X
+17.441,17,441,betray,trahir,traicionar,traisionároa
+17.450,17,450,"need, necessity","besoin,  nécessité",necesidad,X
+17.460,17,460,easy,facile,fácil,kaá obiáchi
+17.470,17,470,difficult,difficile,difícil,obiáchi
+17.480,17,480,"try, attempt","essayer, tenter",probar,probároa
+17.490,17,490,"way, manner","façon, maniere","modo, manera",X
+17.510,17,510,and,et,y,X
+17.520,17,520,because,parce que,porque,bwé’ituk
+17.530,17,530,if,si,si,jeéwi
+17.540,17,540,or,ou,o,X
+17.550,17,550,"yes, affirmative","oui, affirmatif","sí, afirmativo",X
+17.560,17,560,"no, negative","non, négatif","no, negativo",X
+17.610,17,610,how?,comment?,¿cómo?,jachínia
+17.620,17,620,how many?,combien?,¿cuántos?,jaíki
+17.630,17,630,how much?,combien?,¿cuánto?,jaíki
+17.640,17,640,what?,quoi?,¿qué?,X
+17.650,17,650,when?,quand?,¿cuándo?,X
+17.660,17,660,where?,oú?,¿dónde?,X
+17.670,17,670,which?,quel?  lequel?,¿cuál?,X
+17.680,17,680,who?,qui?,¿quién?,X
+17.690,17,690,why?,pourquoi?,¿por qué?,X
+18.110,18,110,voice,voix,voz,X
+18.120,18,120,sing,chanter,cantar,X
+18.130,18,130,"shout, cry out","crier, écrier",gritar,chaáe
+18.150,18,150,whisper,chuchoter,cuchichear,X
+18.160,18,160,mumble,"marmonner, bredouiller","barbotar,  hablar entre dientes",X
+18.170,18,170,whistle,siffler,"silbar,  chiflar",X
+18.180,18,180,"shriek, screech",hurler,chillar,X
+18.190,18,190,howl,ululer,aullar,X
+18.210,18,210,"talk, speak",parler,hablar,X
+18.211,18,211,"stutter, stammer","bégayer, balbutier","tartamudear, balbucear",X
+18.220,18,220,say,dire,decir,X
+18.221,18,221,tell story,"raconter, narrer","narrar, contar",X
+18.222,18,222,speech (make a),allocution (faire une),pronunciar un discurso,X
+18.230,18,230,silent (be),silencieux,callarse,X
+18.240,18,240,language,"langue, langage","lengua,  idioma",noóki
+18.260,18,260,word,"mot, parole",palabra,X
+18.280,18,280,name,nom,nombre,X
+18.310,18,310,"question, ask, (inquire), inquire, ask (question), ask (question, inquire)",demander,preguntar,náttemae
+18.320,18,320,answer,répondre,contestar,yóopna
+18.330,18,330,"admit, confess","admettre, avouer","admitir, confesar",konpesároa
+18.340,18,340,deny,nier,negar,X
+18.350,18,350,"request, ask",demander,pedir,a’áwa
+18.360,18,360,promise,promettre,prometer,X
+18.370,18,370,refuse,refuser,rehusar,X
+18.380,18,380,forbid,interdire,prohibir,é’ete
+18.390,18,390,"scold, rebuke","réprimander, gronder, blâmer",reprender,X
+18.410,18,410,"summon, call, call (=summon)","appeler, hêler",llamar,chaáe
+18.420,18,420,"name, call, call (=name)",appeler,llamarse,teák
+18.430,18,430,announce,"annoncer,  proclamer","anunciar, avisar",X
+18.440,18,440,threaten,menacer,amenazar,X
+18.450,18,450,boast,se vanter,jactarse,emó éya
+18.510,18,510,write,écrire,escribir,X
+18.520,18,520,read,lire,leer---leiároa,X
+18.560,18,560,paper,papier,papel,jí’osia
+18.570,18,570,pen,plume,pluma,boá
+18.610,18,610,book,livre,libro,"lípprom, líbrom"
+18.670,18,670,poet,poète,poeta,X
+18.710,18,710,flute,flûte,flauta,kusiá
+18.720,18,720,drum,tambour,"bombo, tambor",kúbaji
+18.730,18,730,"trumpet, horn","cor, trompette",trompeta,"trompeeta, kusiá"
+18.740,18,740,rattle,hochet,"matraca,  cascabel",X
+19.110,19,110,country,pays,país,X
+19.120,19,120,one's native country,patrie,patria,X
+19.150,19,150,"town, city","cité, ville",ciudad,X
+19.160,19,160,village,village,pueblo-------puépplo,X
+19.170,19,170,"frontier, boundary","frontière,  limite","límite,  frontera",mámlo
+19.210,19,210,people (populace),gens,"pueblo, gente",bató’ora
+19.230,19,230,"tribe, clan","tribu, clan","tribu, clan",X
+19.240,19,240,"chief, chieftain",chef,"jefe, cacique",X
+19.250,19,250,"walking stick, staff",canne,"bastón, bordó",X
+19.310,19,310,"rule, govern","régner, gouverner",gobernar,kobanároa
+19.320,19,320,"ruler, king",roi,"rey, gobernante",kobanaáo
+19.330,19,330,queen,reine,reina,X
+19.360,19,360,"noble, nobleman",noble,noble,X
+19.370,19,370,"citizen, subject","citoyen, sujet","ciudadano, súbdito",X
+19.410,19,410,master,maître,"amo, dueño",teéko
+19.420,19,420,slave,esclave,esclavo,X
+19.430,19,430,servant,"domestique, serviteur",sirviente,X
+19.440,19,440,freeman,homme libre,hombre libre,X
+19.450,19,450,"order, command","commander, ordonner",mandar,"bíttua, sáwe"
+19.460,19,460,obey,obéir,obedecer,jíkkaja
+19.470,19,470,"permit, let, allow",permettre,"permitir, dejar",sú’utoja
+19.510,19,510,"companion, friend","ami,  compagnon","amigo, compañero",jalá’i
+19.520,19,520,enemy,ennemi,enemigo,X
+19.540,19,540,neighbor,voisin,vecino,X
+19.550,19,550,stranger,étranger,"extranjero, forastero",X
+19.560,19,560,guest,invité,huésped,X
+19.570,19,570,host,hôte,"huésped, hospedero",X
+19.580,19,580,"help, aid",aider,ayudar,aniá
+19.590,19,590,"prevent, hinder",empêcher,"impedir, estorbar-----ejtorbároa, estorbar",ejtorbároa
+19.610,19,610,custom,coutume,costumbre,kojtumre
+19.620,19,620,"strife, quarrel","lutte, querelle","lucha, pleito",X
+19.630,19,630,"plot, conspiracy","conspiration, complot",conspiración,X
+19.650,19,650,meet,rencontrer,encontrar,teá
+19.720,19,720,prostitute,prostituée,prostituta,X
+20.110,20,110,fight (vb),se battre,pelear,nássua
+20.130,20,130,"war, battle","guerre, bataille","guerra, batalla","jusákana, géera"
+20.140,20,140,peace,paix,paz,X
+20.150,20,150,army,armée,"ejército,  tropas",tróopa
+20.170,20,170,soldier,soldat,soldado-----sontaáo,X
+20.210,20,210,"weapons, arms",armes,armas,*
+20.220,20,220,club,casse-tête,"macana, garrote",X
+20.222,20,222,battle-ax,hâche d'armes,hacha de combate,----------
+20.230,20,230,sling,fronde,honda,X
+20.240,20,240,bow,arc,arco,X
+20.250,20,250,arrow,flèche,flecha,juíwam
+20.260,20,260,spear,"épieu, sagaie,  transpercer",lanza,X
+20.270,20,270,sword,épée,espada-----ejpaám,X
+20.280,20,280,"gun, cannon","fusil, canon","escopeta, canon",wíko’i
+20.310,20,310,armor (defensive),armure,armadura,*
+20.330,20,330,helmet,casque,yelmo,X
+20.340,20,340,shield,bouclier,escudo,X
+20.350,20,350,fortress,"château-fort, forteresse",fortaleza,X
+20.360,20,360,tower,tour,torre,X
+20.410,20,410,victory,victoire,victoria,X
+20.420,20,420,defeat,"défaite, déroute",derrota,kobá’awame
+20.430,20,430,attack,attaque,atacar,atakároa
+20.440,20,440,defend,défendre,defender,jínne’u
+20.450,20,450,retreat,"fuir,  battre en retraite","huir, retirarse",X
+20.460,20,460,surrender,"céder, se rendre",rendirse,X
+20.470,20,470,"prisoner, captive","prisonnier, captit","cautivo, preso----péeso, preso",péeso
+20.471,20,471,"sentinel, guard","garde, sentinelle","guardia, centinela",wáaria
+20.480,20,480,"spoils, booty","butin, dépouilles",botín,"yó’ori, tómi, kobá’ari"
+20.490,20,490,ambush,embuscade,"acechar,  emboscar",embojkároa
+20.510,20,510,fisherman,pêcheur,pescador,kuchúreo
+20.520,20,520,fishhook,hameçon,anzuelo,ansuélom
+20.530,20,530,fishing line,ligne (pour la pêche),cuerda de pescar,X
+20.540,20,540,"net (fishnet), fishnet",filet de pêche,"red, atarraya",X
+20.550,20,550,"trap (fish), fish trap",nasse,nasa,X
+20.560,20,560,bait,appât,"cebo, carnada",áwira
+20.610,20,610,hunt,chasser,cazar,aámu
+20.620,20,620,shoot,"tirer,  fusiller","tirar, disparar",X
+20.630,20,630,miss (target),"râter, manquer","errar, fallar",X
+20.640,20,640,trap (noun),piège,trampa,X
+20.650,20,650,trap (vb),prendre au piège,atrapar,X
+21.110,21,110,law,"loi,  droit",ley,lei
+21.150,21,150,court,cour,tribunal,X
+21.160,21,160,judge (vb),juger,juzgar,jusgároa
+21.170,21,170,judgment,jugement,juicio,X
+21.180,21,180,judge (noun),juge,juez,X
+21.210,21,210,plaintiff,plaignant,demandante,X
+21.220,21,220,defendant,accusé,acusado,ná’ateori
+21.230,21,230,witness,témoin,testigo,X
+21.240,21,240,swear,jurer,jurar,X
+21.250,21,250,oath,serment,juramento,X
+21.310,21,310,accuse,accuser,"acusar, denunciar",renúnsiaroa
+21.320,21,320,condemn,condamner,condenar,kondenároa
+21.330,21,330,convict (vb),inculper,"inculpar, condenar",X
+21.340,21,340,acquit,acquitter,"absolver,  exculpar",X
+21.350,21,350,guilty,coupable,culpable,X
+21.360,21,360,innocent,innocent,inocente,kaíta yá’ala
+21.370,21,370,"punishment, penalty",punition,castigo,kajtíiko
+21.380,21,380,fine,amende,multa,múlta
+21.390,21,390,"prison, jail",prison,cárcel,káasel-karsel
+21.420,21,420,murder,meurtre,asesinar,mé’a
+21.430,21,430,adultery,adultère,adulterio,X
+21.440,21,440,rape,viol,violación,X
+21.460,21,460,arson,incendie,incendio premeditado,táji
+21.470,21,470,perjury,parjure,perjurio,X
+21.510,21,510,steal,"voler, dérober",robar,X
+21.520,21,520,"thief, robber",voleur,"ladrón, ladrón-----lakrón",X
+22.110,22,110,religion,religion,religión,X
+22.120,22,120,God,Dieu,Dios,Liós
+22.130,22,130,"temple, church","temple, église",iglesia,té’opo
+22.140,22,140,altar,autel,altar,altaár
+22.150,22,150,"sacrifice, offering","sacrifice, offrande",ofrenda,X
+22.160,22,160,worship,adorer,culto,X
+22.170,22,170,pray,prier,orar-----orároa,X
+22.180,22,180,priest,"prêtre,  curé","cura,  presbítero",X
+22.190,22,190,"sacred, holy","sacré, saint",sagrado,X
+22.220,22,220,preach,prêcher,predicar,X
+22.230,22,230,bless,bénir,bendecir,bendesiároa
+22.240,22,240,curse,maudire,maldecir,X
+22.260,22,260,fast (vb),jeûner,ayunar,kaá jí’ibwa
+22.310,22,310,heaven,"ciel, cieux","cielo,  paraíso",téeka
+22.320,22,320,hell,enfer,infierno,X
+22.350,22,350,demon (evil spirit),"démon, diable",demonio,lemónio
+22.370,22,370,idol,idole,ídolo,X
+22.420,22,420,"witchcraft, magic, sorcery","magie, sorcellerie","brujería, hechicería",X
+22.430,22,430,"witch, sorcerer","sorcier, sorcière","brujo/bruja, hechicero",X
+22.440,22,440,"elf, fairy",fée,"hada, duende",choóni
+22.450,22,450,"phantom, ghost","fantôme, esprit, revenant",fantasma,mukiá
+22.470,22,470,"portent, omen","présage, augure","agüero, presagio",X
