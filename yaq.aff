@@ -1,0 +1,174 @@
+# yaqui.aff - consolidated through batch 12 (provisional; see open questions)
+SET UTF-8
+FLAG long
+TRY aeiouAEIOUbchjklmnprstwy’
+WORDCHARS ’-
+
+# Canonicalize glottal stop variants to U+2019
+ICONV 2
+ICONV ' ’
+ICONV ʼ ’
+
+# ---- Tense / mood ----
+# Future -ne (jia -> jiune is per-stem via Fu)
+SFX Fn Y 1
+SFX Fn 0 ne . is:FUT
+SFX Fu N 1
+SFX Fu a une ia is:FUT
+# -na: exhortative future
+SFX Fx N 1
+SFX Fx 0 na . is:FUT.EXH
+# Past continuous -(V)n: -n after vowel, -an after consonant (default)
+SFX Ip N 2
+SFX Ip 0 n  [aeiou]  is:PST.CONT
+SFX Ip 0 an [^aeiou] is:PST.CONT
+# Same slot for stems taking -en
+SFX Ie N 1
+SFX Ie 0 en [^aeiou] is:PST.CONT
+# -n: passive/irrealis reading (nu’u-n-na) - OPEN QUESTION
+SFX Pn N 1
+SFX Pn 0 n/Fx . is:PASS
+# -kan: past imperfective
+SFX Kn N 1
+SFX Kn 0 kan . is:PST.IPFV
+# -k / -ka: perfective
+SFX Pf N 2
+SFX Pf 0 k/Co  . is:PST.PFV
+SFX Pf 0 ka/Rl . is:PST.PFV
+# -o: conditional (after -k)
+SFX Co N 1
+SFX Co 0 o . is:COND
+# -tek: subjunctive
+SFX Te N 1
+SFX Te 0 tek . is:SBJV
+# -tea: quotative
+SFX Qt N 1
+SFX Qt 0 tea . is:QUOT
+
+# ---- Verb derivation ----
+# -bae: desiderative/intentive
+SFX Ba N 1
+SFX Ba 0 bae . ds:DES
+# -'ea / -'i'a: desiderative (me’a -> me’ea, toja -> toi’i’a)
+SFX Ea N 2
+SFX Ea a ea/Ip ’a ds:DES
+SFX Ea 0 ’ea/Ip [^a] ds:DES
+SFX Di N 2
+SFX Di ja i’i’a/Ip ja ds:DES
+SFX Di 0 ’i’a/Ip [^a] ds:DES
+# -bo / -bu: exhortative
+SFX Bo N 1
+SFX Bo 0 bo a ds:EXH
+SFX Bu N 1
+SFX Bu 0 bu . ds:EXH
+# -bok: propositive plural
+SFX Bk N 1
+SFX Bk 0 bok . ds:PROP.PL
+# -wa: passive (verbs)
+SFX Pw N 1
+SFX Pw 0 wa . is:PASS
+# -yaate: cessative
+SFX Ya N 1
+SFX Ya 0 yaate . ds:CESS
+# -tua: causative (epenthetic i)
+SFX Tu N 2
+SFX Tu 0 itua [^aeiou] ds:CAUS
+SFX Tu 0 tua  [aeiou]  ds:CAUS
+# -tebo: indirect causative
+SFX Tb N 1
+SFX Tb 0 tebo/Pf . ds:CAUS.IND
+# -taka / -taite: inchoative
+SFX Tk N 2
+SFX Tk 0 taka  . ds:INCH
+SFX Tk 0 taite . ds:INCH
+# -tu: verbalizer
+SFX Vz N 1
+SFX Vz 0 tu/KnEs . ds:VBZ
+# -te: intransitive verbalizer
+SFX Vi N 1
+SFX Vi 0 te . ds:VBZ.INTR
+# -roa: verbalizer for loan stems
+SFX Ro N 1
+SFX Ro 0 roa/Sa . ds:VBZ
+# -sae / -sai: ordenative
+SFX Sa N 2
+SFX Sa 0 sae . ds:ORD
+SFX Sa 0 sai/Pw . ds:ORD
+
+# ---- Adjectival / relativizing ----
+# -’a: verb/noun -> adjective
+SFX Ga N 1
+SFX Ga 0 ’a . ds:ADJZ
+# -’V: reduplicative, vowel copies stem-final vowel
+SFX Rd N 5
+SFX Rd 0 ’a a ds:RED
+SFX Rd 0 ’e e ds:RED
+SFX Rd 0 ’i i ds:RED
+SFX Rd 0 ’o o ds:RED
+SFX Rd 0 ’u u ds:RED
+# -la / -lai: adjective marker
+SFX La N 2
+SFX La 0 la/AcVz . ds:ADJ
+SFX La 0 lai/Ac  . ds:ADJ
+# -ila: same morph on e-final roots (womte -> womtilatukan)
+SFX Li N 1
+SFX Li 0 ila/AcVz [^aeiou] ds:ADJ
+# -ka: estativizer
+SFX Es N 1
+SFX Es 0 ka/RlRv . ds:ESTV
+# -me: relativizer
+SFX Rl N 1
+SFX Rl 0 me/AcDu . ds:REL
+# -’u: relativizer after vowel / -ka
+SFX Rv N 1
+SFX Rv 0 ’u . ds:REL
+# -’u on nuk (k drops): nuk -> nu’u
+SFX Ru N 1
+SFX Ru k ’u/BkPnFx k ds:REL
+
+# ---- Nominal ----
+# Plural -m, epenthetic -i- after l/r
+SFX Pm N 2
+SFX Pm 0 m  [aeiou] is:PL
+SFX Pm 0 im [lr]    is:PL
+# -me: plural derivational (juna-me-’e)
+SFX Pe N 1
+SFX Pe 0 me/Rd . ds:PL
+# Genitive -wa/-wai
+SFX Ps N 2
+SFX Ps 0 wa/Pm  . is:GEN
+SFX Ps 0 wai/Pm . is:GEN
+# -ta: accusative
+SFX Ac N 1
+SFX Ac 0 ta/Du . is:ACC
+# -u / -wi: directional
+SFX Du N 2
+SFX Du 0 u  . is:DIR
+SFX Du 0 wi . is:DIR
+# -t / -chi: locative
+SFX Lt N 2
+SFX Lt 0 t   . is:LOC
+SFX Lt 0 chi . is:LOC
+# -po: locative (provisional)
+SFX Lo N 1
+SFX Lo 0 po . is:LOC
+# Instrumental -e after a/i (other allomorphs pending)
+SFX In N 1
+SFX In 0 e [ai] is:INST
+# -ra: augmentative
+SFX Ra N 1
+SFX Ra 0 ra . ds:AUG
+
+# ---- Stem alternations ----
+# Citation form (bit -> bichaa)
+SFX Ci N 1
+SFX Ci t chaa t is:CIT
+# Citation doubling (monosyllabic placeholder: a -> aa)
+SFX Db N 1
+SFX Db 0 a a is:CIT
+# Free-form epenthetic e (wik -> wike)
+SFX Fe N 1
+SFX Fe 0 e [^aeiou] .
+# Free variant i (bwis -> bwisi)
+SFX Fi N 1
+SFX Fi 0 i [^aeiou] .
