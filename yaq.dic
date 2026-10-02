@@ -33,7 +33,6 @@ bem po:pron
 itom po:pron
 ne po:pron
 empo po:pron
-mala/PsPm po:noun
 papa/PsPm po:noun
 yoowa/PsPm po:noun
 baakot/Ac po:noun
@@ -66,3 +65,13 @@ into po:conj
 bwe po:conj
 intuchi po:conj
 bwe’ituk po:conj
+mala/PsPmDt po:noun
+kabe/Dt po:pron
+uusi/Pm po:noun
+jiawa/Pf po:verb
+empalme/Lo po:noun
+joa/Pf po:verb
+jooa/Pf po:verb
+nuen po:adv
+junueni po:adv
+tea po:part

@@ -145,10 +145,31 @@ SFX Ac 0 ta/Du . is:ACC
 SFX Du N 2
 SFX Du 0 u  . is:DIR
 SFX Du 0 wi . is:DIR
-# -t / -chi: locative
+# -t / -chi: locative/directional; interrogative may follow (REPLACES Lt)
 SFX Lt N 2
-SFX Lt 0 t   . is:LOC
-SFX Lt 0 chi . is:LOC
+SFX Lt 0 t/Qs   . is:LOC
+SFX Lt 0 chi/Qs . is:LOC
+
+# -su: completive, verbs only
+SFX Cm N 1
+SFX Cm 0 su . ds:CMPL
+
+# -sa / -su: interrogative, non-verb nuclei
+SFX Qs N 2
+SFX Qs 0 sa . is:INT
+SFX Qs 0 su . is:INT
+
+# -be: comparative
+SFX Cb N 1
+SFX Cb 0 be . ds:CMPR
+
+# -(b)eu / -(b)ewi: dative on personal pronouns
+# eu/ewi after consonant is attested (am -> ameu); beu/bewi after vowel is my INFERENCE
+SFX Bd N 4
+SFX Bd 0 eu   [^aeiou] is:DAT
+SFX Bd 0 ewi  [^aeiou] is:DAT
+SFX Bd 0 beu  [aeiou]  is:DAT
+SFX Bd 0 bewi [aeiou]  is:DAT
 # -po: locative (provisional)
 SFX Lo N 1
 SFX Lo 0 po . is:LOC

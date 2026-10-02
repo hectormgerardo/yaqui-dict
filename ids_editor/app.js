@@ -162,6 +162,7 @@ function renderChapters() {
     };
     list.append(button);
   }
+  $("addElementButton").disabled = selectedChapter === "all";
 }
 
 function renderEntries() {
@@ -438,6 +439,51 @@ function openJsonFile(file) {
   reader.readAsText(file);
 }
 
+function addElement() {
+  if (selectedChapter === "all") {
+    $("status").textContent = "Select a chapter before adding an element.";
+    return;
+  }
+
+  const chapter = chapters.find(item => item.category === selectedChapter);
+  if (!chapter) {
+    $("status").textContent = "Chapter is missing from chapters.json.";
+    return;
+  }
+
+  const group = getCollection()[selectedChapter] || {};
+  const maximum = chapter.element_count;
+
+  // Find the first unused three-digit ID within this chapter's allowed range.
+  let nextNumber = 1;
+  while (nextNumber <= maximum && group[String(nextNumber).padStart(3, "0")]) {
+    nextNumber++;
+  }
+
+  if (nextNumber > maximum || nextNumber > 999) {
+    $("status").textContent =
+      `${chapter.name} is full; its limit is ${maximum} elements.`;
+    return;
+  }
+
+  const elementId = String(nextNumber).padStart(3, "0");
+
+  data.words_collection ??= {};
+  data.words_collection[selectedChapter] ??= {};
+  data.words_collection[selectedChapter][elementId] = {
+    en: "",
+    fr: "",
+    es: "",
+    yaq: "X"
+  };
+
+  selectedId = `${selectedChapter}.${elementId}`;
+  activeField = "en";
+  setDirty();
+  render();
+  $("fieldEditor")?.focus();
+}
+
 $("openButton").onclick = () => $("fileInput").click();
 
 $("fileInput").onchange = event => {
@@ -463,6 +509,7 @@ $("search").oninput = renderEntries;
 $("completeness").onchange = renderEntries;
 $("sort").onchange = renderEntries;
 $("chapterSearch").oninput = renderChapters;
+$("addElementButton").onclick = addElement;
 
 (async function start() {
   try {

@@ -294,7 +294,27 @@
       .workspace { grid-template-columns: 1fr; }
       .entry-list { max-height: 230px; }
       .editor { padding: 17px; }
-    }
+      .entries-heading {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 8px;
+      }
+
+      .entries-heading .side-title {
+        margin-bottom: 10px;
+      }
+
+      #addElementButton {
+        margin-bottom: 10px;
+        padding: 6px 9px;
+        font: 12px Arial, sans-serif;
+      }
+
+      #addElementButton:disabled {
+        cursor: not-allowed;
+        opacity: 0.5;
+      }
   </style>
 </head>
 <body>
@@ -337,11 +357,17 @@
       <div class="result-line" id="resultCount"></div>
 
       <div class="workspace">
-        <section>
+<!--         <section>
           <div class="side-title">Entries</div>
           <div id="entryList" class="entry-list"></div>
+        </section> -->
+        <section>
+          <div class="entries-heading">
+            <div class="side-title">Entries</div>
+            <button id="addElementButton" type="button">+ Add element</button>
+          </div>
+          <div id="entryList" class="entry-list"></div>
         </section>
-
         <section id="editorArea"></section>
       </div>
     </main>
